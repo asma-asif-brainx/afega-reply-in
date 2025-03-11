@@ -159,6 +159,14 @@
     background-color: #2980b9;
   }
 
+  .email-success-message {
+    color: #2ecc71;
+    display: none;
+    font-size: 15px;
+    font-weight: 600;
+    width: 100%;
+  }
+
   .substances-note{
     font-size: 12px;
     font-weight: 500;
@@ -272,8 +280,8 @@
         <strong>Notiz:</strong> Bitte beantworten Sie mindestens 50 Fragen, um ein sinnvolles Resultat zu erhalten.
         {% unless customer %}
           <br>
-          Wenn Sie das Testergebnis auch per Email erhalten wollen, bitte <a href="{{ routes.account_login_url }}"><strong>einloggen.</strong></a
-          >
+          Wenn Sie das Testergebnis auch per Email erhalten wollen, bitte
+          <a href="{{ routes.account_login_url }}"><strong>einloggen.</strong></a>
         {% endunless %}
       </p>
     </div>
@@ -312,13 +320,16 @@
       <p class="substances-note"></p>
       <div
         class="quiz-thankyou-buttons"
-        style="display:flex; gap:15px; flex-wrap: wrap ;justify-content:center; align-items:center"
+        style="display:flex; gap:15px; flex-wrap: wrap ;justify-content:center; align-items:center; flex-direction: column"
       >
-        <button class="thankyou-button">Sehen Sie sich Ihre Empfehlungen an</button>
+        <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
+          <button class="thankyou-button">Sehen Sie sich Ihre Empfehlungen an</button>
 
-        {% if customer %}
-          <button class="quiz-result-email-button">Erhalten Sie Ergebnisse per E-Mail</button>
-        {% endif %}
+          {% if customer %}
+            <button class="quiz-result-email-button">Erhalten Sie Ergebnisse per E-Mail</button>
+            <div class="email-success-message">E-Mail wurde erfolgreich versendet!</div>
+          {% endif %}
+        </div>
       </div>
     </div>
   </div>
@@ -327,7 +338,7 @@
   %}
 
   <script>
-      var questions = {{questions }};
+      var questions = {{ questions }};
       var allProducts = {{ all_products | raw }};
 
       let userLanguage = "{{ user_language }}"; 
@@ -335,7 +346,7 @@
 
       let currentPage = 0;
       let selectedAnswers = [];
-      const requiredAnswers = 50;
+      const requiredAnswers = 5;
       const questionsPerPage = 25;
       let questionSets = [];
 
@@ -566,8 +577,14 @@
       }
 
       function postData(substances,  productsData, userLanguage) {
+        {% if customer %}
+          let customerEmail = "{{ customer.email }}";
+        {% else %}
+            let customerEmail = null;
+        {% endif %}
+      
         console.log("substances", substances , "productsData" , productsData, "userLanguage", userLanguage); 
-        const url = 'https://script.google.com/macros/s/AKfycby-x--mrSMVFZXSC25HYzWAxqnhEFkLKPYuKAaOvVfJLoeNyWg3z-Rnw47q8mWBb_8nuQ/exec';
+        const url = 'https://script.google.com/macros/s/AKfycbw-VqlJNU-gjLKXYUHqZmhOMIiH-Br9EnDoRQKZKaVNhLC9usjCamBR_Tho5LhjFXVJxQ/exec';
         
         const formattedProducts = productsData.map(product => ({
           title: product.title,
@@ -577,7 +594,8 @@
         const dataToSend = {
             substances: substances,
             productsData: formattedProducts,
-            userLanguage: userLanguage
+            userLanguage: userLanguage,
+            customerEmail: customerEmail
         };
   
         const response =  fetch(url, {
@@ -612,7 +630,7 @@
       function sendCustomerQuizData(substances,  productsData, customerEmail) {
         console.log("substances", substances , "productsData" , productsData, "customerEmail", customerEmail, "userLanguage", userLanguage); 
       
-        const url = 'https://script.google.com/macros/s/AKfycbxozDk_tros2tLyZxJnhwGGpDPh0iw2HMTrvauMHzA6QEW8SvA1yUxQrPPSSlEjeEkZSg/exec';
+        const url = 'https://script.google.com/macros/s/AKfycbzaJEb_QQ_qcyLYcE2bEWbgq8EG5iNW3U6kt0WNJZHRyGpFeNXN_R2WbnE1X2tcyD8x/exec';
         
         const formattedProducts = productsData.map(product => ({
           title: product.title,
@@ -626,12 +644,18 @@
             userLanguage: userLanguage
         };
   
-        const response =  fetch(url, {
+        fetch(url, {
           method: "POST",
           body: JSON.stringify(dataToSend),
           headers: {
             "Content-Type": "text/plain;charset=utf-8",
           }
+        }).then(() => {
+          // Show success message and hide email button
+          const successMessage = document.querySelector('.email-success-message');
+          const emailButton = document.querySelector('.quiz-result-email-button');
+          successMessage.style.display = 'block';
+          emailButton.style.display = 'none';
         }); 
       }
   </script>
