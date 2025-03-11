@@ -1,0 +1,188 @@
+<script>
+  const eu_vat_countries = [
+  "AT",
+  "BE",
+  "BG",
+  "HR",
+  "CY",
+  "CZ",
+  "DK",
+  "EE",
+  "FI",
+  "FR",
+  "DE",
+  "EL",
+  "HU",
+  "IE",
+  "IT",
+  "LV",
+  "LT",
+  "LU",
+  "MT",
+  "NL",
+  "PL",
+  "PT",
+  "RO",
+  "SK",
+  "SI",
+  "ES",
+  "SE",
+  "XI",
+  "EU",
+];
+const oo_shop_id = "86532620621";
+
+async function getHTML() {
+  const shopLocale = "{{ localization.language.iso_code }}";
+  const url = `https://apps.onlineorigins.nl/dashboard/tax-exemption/content/?shop_id=${oo_shop_id}&shop_locale=${shopLocale}`;
+
+  try {
+    const response = await fetch(url, { method: "get" });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! Status: ${response.status}`);
+    }
+
+    const htmlContent = await response.text();
+    return htmlContent;
+  } catch (error) {
+    throw error;
+  }
+}
+
+async function initializeTaxExemption() {
+  const checkoutButton = document.querySelector(".cart__ctas");
+  const taxExemptionHtml = document.querySelector("#ooTaxExemption");
+
+  const newHTML = await getHTML();
+
+  if (taxExemptionHtml) {
+    taxExemptionHtml.innerHTML = newHTML;
+  } else if (checkoutButton) {
+    checkoutButton.insertAdjacentHTML("beforebegin", newHTML);
+  }
+
+  // Get references to the input elements and error message span
+  const emailInput = document.getElementById("oo_exemption_email");
+  const vatNumberInput = document.getElementById("oo_vat_number");
+  const verifyButton = document.getElementById("verifyButton");
+  const ooInputError = document.getElementById("oo-tax-error-message");
+
+  // Add click event listener to the button
+  verifyButton.addEventListener("click", verifyInputs);
+
+  function verifyInputs() {
+    // Check if both inputs are filled
+    if (emailInput.value !== "" && vatNumberInput.value !== "") {
+      ooInputError.textContent = "";
+      const validEmail = checkEmail();
+
+      if (validEmail) {
+        checkVATNumber();
+      }
+    } else {
+      ooInputError.textContent = "Please fill in both fields";
+      document.getElementById("oo-tax-succes").style.display = "none";
+    }
+  }
+
+  function checkEmail() {
+    const emailValue = emailInput.value;
+    const emailFormat = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/.test(
+      emailValue
+    );
+
+    if (emailValue !== "") {
+      if (emailFormat) {
+        ooInputError.textContent = "";
+        return true;
+      } else {
+        ooInputError.textContent = "Invalid email address";
+        return false;
+      }
+    }
+  }
+
+  function checkVATNumber() {
+    const shopCountry = "DE";
+    const inputData = {
+      vat_number: vatNumberInput.value,
+      customer_email: emailInput.value,
+      shop_id: oo_shop_id,
+      shop_country: shopCountry,
+    };
+    sendDataToExternalURL(inputData);
+  }
+}
+
+// Add the event listener that calls our initialization function
+document.addEventListener("DOMContentLoaded", initializeTaxExemption);
+document.addEventListener("cart-updated", () => {
+  const ooWidget = document.getElementById("oo-tax-exemption");
+  if (ooWidget) return;
+
+  initializeTaxExemption();
+});
+
+function sendDataToExternalURL(data) {
+  const externalURL =
+    "https://apps.onlineorigins.nl/dashboard/tax-exemption/validate-vat-number/";
+  const loader = document.getElementById("loader");
+  const taxExemptionElement = document.getElementById("oo-tax-exemption");
+  const taxExemptionSucces = document.getElementById("oo-tax-succes");
+  const vat_number = data["vat_number"];
+
+  loader.style.display = "block";
+
+  fetch(externalURL, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(data),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      const vatNumberError = document.getElementById("oo-tax-error-message");
+
+      if (data["VATNumber"] === "ok") {
+        const exemptionEmail = document.getElementById("oo_exemption_email");
+        if (exemptionEmail.value) {
+          const cartForms = document.forms;
+          for (let i = 0; i < cartForms.length; i++) {
+            if (cartForms[i].action.includes("/cart")) {
+              cartForms[i].action += `?checkout[email]=${exemptionEmail.value}`;
+            }
+          }
+        }
+        vatNumberError.textContent = "";
+        taxExemptionElement.style.display = "none";
+        taxExemptionSucces.style.display = "flex";
+
+        const formData = new FormData();
+        formData.append("attributes[OO Tax Exemption]", "Yes");
+        formData.append("attributes[Vat Number]", vat_number);
+
+        fetch(window.Shopify.routes.root + "cart/update.js", {
+          method: "POST",
+          body: formData,
+        });
+      } else if (data["VATNumber"] === "same") {
+        vatNumberError.textContent = "VAT number is same country as webshop";
+      } else {
+        vatNumberError.textContent = "Invalid VAT number";
+        taxExemptionSucces.style.display = "none";
+      }
+    })
+    .catch((error) => {
+      const vatNumberError = document.getElementById("oo-tax-error-message");
+      vatNumberError.textContent =
+        "Please try again, the EU API was overloaded.";
+      console.error("Error:", error);
+    })
+    .finally(() => {
+      loader.style.display = "none";
+    });
+}
+
+</script>

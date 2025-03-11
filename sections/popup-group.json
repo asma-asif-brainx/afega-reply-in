@@ -1,0 +1,48 @@
+{
+  "name": "Pop-ups",
+  "type": "aside",
+  "sections": {
+    "promo-pop": {
+      "type": "promo-pop",
+      "disabled": true,
+      "settings": {
+        "enable_newsletter": false,
+        "title": "",
+        "text": "<p>Testbetrieb : <\/p>",
+        "link_title": "AFEGA® VITAL-CHECK",
+        "link": "shopify:\/\/pages\/quiz-recommendation",
+        "delay": 1,
+        "expiry": 7
+      }
+    },
+    "promo_pop_bFMetp": {
+      "type": "promo-pop",
+      "disabled": true,
+      "settings": {
+        "enable_newsletter": false,
+        "title": "ACHTUNG",
+        "text": "<p>Aufgrund technischer Probleme bei der Berechnung der länderspezfischen Mehrwertsteuer können bis Montagnachmittag keine Bestellungen mit Lieferadressen in der EU (D ausgenommen) aufgegeben werden.<\/p>",
+        "link_title": "",
+        "link": "shopify:\/\/pages\/quiz-recommendation",
+        "delay": 1,
+        "expiry": 7
+      }
+    },
+    "age-checker": {
+      "type": "age-checker",
+      "disabled": true,
+      "settings": {
+        "title": "Age verification",
+        "text": "<p>By clicking enter you are verifying that you are old enough to consume alcohol.<\/p>",
+        "enter_btn_label": "Enter",
+        "leave_btn_label": "Leave",
+        "leave_link": ""
+      }
+    }
+  },
+  "order": [
+    "promo-pop",
+    "promo_pop_bFMetp",
+    "age-checker"
+  ]
+}

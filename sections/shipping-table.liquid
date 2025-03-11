@@ -1,0 +1,107 @@
+{% schema %}
+{
+  "name": "Shipping Payment Table",
+  "settings": [],
+  "blocks": [
+    {
+      "type": "row",
+      "name": "Shipping Row",
+      "settings": [
+        {
+          "type": "text",
+          "id": "country",
+          "label": "Lieferland",
+          "default": "Andorra"
+        },
+        {
+          "type": "textarea",
+          "id": "shipping_cost",
+          "label": "Versandkosten",
+          "default": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg"
+        },
+        {
+          "type": "text",
+          "id": "additional_time",
+          "label": "Zusätzliche max. Lieferzeit",
+          "default": "3-5 business days"
+        },
+        {
+          "type": "textarea",
+          "id": "payment_methods",
+          "label": "Zahlungsweisen",
+          "default": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance/bank transfer\nBitcoin (5% special bitcoin discount)"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Shipping Table"
+    }
+  ]
+}
+{% endschema %}
+
+<div class="shipping-table container">
+  {% for block in section.blocks %}
+    <div class="shipping-payment-block">
+      <div class="row">
+        <div class="col-xs-6 info">Lieferland</div>
+        <div class="col-xs-6">{{ block.settings.country }}</div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 info">Versandkosten</div>
+        <div class="col-xs-6">
+          {{ block.settings.shipping_cost | newline_to_br }}
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 info">Zusätzliche max. Lieferzeit</div>
+        <div class="col-xs-6">{{ block.settings.additional_time }}</div>
+      </div>
+      <div class="row">
+        <div class="col-xs-6 info">Zahlungsweisen</div>
+        <div class="col-xs-6">
+          {{ block.settings.payment_methods | newline_to_br }}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+  .shipping-table {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  .shipping-payment-block {
+    width: 50%;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  .shipping-payment-block .row {
+    display: flex;
+    margin-bottom: 10px;
+  }
+  .shipping-payment-block .info {
+    font-weight: bold;
+    flex: 1;
+    text-transform: capitalize;
+  }
+  .shipping-payment-block .col-xs-6 {
+    flex: 1;
+  }
+  @media (max-width: 767px) {
+    .shipping-table {
+      flex-direction: column;
+    }
+    .shipping-payment-block {
+      width: 100%;
+    }
+  }
+</style>

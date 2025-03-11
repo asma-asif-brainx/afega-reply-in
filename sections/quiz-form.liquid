@@ -1,0 +1,669 @@
+<style>
+  input[type='radio']:checked + span::before {
+    content: '✓';
+    color: white;
+    background: #007bff;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    right: 5px;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  .quiz-container {
+    width: 70%;
+    background: white;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  h2 {
+    text-align: center;
+    color: #333;
+  }
+  .quiz-container-heading-main {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 15px;
+  }
+  .question-item{
+    margin-bottom: 25px;
+  }
+  .question-item:last-child {
+    border-bottom: none;
+  }
+  .question-label {
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: block;
+    font-weight: bold;
+  }
+  .options {
+    display: flex;
+    gap: 15px;
+  }
+  .option-label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    border: 1px solid #dbdbdb;
+    border-radius: 5px;
+    cursor: pointer;
+    position: relative;
+    width: 364px;
+  }
+  input[type='radio'] {
+    display: none;
+  }
+  input[type='radio']:checked + span {
+    border-radius: 5px;
+  }
+  .navigation {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  button {
+    padding: 10px 20px;
+    border: none;
+    background: #007bff;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  button:disabled {
+    background: #ccc;
+    cursor: not-allowed;
+  }
+  .submit-section {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction:column;
+  }
+  .submit-section #submit-btn{
+    width: 100%;
+  }
+  .outer-form p , .submit-50-quest-note{
+    color: #BD3D44;
+  }
+  .outer-form {
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 20px;
+  }
+  .quiz-container-heading {
+    max-width: 469px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: left;
+  }
+  .submit-50-quest-note {
+    max-width: 680px;
+  }
+
+  {% comment %} Thank you page  {% endcomment %}
+
+  .thankyou-container {
+    display:none;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: white;
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  .thankyou-container .icon {
+    font-size: 40px;
+    color: #2ecc71;
+  }
+  .thankyou-container h2 {
+    font-size: 22px;
+    color: #333;
+    margin: 10px 0;
+  }
+  .thankyou-container p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .thankyou-container button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .thankyou-container button:hover {
+    background-color: #2980b9;
+  }
+
+  .substances-note{
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0px;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 980px){
+    .inner-thankyou, .thankyou-container{
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    .thankyou-container
+    {
+      padding: 10px;
+    }
+    .quiz-container, .outer-form, .submit-section{
+      width: 80%;
+    }
+    .submit-50-quest-note{
+      max-width: 100%;
+      font-size: 13px;
+    }
+    .question-label{
+      font-size: 15px
+    }
+    .option-label{
+      font-size: 15px;
+    }
+  }
+
+  @media screen and (max-width: 767px){
+    input[type='radio']:checked + span::before{
+      width: 17px;
+      height: 17px;
+      right: 3px;
+      top: 25%;
+    }
+    .quiz-container, .outer-form, .submit-section{
+      width: 90%;
+    }
+    .quiz-container-heading{
+      font-size: 14px;
+    }
+    .question-label, .option-label{
+      font-size: 12px;
+      padding:0  7px ;
+    }
+    .submit-50-quest-note{
+      font-size: 12px;
+    }
+    .outer-form h2{
+      font-size: 14px;
+      margin-bottom: 10px;
+    }
+    .outer-form p{
+      font-size: 10px;
+      margin-bottom: 10px;
+    }
+    .inner-thankyou, .thankyou-container{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    .thankyou-container .icon {
+      font-size: 20px;
+    }
+    .inner-thankyou {
+      margin-top: 20px !important;
+      margin-bottom: 20px !important;
+    }
+    .inner-thankyou h2{
+      font-size: 18px;
+    }
+    .inner-thankyou p{
+     font-size: 14px;
+    }
+  }
+</style>
+
+<body>
+  {% capture questions %}
+      [
+        {% paginate page.metafields.custom.questions.value by 999 %}
+          {% for question in page.metafields.custom.questions.value %}
+            {{ question | json }}
+            {%- if forloop.last == false %},{% endif %}
+          {% endfor %}
+        {% endpaginate %}
+      ]
+    {% endcapture %}
+
+  {% capture all_products %}
+      [
+        {% paginate collections.all.products by 999 %}
+          {% for product in collections.all.products %}
+            {
+              "url": "{{ product.url }}",
+              "title": "{{ product.title | escape | replace: '"', '\"' }}",
+              "substances": "{{ product.metafields.custom.product_substances.value }}"
+            }
+            {% unless forloop.last %},{% endunless %}
+          {% endfor %}
+        {% endpaginate %}
+      ]
+    {% endcapture %}
+
+  <div class="quiz-form-main">
+    <div class="outer-form">
+      <h2>AFEGA® Vital-Check</h2>
+      <p>
+        <strong>Notiz:</strong> Bitte beantworten Sie mindestens 50 Fragen, um ein sinnvolles Resultat zu erhalten.
+        {% unless customer %}
+          <br>
+          Wenn Sie das Testergebnis auch per Email erhalten wollen, bitte <a href="{{ routes.account_login_url }}"><strong>einloggen.</strong></a
+          >
+        {% endunless %}
+      </p>
+    </div>
+
+    <div class="quiz-container">
+      <div class="quiz-container-heading-main">
+        <h2 class="quiz-container-heading">
+          Die Fragen müssen nicht in der hier angegebenen Reihenfolge beantwortet werden
+        </h2>
+      </div>
+      <div id="questions-container"></div>
+
+      <div class="navigation">
+        <button id="prev-btn" onclick="prevPage()" disabled>Vorherige</button>
+        <button id="next-btn" onclick="nextPage()">Nächste</button>
+      </div>
+    </div>
+    <div class="submit-section">
+      <button id="submit-btn" onclick="submitQuiz()" disabled>Senden Sie Ihr Formular</button>
+      <p class="submit-50-quest-note">
+        Nachdem Sie insgesamt 50 Fragen beantwortet haben, erhalten Sie die Möglichkeit, ein erstes Zwischenergebnis
+        einzusehen. Anschließend können Sie nach der Beantwortung weiterer Fragen beobachten, wie sich die Empfehlungen
+        verändern.
+      </p>
+    </div>
+  </div>
+
+  <div class="thankyou-container">
+    <div class="inner-thankyou" style="max-width:578px; margin:auto;  margin-top: 50px ; margin-bottom: 50px">
+      <div class="icon">✅</div>
+      <h2>Danke</h2>
+      <p>
+        Ihr Formular wurde erfolgreich übermittelt. Basierend auf Ihren Antworten haben wir die Top-Empfehlungen für Sie
+        ermittelt.
+      </p>
+      <p class="substances-note"></p>
+      <div
+        class="quiz-thankyou-buttons"
+        style="display:flex; gap:15px; flex-wrap: wrap ;justify-content:center; align-items:center"
+      >
+        <button class="thankyou-button">Sehen Sie sich Ihre Empfehlungen an</button>
+
+        {% if customer %}
+          <button class="quiz-result-email-button">Erhalten Sie Ergebnisse per E-Mail</button>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+  {%- liquid
+    assign user_language = localization.language.iso_code
+  %}
+
+  <script>
+      var questions = {{questions }};
+      var allProducts = {{ all_products | raw }};
+
+      let userLanguage = "{{ user_language }}"; 
+      console.log("Detected Language:", userLanguage);
+
+      let currentPage = 0;
+      let selectedAnswers = [];
+      const requiredAnswers = 50;
+      const questionsPerPage = 25;
+      let questionSets = [];
+
+      // Initialize question sets once
+      function initializeQuestionSets() {
+        for (let i = 0; i < questions.length; i += questionsPerPage) {
+          const questionSet = questions.slice(i, i + questionsPerPage).map((question, index) => {
+            const absoluteIndex = i + index;
+            return `
+              <div class="question-item">
+                <label class="question-label">Q-${absoluteIndex + 1}: ${question.question}</label>
+                <div class="options">
+                    <label class="option-label">
+                        <input type="radio" name="q-${absoluteIndex}" value="3" ${Object.entries(question).map(([key, value]) => {
+                            return `data-${key}="${3 * value}"`;
+                        }).join(' ')} onclick="handleRadioClick(this, ${absoluteIndex}, 3)">
+                        <span>✅ Ja</span>
+                    </label>
+                    <label class="option-label">
+                        <input type="radio" name="q-${absoluteIndex}" value="2" ${Object.entries(question).map(([key, value]) => {
+                            return `data-${key}="${2 * value}"`;
+                        }).join(' ')}  onclick="handleRadioClick(this, ${absoluteIndex}, 2)">
+                        <span>🤔 Manchmal / Vielleicht </span>
+                    </label>
+                    <label class="option-label">
+                        <input type="radio" name="q-${absoluteIndex}" value="1" ${Object.entries(question).map(([key, value]) => {
+                            return `data-${key}="${1 * value}"`;
+                        }).join(' ')}  onclick="handleRadioClick(this, ${absoluteIndex}, 1)">
+                        <span>❌ NEIN</span>
+                    </label>
+                </div>
+              </div>
+            `;
+          }).join('');
+          questionSets.push(questionSet);
+        }
+      }
+
+      function handleRadioClick(radio, index, weight) {
+        if (radio.checked && selectedAnswers[index] === weight) {
+          // If clicking already selected radio, uncheck it
+          radio.checked = false;
+          selectedAnswers[index] = undefined;
+        } else {
+          // Normal radio selection behavior
+          saveAnswer(index, weight);
+        }
+        updateSubmitButton();
+      }
+
+      function renderQuestions() {
+        const container = document.getElementById('questions-container');
+        container.innerHTML = questionSets[currentPage];
+        
+        // Restore any previously selected answers
+        for (let i = currentPage * questionsPerPage; i < (currentPage + 1) * questionsPerPage; i++) {
+          if (selectedAnswers[i] !== undefined) {
+            const radio = document.querySelector(`input[name="q-${i}"][value="${selectedAnswers[i]}"]`);
+            if (radio) radio.checked = true;
+          }
+        }
+      }
+
+      function saveAnswer(index, weight) {
+        selectedAnswers[index] = weight;
+        updateSubmitButton();
+      }
+
+      function updateSubmitButton() {
+        const totalAnswered = selectedAnswers.filter((ans) => ans !== undefined).length;
+        document.getElementById('submit-btn').disabled = totalAnswered < requiredAnswers;
+      }
+
+      function nextPage() {
+        if (currentPage < questionSets.length - 1) {
+          currentPage++;
+          renderQuestions();
+          updateButtons();
+            // Scroll to absolute top of page
+            window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
+        }
+      }
+
+      function prevPage() {
+        if (currentPage > 0) {
+          currentPage--;
+          renderQuestions();
+          updateButtons();
+            // Scroll to absolute top of page
+            window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
+        }
+      }
+
+      function updateButtons() {
+        document.getElementById('prev-btn').disabled = currentPage === 0;
+        document.getElementById('next-btn').disabled = currentPage >= questionSets.length - 1;
+      }
+
+      // Initialize the question sets and render first page
+      initializeQuestionSets();
+      renderQuestions();
+      updateButtons();
+
+      function submitQuiz() {
+        let totalScores = {};
+        let substanceOccurrences = {};
+    
+        // Loop through each question index
+        for (let i = 0; i < questions.length; i++) {
+          const checkedInput = document.querySelector(`input[name="q-${i}"]:checked`);
+          if (checkedInput) {
+            for (const key in checkedInput.dataset) {
+              const value = parseFloat(checkedInput.dataset[key]) || 0;
+              if (!totalScores[key]) {
+                totalScores[key] = 0;
+                substanceOccurrences[key] = 0;
+              }
+              totalScores[key] += value;
+              substanceOccurrences[key]++;
+            }
+          }
+        }
+    
+        // Sort substances by total score descending, then by occurrences, then alphabetically
+        const sortedSubstances = Object.entries(totalScores)
+          .sort((a, b) => {
+            if (b[1] !== a[1]) return b[1] - a[1];
+            if (substanceOccurrences[b[0]] !== substanceOccurrences[a[0]]) {
+              return substanceOccurrences[b[0]] - substanceOccurrences[a[0]];
+            }
+            return a[0].localeCompare(b[0]);
+          })
+          .slice(0, 5); 
+
+        window.resultMessage = sortedSubstances.map(([substance]) => substance.toLowerCase().replace(/[^a-zA-Z0-9]/g, "_"));
+
+        var substancesSet = new Set();
+
+        function addSubstance(substance) {
+            substancesSet.add(substance);
+            let substancesString = Array.from(substancesSet).join(", "); 
+            return substancesString;
+        }
+
+
+        // Filter products based on matching substances
+        var matchingProducts = allProducts.filter(product => {
+          if (!product.substances || product.substances.trim() === "") return false;
+          
+          let productSubstances = product.substances.split(",").map(s => s.trim().toLowerCase().replace(/[^a-zA-Z0-9]/g, "_"));
+          return window.resultMessage.some(substance => productSubstances.includes(substance));
+        });
+
+        matchingProducts.map(product => { addSubstance(product.substances) });
+        window.matchingProducts = matchingProducts;
+        window.substancesSet = substancesSet;
+
+        // Hide quiz form and display thank-you container
+        document.querySelector('.quiz-form-main').style.display = 'none';
+        document.querySelector('.thankyou-container').style.display = 'block';
+        
+        // Display all 5 top substances with their scores
+        const substancesNote = document.querySelector('.substances-note');
+        const topSubstancesText = sortedSubstances
+          .map(([substance, score], index) => {
+            let displaySubstance = substance;
+            if (substance.toLowerCase() === 'nad_') {
+              displaySubstance = 'NAD+';
+            } else if (substance.toLowerCase() === 'ca_akg') {
+              displaySubstance = 'Ca-AKG';
+            } else {
+              // Capitalize first letter of substance
+              displaySubstance = displaySubstance.charAt(0).toUpperCase() + displaySubstance.slice(1);
+            }
+            return `${index + 1}. ${displaySubstance} (Punktzahl: ${Math.round(score)})`;
+          })
+          .join(", ");
+        substancesNote.innerText = 'Ihre Top 5 Substanzen: ' + topSubstancesText;
+
+        window.topSubstancesText = topSubstancesText;
+
+        const topSubstancesTextNewLine = sortedSubstances
+        .map(([substance, score], index) => {
+          let displaySubstance = substance;
+          if (substance.toLowerCase() === 'nad_') {
+            displaySubstance = 'NAD+';
+          } else if (substance.toLowerCase() === 'ca_akg') {
+            displaySubstance = 'Ca-AKG';
+          } else {
+            // Capitalize first letter of substance
+            displaySubstance = displaySubstance.charAt(0).toUpperCase() + displaySubstance.slice(1);
+          }
+          return `${index + 1}. ${displaySubstance} (Punktzahl: ${Math.round(score)})`;
+        })
+        .join("\n");
+
+        window.topSubstancesTextNewLine = topSubstancesTextNewLine;
+
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+
+        postData(topSubstancesTextNewLine, window.matchingProducts , userLanguage);
+      }
+    
+      renderQuestions();
+    
+      // When the user clicks the thank-you button, hide thank-you and show recommended products collection
+      document.querySelector('.thankyou-button').addEventListener('click', function() {
+        document.querySelector('.thankyou-container').style.display = 'none';
+        displayProducts(substancesSet);
+      });
+    
+      // Function to display matching products
+      function displayProducts(substancesSet) {
+        const selectedFilters = Array.from(substancesSet);
+        const queryString = selectedFilters
+            .map(tag => `filter.p.m.custom.product_substances=${encodeURIComponent(tag)}`)
+            .join("&");
+        window.location.href = `/collections/all?${queryString}`;   
+      }
+
+      function postData(substances,  productsData, userLanguage) {
+        console.log("substances", substances , "productsData" , productsData, "userLanguage", userLanguage); 
+        const url = 'https://script.google.com/macros/s/AKfycby-x--mrSMVFZXSC25HYzWAxqnhEFkLKPYuKAaOvVfJLoeNyWg3z-Rnw47q8mWBb_8nuQ/exec';
+        
+        const formattedProducts = productsData.map(product => ({
+          title: product.title,
+          url: `https://www.antiaging-shop.com/${product.url}` 
+        }));
+
+        const dataToSend = {
+            substances: substances,
+            productsData: formattedProducts,
+            userLanguage: userLanguage
+        };
+  
+        const response =  fetch(url, {
+          method: "POST",
+          body: JSON.stringify(dataToSend),
+          headers: {
+            "Content-Type": "text/plain;charset=utf-8",
+          }
+        }); 
+      }
+
+      document.addEventListener("DOMContentLoaded", function () {
+          const emailButton = document.querySelector(".quiz-result-email-button");
+
+          if (emailButton) {
+              emailButton.addEventListener("click", function () {
+                  {% if customer %}
+                      let customerEmail = "{{ customer.email }}";
+                  {% else %}
+                      let customerEmail = null;
+                  {% endif %}
+
+                  // Ensure substances and matching products are available
+                  if (topSubstancesText && window.matchingProducts && customerEmail) {
+                      sendCustomerQuizData(topSubstancesTextNewLine, window.matchingProducts, customerEmail , userLanguage);
+                  } else {
+                      console.error("Substances or matching products are missing.");
+                  }
+              });
+          }
+      });
+      function sendCustomerQuizData(substances,  productsData, customerEmail) {
+        console.log("substances", substances , "productsData" , productsData, "customerEmail", customerEmail, "userLanguage", userLanguage); 
+      
+        const url = 'https://script.google.com/macros/s/AKfycbxozDk_tros2tLyZxJnhwGGpDPh0iw2HMTrvauMHzA6QEW8SvA1yUxQrPPSSlEjeEkZSg/exec';
+        
+        const formattedProducts = productsData.map(product => ({
+          title: product.title,
+          url: `https://www.antiaging-shop.com/${product.url}` 
+        }));
+
+        const dataToSend = { 
+            customerEmail: customerEmail,
+            substances: substances,
+            productsData: formattedProducts,
+            userLanguage: userLanguage
+        };
+  
+        const response =  fetch(url, {
+          method: "POST",
+          body: JSON.stringify(dataToSend),
+          headers: {
+            "Content-Type": "text/plain;charset=utf-8",
+          }
+        }); 
+      }
+  </script>
+</body>
+
+{% schema %}
+{
+  "name": "Quiz Form",
+  "settings": [
+    {
+      "type": "text",
+      "id": "quiz_title",
+      "label": "Quiz Title",
+      "default": "Take Our Health Quiz"
+    },
+    {
+      "type": "text",
+      "id": "next_button_text",
+      "label": "Next Button Text",
+      "default": "Next"
+    },
+    {
+      "type": "text",
+      "id": "metafield_namespace",
+      "label": "Metafield Namespace",
+      "default": "custom"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Quiz Form"
+    }
+  ]
+}
+{% endschema %}

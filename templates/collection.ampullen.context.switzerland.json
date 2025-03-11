@@ -1,0 +1,7 @@
+{
+  "parent": "collection.ampullen.json",
+  "context": {
+    "market": "switzerland"
+  },
+  "sections": {}
+}

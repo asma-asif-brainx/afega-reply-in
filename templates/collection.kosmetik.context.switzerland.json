@@ -1,0 +1,7 @@
+{
+  "parent": "collection.kosmetik.json",
+  "context": {
+    "market": "switzerland"
+  },
+  "sections": {}
+}

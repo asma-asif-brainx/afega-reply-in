@@ -1,0 +1,21 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "quiz_form_jdpKEy": {
+      "type": "quiz-form",
+      "settings": {
+        "quiz_title": "Take Our Health Quiz",
+        "next_button_text": "Next",
+        "metafield_namespace": "custom"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "quiz_form_jdpKEy"
+  ]
+}

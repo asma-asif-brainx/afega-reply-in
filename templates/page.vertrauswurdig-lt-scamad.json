@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "section_custom_YVmhnR": {
+      "type": "section-custom",
+      "blocks": {
+        "text_Tat4kY": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h4>Scamadviser ordnet unsere Seite als ausgesprochen vertrauenswürdig ein<\/h4>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_HnGK44": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Scamadviser-Anti-Aging-Shop.png",
+            "link": "https:\/\/www.scamadviser.com\/de\/website-prufen\/afega-anti-aging-shop.com",
+            "width": "2\/3"
+          }
+        },
+        "spacer_MVaTxX": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": "none"
+          }
+        },
+        "button_4xNe3C": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "title": "Button",
+            "link": "",
+            "link_style": "primary",
+            "width": "1\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_Tat4kY",
+        "image_HnGK44",
+        "spacer_MVaTxX",
+        "button_4xNe3C"
+      ],
+      "disabled": true,
+      "settings": {
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_custom_YVmhnR"
+  ]
+}

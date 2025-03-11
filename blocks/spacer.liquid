@@ -1,0 +1,46 @@
+<div
+  class="custom-content__item custom-content__item--spacer"
+  {{ block.shopify_attributes }}
+>
+  <div
+    class="custom-content__item-content custom-content__item-content--spacer custom-content__item-content--spacer--{{ block.settings.space }}"
+  ></div>
+</div>
+
+{% schema %}
+{
+  "name": "Spacer",
+  "tag": null,
+  "settings": [
+    {
+      "type": "select",
+      "id": "space",
+      "label": "Spacing",
+      "options": [
+        {
+          "value": "none",
+          "label": "None"
+        },
+        {
+          "value": "small",
+          "label": "Small"
+        },
+        {
+          "value": "medium",
+          "label": "Medium"
+        },
+        {
+          "value": "large",
+          "label": "Large"
+        }
+      ],
+      "default": "none"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Spacer"
+    }
+  ]
+}
+{% endschema %}

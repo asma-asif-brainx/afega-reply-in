@@ -1,0 +1,18 @@
+{
+  "parent": "collection.pets-horses.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {
+    "section_custom_GzNPtD": {
+      "settings": {},
+      "blocks": {
+        "image_JgbxFr": {
+          "settings": {
+            "link": "https:\/\/youtu.be\/QRt7LjqJ45k"
+          }
+        }
+      }
+    }
+  }
+}

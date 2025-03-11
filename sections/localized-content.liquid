@@ -1,0 +1,133 @@
+{% style %}
+  .section--{{ section.id }} .add-custom-section-bg-color, .section--{{ section.id }} .add-custom-section-bg-color:hover {
+    background-color:  #F7F7F7;
+  }
+  #shopify-section-{{ section.id }} .o-layout--center .o-layout__item {
+    text-align: left;
+  }
+{% endstyle %}
+
+{% if section.settings['add-word-line-break'] %}
+  <style>
+    @media screen and (max-width: 767px) {
+      .custom-word-break-main p,
+      .custom-word-break-main li {
+        word-wrap: break-word;
+      }
+    }
+  </style>
+{% endif %}
+
+{% if section.blocks.size > 0 %}
+  {% if section.index > 2 or section.location == 'footer' %}
+    <link
+      rel="stylesheet"
+      href="{{ 'section-custom.css' | asset_url }}"
+      media="print"
+      onload="this.media='all'"
+    >
+    <noscript>
+      {{ 'section-custom.css' | asset_url | stylesheet_tag }}
+    </noscript>
+  {% else %}
+    {{ 'section-custom.css' | asset_url | stylesheet_tag }}
+  {% endif %}
+  <section
+    class="
+      section
+      section--padded
+      section--mb-m
+      section--{{ section.id }}
+      {% if section.settings.section-bottom-margin %}section--mb-0{% endif %}
+    "
+    data-section-id="{{ section.id }}"
+    data-section-type="custom-content"
+    style="
+      --space-top: {{ section.settings.padding_top }}px;
+      --space-bottom: {{ section.settings.padding_bottom }}px
+    "
+  >
+    <div class="{% if section.settings.add-custom-section-bg-color %} add-custom-section-bg-color {% endif %} container">
+      <div class="custom-word-break-main custom-content__items">
+        <div class="o-layout o-layout--center js-animate-sequence">
+          {% content_for 'blocks' %}
+        </div>
+      </div>
+    </div>
+  </section>
+{% endif %}
+
+{% if section.blocks.size == 0 %}
+  <div class="placeholder-noblocks">
+    {{ 'homepage.onboarding.no_content' | t }}
+  </div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Localized Content",
+  "class": "js-section__custom-content",
+  "settings": [
+    {
+      "type": "checkbox",
+      "label": "add-custom-section-bg-color",
+      "id": "add-custom-section-bg-color"
+    },
+    {
+      "type": "header",
+      "content": "Padding and margin"
+    },
+    {
+      "type": "range",
+      "id": "padding_top",
+      "label": "Top padding",
+      "unit": "px",
+      "min": 0,
+      "max": 120,
+      "step": 3,
+      "default": 0
+    },
+    {
+      "type": "range",
+      "id": "padding_bottom",
+      "label": "Bottom padding",
+      "unit": "px",
+      "min": 0,
+      "max": 120,
+      "step": 3,
+      "default": 0
+    },
+    {
+      "type": "checkbox",
+      "id": "section-bottom-margin",
+      "label": "Reduce bottom margin",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "add-word-line-break",
+      "label": "Add word line break",
+      "default": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "locale"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Localized Content",
+      "blocks": [
+        {
+          "type": "locale"
+        }
+      ]
+    }
+  ],
+  "enabled_on": {
+    "templates": ["*"],
+    "groups": ["header", "footer"]
+  }
+}
+{% endschema %}

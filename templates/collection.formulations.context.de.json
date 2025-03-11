@@ -1,0 +1,7 @@
+{
+  "parent": "collection.formulations.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {}
+}

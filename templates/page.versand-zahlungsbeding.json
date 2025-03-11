@@ -1,0 +1,838 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "localized_content_BPcFEc": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_bHm7a8": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_dqAcFK": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Shipping & payment conditions",
+                "text": "<h2><strong>Important<\/strong><\/h2><p><strong>The following applies to deliveries to countries outside the EU, but especially to deliveries to crisis regions: Responsibility for the shipment passes to the buyer when the shipment is verifiably handed over to the shipping service provider. The sender assumes no responsibility for delays that are not his responsibility. For shipments that the shipping service provider has classified as 'lost', the buyer will receive a refund of the purchase price including shipping costs as soon as the shipping service provider has confirmed the loss.<\/strong>The shipping fees given here are absolutely reliable only for the countries of the EU. For all other countries, the fees that are displayed at checkout at checkout apply in case of doubt.<\/p><p><strong>Due to the change in our system, we have unfortunately not yet completely prepared the extensive list with the shipping charges for all countries in the world. The list is only available in the shop language German. In any case, you will see the shipping costs at checkout when you select the country to which the delivery should be made in the corresponding dropdown menu (delivery address).​<\/strong><\/p><p>Regular shipping to countries outside the European Union (such as the USA, Canada, Israel, Brazil etc.) is from Germany and there is no VAT \/ sales tax.<br\/><br\/><strong>Special features for deliveries to Switzerland<\/strong>: It is easily possible to import NMN into Switzerland! You even have an additional advantage: Since Switzerland is not part of the EU, we will not charge you German VAT (currently 19%) for a delivery address in Switzerland. In return, however, you will be charged the import sales tax of 7.7% levied by Swiss customs. In order to save you customs formalities and additional fees, we will take care of the import for you and deliver the ordered goods directly from Switzerland, provided the goods are in stock in Switzerland. (If the ordered goods are not in stock, you will receive a message from us and you can then choose whether you would rather wait or whether we should send you the goods from Germany.)<br\/><br\/>If the country you are in does not exist in our list of countries of delivery, you can send us an individual request. We will then inform you if a shipment to this country is possible and how the shipping conditions are.<\/p><h2><strong>Standard Shipping (Overseas 8 to 14 days)<\/strong><\/h2><p>Shipping takes place twice a week (Tuesdays and Saturdays) if we receive the orders by Monday 8 p.m. or Friday 8 p.m. at the latest. For shipments to a non-EU country, the shipment will be delayed by one working day if the order value is over EUR 1,000, since such shipments must first be cleared by customs in our fulfillment center.<\/p><h2><strong>DHL Express (overseas 4 to 7 days):<\/strong><\/h2><p>Shipping within the EU (and up to an order value of EUR 1,000 also to a non-EU country) takes place on the following working day if the order is received before 8 p.m. (for orders on a Friday, shipping can only take place on Monday). For shipments to a country outside the EU and with an order value of more than EUR 1,000, two days are required, since such shipments must first be cleared by customs in our fulfillment center.<\/p><p>The calculated charges for express shipments include a fuel surcharge that depends on the flight booked and is recalculated monthly by DHL Express. Should the actual surcharge turn out to be lower than shown in the shop, the difference will be credited to your account and will be available as a credit for future orders.<br\/><br\/><strong>Express is not always express<\/strong>The fee calculation for express delivery is extremely complicated. See an example here:<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_exefQz": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_hVcHDb": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>In the shop, the price for the cheapest option is displayed and booked when you select express delivery.<br\/><br\/><strong>There are situations in which it is so urgent that a \"normal express delivery\" is still too slow.<\/strong>If you find yourself in such a situation, you can instruct us to choose the fastest possible form of shipping. This may include working late in the evening or even at night, or sending an employee to the shipping center specifically for your order outside of working hours. The additional costs incurred by us must be secured by you in the form of an advance payment of EUR 100 (but you ultimately only pay for the services we actually provide; any advance payment not used will be credited back to your account) by clicking on<a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/advance-payment-for-special-express-services-eur-100.html\">this link<\/a>and adding the advance payment to your order. Please leave notes about your specific wishes in the comments field (for example: \"Accept additional costs for deployment at night\" and\/or \"Choose fastest express delivery method\").<strong>We cannot guarantee a deployment at night<\/strong>, so you will only be charged the costs for such a deployment (EUR 50) if an employee could be found for it. -<strong>NOTE:<\/strong>This procedure is not suitable for express shipments to non-EU countries with an order value of more than EUR 1,000. As described below, such shipments must be inspected by customs prior to shipment and the delay associated with this is disproportionate to the time saved by the measures described here. Even for shipments with a value of less than EUR 1,000, the transit time depends so heavily on customs formalities at the destination country that the acceleration provided by special express services is of little consequence. In these cases, 'normal express delivery' is probably the wiser choice.<br\/><br\/><strong>Express shipments within Germany:<\/strong>If the order value of your order should be more than EUR 150, normal shipments are free of charge. For technical reasons, you will not see the 'express delivery' option in this case. As a solution, we suggest the following procedure: You write \"Express shipping - fees transferred via PayPal\" in the comment field at checkout and transfer EUR 60 to the PayPal account sekretariat.afega@gmail,com and enter the order number and the text under purpose \"Express Shipping Surcharge\".<\/p><h2><strong>Import regulations<\/strong><\/h2><p>If you are unsure whether you are allowed to import the substances you have ordered, it could be advantageous to place your orders in a chemical shop. It cannot be ruled out that the very name of our shop (AFEGA Anti-Aging Shop) fuels the suspicion that chemicals such as NMN, which are not approved for human consumption, are intended to be used as dietary supplements. In such a case, we recommend you to place your order with our partners 'AFEGFA Chemicals':: <a href=\"https:\/\/afega-chemicals.com\/\">afega-chemicals.com<\/a><\/p><h2><strong>If you do not live in an EU country, please note:<\/strong><\/h2><p>Check with your country's customs authorities to determine whether you are allowed to import the product you wish to purchase (especially in the case of NMN). NMN is not a dangerous or prohibited substance, but there are often difficulties with the customs authorities because the substance is still virtually unknown outside of the United States. It helps if you state that it is a chemical that you need for research purposes. If you state that it is a nutritional supplement, you will have difficulties because NMN is not (yet) approved as a nutritional supplement. We are willing to help you getting NMN imported by using 'AFEGA Research Group' instead of 'AFEGA Anti-Aging-Shop' as sender address and by putting the note \"For research purposaes only\" on the package. Please leave a note in the commentary field at checkout if you want us to do so. - <strong>Customs formalities<\/strong>: If you are worried about customs processing, we can save you customs formalities (not the costs) if you select DHL EXPRESS as the shipping method and leave us a corresponding note (\"Please use DDP delivery method\") in the comments field. We will then calculate in advance the import sales tax and customs duties applicable to your country for this delivery and will invoice you for these amounts in advance (e.g. with a payment link if you paid via PayPal).​<br\/><br\/><strong>The weight information given on this page is the GROSS weight, i.e. the weight including packaging. Therefore, the information on this page is only an orientation. Only the price shown in the shopping cart is binding.​ And please be aware: From 01.01.2020, goods may no longer be sent abroad as ordinary letters. <\/strong><\/p><h2><strong>Special conditions for dealers<\/strong><\/h2><p>If you are a retailer and want to order larger quantities, please send us an inquiry to<a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a>and describe in as much detail as possible which products you want to order, in which quantities and in which packaging (packaging size \/ container material \/ labeling). We will then make you an individual offer. Important: Dealers can pay with PayPal because the conditions guaranteed by PayPal are geared towards end customers and are not applicable to commercial customers. - For orientation, here is the discount scale for wholesale customers (the scale always refers to the kilo price of the respective product). From 3 kg 7.5%, from 5 kg 10%, from 10 kg 15%, from 25 kg 20%.<br\/><br\/>If you (as a young startup for instance) are considering transferring your logistics to us as one of the (future) wholesale customers of the AFEGA Anti-Aging-Shop (at least for the beginning): <a href=\"https:\/\/www.dpn-fulfillment-center.de\/\">DPN-Fulfillment-Center<\/a><\/p><h2><strong>Methods of payment<\/strong><\/h2><p><strong>Prepayment discount<\/strong>: If you pay in advance, i.e. if you transfer the invoice amount directly to our bank account instead of paying by PayPal or credit card, you will receive a discount of 3%. However, this does not apply to dealers.<br\/><br\/>We offer numerous payment options, in addition to<strong>PayPal<\/strong> and a regular bank transfer: N26 (EU), TWINT (CH), Revolut (CH + EU), Bitcoin (World), etc. If you use one of the payment methods N26, Revolut , TWINT or Bitcoin, choose 'Bank Transfer' at checkout. You will then receive the corresponding account information for each of these payment methods via email. Please indicate in the comments box if you are using any of the alternative payment methods instead of a regular bank transfer. <strong>Note: If you are a PayPal customer, PayPal now offers you the option of paying in installments.​Payment in Bitcoin\/ETH\/CRO\/USDT (from an invoice amount of EUR 500 and only for delivery to countries outside the EU and Switzerland\/Lichtenstein)<\/strong>: If you indicate in the comment field at checkout that you want to pay with Bitcoin, you will receive an email with the address to which you have to send the Bitcoin and the invoice amount in Bitcoin. As a payment method, please choose 'Prepayment \/ Bank Transfer'. PLEASE NOTE: The table below advertises a special Bitcoin discount of 5%. This offer is no longer valid.<br\/><br\/><strong>Loyalty discount:<\/strong>Are you stressed and only read our emails quickly? Then please note the following: If you order frequently, you can benefit from our loyalty discount. You can find more details in each of our emails with the shipping confirmation and the tracking number.<br\/> <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_8a3EKk": {
+              "type": "spacer",
+              "settings": {
+                "space": "none"
+              }
+            }
+          },
+          "block_order": [
+            "text_dqAcFK",
+            "image_exefQz",
+            "text_hVcHDb",
+            "spacer_8a3EKk"
+          ]
+        },
+        "locale_NbhxCd": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_MYfVD3": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Condiciones de envío y pago",
+                "text": "<h3><strong>Importante<\/strong><\/h3><p><strong>Para los envíos a países fuera de la UE, pero especialmente a los envíos a regiones en crisis, se aplica lo siguiente: La responsabilidad del envío pasa al comprador cuando el envío se entrega de forma comprobable al proveedor de servicios de envío. El remitente no asume ninguna responsabilidad por retrasos que no sean de su responsabilidad. Para los envíos que el proveedor de servicios de envío haya clasificado como \"perdidos\", el comprador recibirá un reembolso del precio de compra, incluidos los costos de envío, tan pronto como el proveedor de servicios de envío haya confirmado la pérdida.<\/strong><\/p><p>Enviamos a (casi) todos los países del mundo. El envío se realiza desde Alemania, por lo que no se aplican las formalidades aduaneras de los países de la UE. A petición, los envíos con dirección de entrega en Suiza pueden realizarse desde Suiza (véase más abajo).<br\/><br\/>(Los gastos de envío indicados aquí son absolutamente fiables sólo para los países de la UE. Para el resto de países, en caso de duda, se aplicarán las tarifas indicadas en la caja).<\/p><h2><strong>Envío estándar (en el extranjero de 8 a 14 días)<\/strong><\/h2><p>Los envíos se realizan dos veces por semana (martes y sábados) si recibimos los pedidos el lunes a las 20 h o el viernes a las 20 h como máximo. Para los envíos a un país fuera de la UE, el envío se retrasará un día laborable si el valor del pedido supera los 1000 EUR, ya que dichos envíos deben pasar primero por la aduana en nuestro centro logístico.<\/p><h2><strong>DHL Express (en el extranjero de 4 a 7 días):<\/strong><\/h2><p>El envío dentro de la UE (y hasta un valor de pedido de 1.000 EUR también a un país no perteneciente a la UE) se realiza el siguiente día laborable si el pedido se recibe antes de las 20:00 h (para pedidos en viernes, el envío solo puede realizarse el Lunes). Para envíos a un país fuera de la UE y con un valor de pedido de más de 1000 EUR, se requieren dos días, ya que dichos envíos primero deben ser despachados por la aduana en nuestro centro logístico.<\/p><p><strong>Express no es sólo Express<\/strong><br\/>El cálculo de tarifas para envíos urgentes es extremadamente complicado. Vea un ejemplo aquí:<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_3cmEwn": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_Bbm7iX": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>En la tienda, el precio de la opción más barata se mostrará y reservará si seleccionas Express.<br\/><br\/><strong>Hay situaciones en las que es tan urgente que se realice una 'entrega urgente ordinaria' todavía es demasiado lento. <\/strong>Si se encuentra en tal situación, puede indicarnos que elijamos la forma de envío más rápida posible. Esto también puede significar que trabajemos hasta tarde por la tarde o incluso por la noche o que enviemos a un empleado al centro de despacho específicamente para su pedido fuera de su horario laboral. Los costos adicionales en los que incurramos deben ser cubiertos por usted mediante un pago por adelantado de 100 EUR (pero, en última instancia, solo paga por los servicios que realmente brindamos, no por los servicios que necesita. El anticipo pagado se acreditará en su cuenta). ) haciendo clic en <a href=\"https:\/\/www.afega-anti-aging-shop.com\/es\/anticipo-para-servicios-expres-especiales-100-eur.html\">haz clic en este enlace<\/a> y añade el anticipo a tu pedido. Deje información sobre sus deseos específicos en el campo de comentarios (como: \"Aceptar costos adicionales para el próximo uso\" y\/o \"Elegir el método de envío exprés más rápido\"). <strong>No podemos garantizar un encargo posterior<\/strong>, por lo que solo se le cobrarán los costes de dicho encargo (50 EUR) si se puede encontrar un empleado para ello. - <strong>NOTA:<\/strong>Este procedimiento no es adecuado para envíos urgentes a países no pertenecientes a la UE con un valor de pedido superior a 1.000 EUR. Como se describió anteriormente, se debe realizar una inspección aduanera en dichos envíos y el retraso asociado es desproporcionado con el tiempo ahorrado por las medidas aquí descritas. Incluso en el caso de envíos con un valor inferior a 1.000 euros, el tiempo de tránsito depende tanto de las formalidades aduaneras que la aceleración mediante servicios urgentes especiales apenas es significativa. En estos casos, el 'envío urgente ordinario' probablemente la elección más inteligente.<\/p><p><strong>Debido a la conversión de nuestro sistema, lamentablemente aún no hemos podido recopilar la extensa lista con los gastos de envío para todos los países del mundo. La lista sólo está disponible en el idioma de la tienda, el alemán. No obstante, los gastos de envío se verán en cualquier caso durante el proceso de compra (en la caja) si se selecciona el país al que se va a realizar la entrega (dirección de entrega) en el menú desplegable correspondiente.<\/strong><br\/><br\/>Los datos de peso indicados en esta página son el peso BRUTO, es decir, el peso incluyendo el embalaje, no el peso del producto(s). Por lo tanto, la información de esta página es sólo una orientación. Sólo es vinculante el precio que aparece en la cesta de la compra. <\/p><h2><strong>Si no vive en un país de la UE, tenga en cuenta:<\/strong><\/h2><p>Compruebe con las autoridades aduaneras de su país si está autorizado a importar el producto que desea comprar (especialmente en el caso de los NMN). El NMN no es una sustancia peligrosa o prohibida, pero sigue habiendo dificultades con las autoridades aduaneras porque la sustancia sigue siendo prácticamente desconocida fuera de los Estados Unidos. Ayuda si indica que es un producto químico que necesita para fines de investigación. Si afirma que se trata de un complemento alimenticio, tendrá problemas porque el NMN no está aprobado (todavía) como complemento alimenticio. - <strong>Formalidades alfandegárias<\/strong>: Se você estiver preocupado com o processamento alfandegário, podemos economizar as formalidades alfandegárias (não os custos) se você selecionar DHL EXPRESS como o método de envio e nos deixar uma nota correspondente (\"Por favor, use o método de entrega DDP\") no campo de comentários . Em seguida, calcularemos antecipadamente o imposto sobre vendas de importação e as taxas alfandegárias aplicáveis ​​ao seu país para esta entrega e faturaremos esses valores antecipadamente (por exemplo, com um link de pagamento se você pagou via PayPal).<\/p><p><strong>Particularidades de los envíos a Suiza:<\/strong> ¡Es fácilmente posible importar NMN a Suiza! Incluso tiene una ventaja adicional: dado que Suiza no es parte de la UE, no le cobraremos el IVA alemán (actualmente 19%) para una dirección de entrega en Suiza. A cambio, sin embargo, se le cobrará el impuesto sobre las ventas de importación del 7,7% recaudado por la aduana suiza. Para ahorrarle trámites aduaneros y tarifas adicionales, nos encargaremos de la importación por usted y entregaremos los productos solicitados directamente desde Suiza, siempre que los productos estén en stock en Suiza. (Si los productos solicitados no están en stock, recibirá un mensaje nuestro y podrá elegir si prefiere esperar o si debemos enviarle los productos desde Alemania).<br\/><br\/>Si el país en el que se encuentra no está en nuestra lista de países de entrega, puede enviarnos una solicitud individual. A continuación, le informaremos de si el envío a este país es posible y cuáles son las condiciones de envío.<br\/><br\/><strong>Condiciones especiales para los concesionarios<\/strong><\/p><p>Si es usted distribuidor y desea pedir cantidades mayores, envíenos una consulta a sekretariat.afega@gmail.com y describa con el mayor detalle posible qué productos desea pedir, en qué cantidades y en qué envases (tamaño del envase\/material del envase\/etiquetado). A continuación, le presentaremos una oferta individual. Importante: Los distribuidores pueden pagar con PayPal porque las condiciones garantizadas por PayPal están dirigidas a clientes finales y no son aplicables a clientes comerciales. - A modo de orientación, aquí está la escala de descuento para clientes mayoristas (la escala siempre se refiere al precio del kilo del producto respectivo). A partir de 3 kg 7,5%, a partir de 5 kg 10%, a partir de 10 kg 15%, a partir de 25 kg 20%.<\/p><p><strong>Métodos de pago<\/strong><\/p><p><strong>Envíos contra reembolso:<\/strong> Los envíos contra reembolso sólo son posibles en D y CH.<br\/><br\/><strong>Descuento por pago anticipado:<\/strong> Si paga por adelantado, es decir, si transfiere el importe de la factura directamente a nuestra cuenta bancaria en lugar de pagar mediante PayPal o tarjeta de crédito, recibirá un descuento del 3%. Esto también se aplica a los comerciantes.<br\/><br\/>Ofrecemos numerosos métodos de pago, además de PayPal y una transferencia bancaria regular, N26 (UE), TWINT (CH), Revolut (CH+EU), Bitcoin (Mundo), etc. Si desea utilizar uno de los métodos de pago N26, Revolut, TWINT o Bitcoin, seleccione \"Transferencia bancaria\/prepago\" en la caja. A continuación, recibirá por correo electrónico la información de la cuenta correspondiente a cada uno de estos métodos de pago. Indique en el campo de comentarios si va a utilizar uno de los métodos de pago alternativos en lugar de una transferencia bancaria normal. Nota: Si es usted cliente de PayPal, este servicio le ofrece desde hace poco la posibilidad de pagar a plazos.<br\/><br\/><strong>Pago en Bitcoin\/ETH\/CRO\/USDT<\/strong> (a partir de un importe de factura de 500 EUR y solo para envíos a países fuera de la UE y Suiza\/Lichtenstein): Si indica en el campo de comentarios durante la compra que desea pagar en Bitcoin, recibirá un correo electrónico con la dirección a la que debe enviar el Bitcoin y el importe de la factura en Bitcoin. En este caso, seleccione \"Pago anticipado\/transferencia bancaria\" como método de pago. TENGA EN CUENTA: La siguiente tabla anuncia un descuento especial de Bitcoin del 5%. Esta oferta ya no es válida.<br\/><br\/><strong>Descuento de fidelidad:<\/strong><br\/>¿Estás estresado y solo lees nuestros correos electrónicos de forma superficial? Entonces tenga en cuenta lo siguiente: Si realiza pedidos con frecuencia, podrá beneficiarse de nuestro descuento por fidelidad. Podrás encontrar más detalles en cada uno de nuestros correos electrónicos con confirmación de envío y número de seguimiento.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_iFxh87": {
+              "type": "spacer",
+              "settings": {
+                "space": "none"
+              }
+            }
+          },
+          "block_order": [
+            "text_MYfVD3",
+            "image_3cmEwn",
+            "text_Bbm7iX",
+            "spacer_iFxh87"
+          ]
+        },
+        "locale_Pe6wVw": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_BEhRgc": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Conditions d'expédition et de paiement",
+                "text": "<h2><strong>Important<\/strong><\/h2><p><strong>Ce qui suit s'applique aux livraisons vers des pays hors de l'UE, mais surtout aux livraisons dans des régions en crise : La responsabilité de l'expédition est transférée à l'acheteur lorsque l'envoi est remis de manière vérifiable au prestataire de services d'expédition. L'expéditeur n'assume aucune responsabilité pour les retards qui ne relèvent pas de sa responsabilité. Pour les envois que le prestataire de services d'expédition a classés comme « perdus », l'acheteur recevra un remboursement du prix d'achat, frais d'expédition compris, dès que le prestataire de services d'expédition aura confirmé la perte.<\/strong><\/p><h2>Nous expédions dans (presque) tous les pays du monde. L'expédition se fait depuis l'Allemagne, ce qui explique que les douanes et les formalités douanières ne sont pas nécessaires pour les pays de l'UE. Sur demande, les envois avec une adresse de livraison en Suisse sont expédiés depuis la Suisse (voir ci-dessous).<br\/><br\/>(Les frais d'envoi indiqués ici sont absolument fiables uniquement pour les pays de l'UE. Pour tous les autres pays, les frais qui s'appliquent en cas de doute sont ceux qui sont affichés à la caisse lors du passage en caisse).<\/h2><h2><strong>Expédition standard (outre-mer 8 à 14 jours)<\/strong><\/h2><p>L'expédition a lieu deux fois par semaine (mardi et samedi) si nous recevons les commandes au plus tard le lundi 20h ou le vendredi 20h. Pour les envois vers un pays non membre de l'UE, l'envoi sera retardé d'un jour ouvrable si la valeur de la commande est supérieure à 1 000 EUR, car ces envois doivent d'abord être dédouanés dans notre centre de distribution.<\/p><h2><strong>DHL Express (outre-mer 4 à 7 jours) :<\/strong><\/h2><p>L'expédition au sein de l'UE (et jusqu'à une valeur de commande de 1 000 EUR également vers un pays hors UE) a lieu le jour ouvrable suivant si la commande est reçue avant 20 heures (pour les commandes le vendredi, l'expédition ne peut avoir lieu que le Lundi). Pour les envois vers un pays en dehors de l'UE et d'une valeur de commande supérieure à 1 000 EUR, deux jours sont nécessaires, car ces envois doivent d'abord être dédouanés dans notre centre de distribution.<br\/><br\/><strong>Express n'est pas seulement Express<\/strong><br\/>Le calcul des frais pour les envois express est extrêmement compliqué. Voir un exemple ici :<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_fzTBQp": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_fRfeWX": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Dans la boutique, le prix de l'option la moins chère sera affiché et réservé si vous sélectionnez Express.<br\/><br\/><strong>Il y a des situations dans lesquelles il est si urgent qu'une « livraison express ordinaire » soit effectuée. est encore trop lent. <\/strong>Si vous vous trouvez dans une telle situation, vous pouvez nous demander de choisir le mode d'expédition le plus rapide possible. Cela peut également signifier que nous travaillons tard le soir ou même la nuit ou que nous envoyons un employé au centre d'expédition spécifiquement pour votre commande en dehors de ses heures de travail. Les frais supplémentaires que nous encourons doivent être couverts par vous sous la forme d'un acompte de 100 EUR (mais en fin de compte, vous ne payez que les services que nous fournissons réellement, pas les services dont vous avez besoin. L'avance versée sera recréditée sur votre compte). ) en cliquant sur le <a href=\"https:\/\/www.afega-anti-aging-shop.com\/fr\/avance-pour-les-services-express-speciaux-100-eur.html\">cliquez sur ce lien<\/a> et ajoutez l'avance à votre commande. Veuillez laisser des informations sur vos souhaits spécifiques dans le champ commentaire (par exemple : « Accepter des frais supplémentaires pour la prochaine utilisation » et\/ou « Choisir la méthode d'expédition express la plus rapide »). <strong>Nous ne pouvons pas garantir une mission ultérieure<\/strong>, c'est pourquoi les frais d'une telle mission (50 EUR) ne vous seront facturés que si un employé a pu être trouvé pour celle-ci. - <strong>REMARQUE :<\/strong>Cette procédure n'est pas adaptée aux envois express vers des pays hors UE d'une valeur de commande supérieure à 1 000 EUR. Comme décrit ci-dessus, un contrôle douanier doit être effectué sur ces expéditions et le retard qui en découle est sans commune mesure avec le temps gagné grâce aux mesures décrites ici. Même pour les envois d'une valeur inférieure à 1 000 euros, le temps de transit dépend tellement des formalités douanières que l'accélération via des services express spéciaux n'est guère significative. Dans ces cas, l’« expédition express ordinaire » est effectuée. probablement le choix le plus intelligent.<\/p><h3><strong>Envois express en Allemagne :<\/strong><\/h3><p>Si la valeur de votre commande doit être supérieure à 150 EUR, les envois normaux sont gratuits. Pour des raisons techniques, vous ne verrez pas l'option 'livraison express' dans ce cas. Comme solution, nous vous suggérons la procédure suivante : vous écrivez \"Expédition express - frais transférés via PayPal\" dans le champ de commentaire à la caisse et transférez 60 EUR sur le compte PayPal sekretariat.afega@gmail,com et entrez le numéro de commande et le texte dans le but \"Express Shipping Supplément\".<\/p><p>En raison du changement de notre système, nous n'avons malheureusement pas encore pu établir la liste complète des frais de port pour tous les pays du monde. La liste n'est disponible qu'en allemand, la langue de la boutique. Les frais d'expédition sont toutefois visibles lors de la validation de la commande (à la caisse), lorsque vous sélectionnez le pays dans lequel la livraison doit être effectuée (adresse de livraison) dans le menu déroulant correspondant.<\/p><h2>Les poids indiqués sur cette page sont les poids bruts, c'est-à-dire le poids avec l'emballage, et non le poids du ou des produits. Les données figurant sur cette page ne sont donc qu'indicatives. Seul le prix affiché dans le panier d'achat fait foi. <\/h2><h2><strong>Si vous n'habitez pas dans un pays de l'UE, veuillez noter :<\/strong><\/h2><p>Renseignez-vous auprès des autorités douanières de votre pays pour savoir si vous pouvez importer le produit que vous souhaitez acheter (en particulier dans le cas de NMN). Le NMN n'est pas une substance dangereuse ou interdite, mais les autorités douanières rencontrent régulièrement des difficultés, car cette substance est encore pratiquement inconnue en dehors des États-Unis. Il est utile d'indiquer qu'il s'agit d'un produit chimique dont vous avez besoin à des fins de recherche. Si vous indiquez qu'il s'agit d'un complément alimentaire, vous aurez des difficultés, car le NMN n'est pas (encore) autorisé comme complément alimentaire. - <strong>Formalités douanières<\/strong> : si vous êtes préoccupé par le traitement des formalités douanières, nous pouvons vous faire économiser les formalités douanières (pas les frais) si vous sélectionnez DHL EXPRESS comme méthode d'expédition et laissez-nous une note correspondante (\"Veuillez utiliser la méthode de livraison DDP\") dans le champ des commentaires . Nous calculerons alors à l'avance la taxe de vente à l'importation et les droits de douane applicables à votre pays pour cette livraison et vous facturerons ces montants à l'avance (par exemple avec un lien de paiement si vous avez payé via PayPal).<\/p><p><br\/><strong>Particularités pour les livraisons en Suisse <\/strong>: Il est facilement possible d'importer du NMN en Suisse ! Vous bénéficiez même d'un avantage supplémentaire : la Suisse ne faisant pas partie de l'UE, nous ne vous facturerons pas la TVA allemande (actuellement de 19 %) pour une adresse de livraison en Suisse. En contrepartie, cependant, vous devrez payer la taxe de vente à l'importation de 7,7% prélevée par les douanes suisses. Afin de vous épargner les formalités douanières et les frais supplémentaires, nous nous occupons de l'importation pour vous et livrons la marchandise commandée directement depuis la Suisse, à condition que la marchandise soit en stock en Suisse. (Si la marchandise commandée n'est pas en stock, vous recevrez un message de notre part et vous pourrez alors choisir si vous préférez attendre ou si nous devons vous envoyer la marchandise depuis l'Allemagne.)<br\/><br\/>Si le pays dans lequel vous vous trouvez ne figure pas dans notre liste de pays de livraison, vous pouvez nous envoyer une demande individuelle. Nous vous indiquerons alors si une expédition vers ce pays est possible et quelles sont les conditions d'expédition correspondantes.<\/p><h2><strong>Conditions spéciales pour les commerçants<\/strong><\/h2><p>Si vous êtes revendeur et que vous souhaitez commander des quantités plus importantes, veuillez nous envoyer une demande à sekretariat.afega@gmail.com en décrivant de manière aussi détaillée que possible les produits que vous souhaitez commander, les quantités et le type de conditionnement (taille de l'emballage\/matériel de conditionnement\/étiquetage). Nous vous soumettrons alors une offre personnalisée. Important : Les commerçants peuvent payer avec PayPal car les conditions garanties par PayPal sont orientées vers les clients finaux et ne s'appliquent pas aux clients commerciaux. - À titre indicatif, voici le barème de remise pour les clients grossistes (le barème se réfère toujours au prix au kilo du produit respectif). A partir de 3 kg 7,5%, à partir de 5 kg 10%, à partir de 10 kg 15%, à partir de 25 kg 20%.<\/p><h2><strong>Modes de paiement<\/strong><\/h2><p><strong>Envois contre remboursement :<\/strong> Les envois contre remboursement ne sont possibles qu'en D et CH.<br\/><br\/><strong>Remise pour paiement anticipé<\/strong>: Si vous payez à l'avance, c'est-à-dire si vous transférez le montant de la facture directement sur notre compte bancaire au lieu de payer par PayPal ou par carte de crédit, vous bénéficierez d'une remise de 3 %. - Cependant, cela ne s'applique pas aux concessionnaires.<br\/><br\/>Nous proposons de nombreux modes de paiement, outre PayPal et un virement bancaire régulier, N26 (EU), TWINT (CH), Revolut (CH+EU), Bitcoin (monde), etc. Si vous souhaitez utiliser l'un des modes de paiement N26, Revolut, TWINT ou Bitcoin, sélectionnez 'Virement bancaire\/prépaiement' à la caisse. Vous recevrez alors par e-mail les informations de compte correspondantes pour chacun de ces modes de paiement. Veuillez indiquer dans le champ de commentaire si vous utiliserez l'un des modes de paiement alternatifs au lieu d'un virement bancaire régulier. Remarque : si vous êtes un client PayPal, PayPal vous propose depuis peu la possibilité de payer en plusieurs fois.<br\/><br\/><strong>Pour les clients en Suisse qui souhaitent payer avec TWINT<\/strong>: veuillez sélectionner le franc suisse (CHF) comme devise de la boutique. Au moment du paiement (à la caisse), choisissez 'Paiement d'avance\/virement bancaire' et indiquez dans le champ commentaire que vous payez avec TWINT. Dans l'e-mail avec la confirmation de commande, vous trouverez alors le numéro TWINT auquel vous pouvez envoyer le montant en CHF (en indiquant votre numéro de commande).<br\/><br\/><strong>Paiement en Bitcoin\/ETH\/CRO\/USDT<\/strong>(à partir d'un montant de facture de 500 EUR et uniquement pour la livraison dans les pays hors UE et Suisse\/Lichtenstein) : si vous indiquez dans le champ de commentaire lors du passage en caisse que vous souhaitez payer en Bitcoin, vous recevrez par e-mail l'adresse à laquelle vous devez envoyer les Bitcoin et le montant de la facture en Bitcoin. Dans ce cas, veuillez choisir comme mode de paiement 'Paiement anticipé\/virement bancaire'. VEUILLEZ NOTER : Le tableau ci-dessous annonce une remise spéciale Bitcoin de 5 %. Cette offre n'est plus valable.<br\/><br\/><strong>Remise fidélité :<\/strong>Vous êtes stressé et ne lisez nos emails que superficiellement ? Alors veuillez noter ce qui suit : Si vous commandez fréquemment, vous pouvez bénéficier de notre remise fidélité. Vous pouvez trouver plus de détails dans chacun de nos e-mails avec confirmation d'expédition et numéro de suivi.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_3QyehE": {
+              "type": "spacer",
+              "settings": {
+                "space": "none"
+              }
+            }
+          },
+          "block_order": [
+            "text_BEhRgc",
+            "image_fzTBQp",
+            "text_fRfeWX",
+            "spacer_3QyehE"
+          ]
+        },
+        "locale_HPYm3V": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_mHVFr8": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Condizioni di spedizione e pagamento",
+                "text": "<h3><strong>Importante<\/strong><\/h3><p><strong>Per le consegne verso paesi al di fuori dell'UE, ma soprattutto per le consegne in regioni di crisi, vale quanto segue: la responsabilità della spedizione passa all'acquirente quando la spedizione viene consegnata in modo verificabile al fornitore del servizio di spedizione. Il mittente non si assume alcuna responsabilità per ritardi che non siano imputabili a lui. Per le spedizioni che il fornitore di servizi di spedizione ha classificato come \"smarrite\", l'acquirente riceverà un rimborso del prezzo di acquisto comprese le spese di spedizione non appena il fornitore di servizi di spedizione avrà confermato la perdita.<\/strong>Le spese di spedizione qui indicate sono assolutamente affidabili solo per i paesi dell'UE. Per tutti gli altri paesi si applicano, in caso di dubbio, le tariffe che vengono visualizzate alla cassa.<br\/><strong>A causa del cambiamento del nostro sistema, purtroppo non abbiamo ancora preparato una lista completa con le spese di spedizione per tutti i paesi del mondo. La lista è disponibile solo nella lingua del negozio, il tedesco. In ogni caso, vedrai le spese di spedizione al momento del checkout quando selezionerai il paese in cui deve essere effettuata la consegna nel menu a tendina corrispondente (indirizzo di consegna).<\/strong>La spedizione regolare in paesi al di fuori dell'Unione Europea (come USA, Canada, Israele, Brasile ecc.) viene effettuata dalla Germania e non c'è IVA \/ imposta sulle vendite.<br\/><br\/><strong>Caratteristiche speciali per le consegne in Svizzera:<\/strong>È facilmente possibile importare NMN in Svizzera! Hai anche un ulteriore vantaggio: poiché la Svizzera non fa parte dell'UE, non ti addebiteremo l'IVA tedesca (attualmente il 19%) per un indirizzo di consegna in Svizzera. In cambio, tuttavia, ti verrà addebitata l'imposta sulle vendite all'importazione del 7,7% riscossa dalla dogana svizzera. Al fine di risparmiare formalità doganali e costi aggiuntivi, ci occuperemo dell'importazione per te e consegneremo la merce ordinata direttamente dalla Svizzera, a condizione che la merce sia disponibile in Svizzera. (Se la merce ordinata non è disponibile, riceverai un messaggio da noi e potrai quindi scegliere se preferisci aspettare o se spedirti la merce dalla Germania.)<br\/><br\/>Se il paese in cui vi trovate non esiste nella nostra lista dei paesi di consegna, potete inviarci una richiesta individuale. Vi informeremo quindi se una spedizione in questo paese è possibile e come sono le condizioni di spedizione.<\/p><h2><strong>Spedizione standard (oltremare da 8 a 14 giorni)<\/strong><\/h2><p>La spedizione avviene due volte a settimana (martedì e sabato) se riceviamo gli ordini entro lunedì alle 20:00 o venerdì alle 20:00 al più tardi. Per le spedizioni verso un paese non UE, la spedizione sarà ritardata di un giorno lavorativo se il valore dell'ordine è superiore a EUR 1.000, poiché tali spedizioni devono essere prima sdoganate nel nostro centro logistico.<\/p><h2><strong>DHL Express (oltremare da 4 a 7 giorni):<\/strong><\/h2><p>La spedizione all'interno dell'UE (e fino a un valore dell'ordine di EUR 1.000 anche in un paese extra UE) avviene il giorno lavorativo successivo se l'ordine viene ricevuto entro le 20:00 (per ordini di venerdì, la spedizione può avvenire solo il Lunedi). Per le spedizioni verso un paese al di fuori dell'UE e con un valore dell'ordine superiore a 1.000 EUR, sono necessari due giorni, poiché tali spedizioni devono essere prima sdoganate nel nostro centro logistico.<\/p><p>Le spese calcolate per le spedizioni espresso includono un supplemento per il carburante che dipende dal volo prenotato e viene ricalcolato mensilmente da DHL Express. Se il supplemento effettivo dovesse risultare inferiore a quello indicato nel negozio, la differenza verrà accreditata sul suo conto e sarà disponibile come credito per ordini futuri.<br\/><br\/><strong>Express non è solo Express<\/strong>Il calcolo delle tariffe per le spedizioni espresse è estremamente complicato. Vedi un esempio qui:<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_V6NmJJ": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_ii43W8": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Nel negozio, il prezzo per l'opzione più economica verrà visualizzato e prenotato se selezioni Express.<br\/><br\/><strong>Ci sono situazioni in cui è così urgente che una 'consegna espressa ordinaria' è ancora troppo lento.<\/strong>Se ti trovi in ​​una situazione del genere, puoi chiederci di scegliere la forma di spedizione più veloce possibile. Ciò può anche significare che lavoriamo fino a tarda sera o addirittura di notte o che inviamo un dipendente al centro di spedizione appositamente per il tuo ordine al di fuori dell'orario di lavoro. I costi aggiuntivi da noi sostenuti devono essere coperti da te sotto forma di pagamento anticipato di 100 EUR (ma alla fine pagherai solo per i servizi effettivamente forniti, non per i servizi di cui hai bisogno). L'anticipo pagato verrà riaccreditato sul tuo conto ) facendo clic sul<a href=\"https:\/\/www.afega-anti-aging-shop.com\/it\/Anticipo-per-servizi-espressi-speciali--EUR-100-.html\">clicca su questo link<\/a>e aggiungi l'anticipo al tuo ordine. Ti preghiamo di lasciare informazioni sui tuoi desideri specifici nel campo dei commenti (ad esempio: \"Accetta costi aggiuntivi per il prossimo utilizzo\" e\/o \"Scegli il metodo di spedizione espressa più veloce\").<strong>Non possiamo garantire un incarico successivo<\/strong>, quindi ti verranno addebitati i costi per tale incarico (50 EUR) solo se è possibile trovare un dipendente per questo. -<strong>NOTA:<\/strong>Questa procedura non è adatta per spedizioni espresse verso paesi extra UE con un valore dell'ordine superiore a 1.000 EUR. Come sopra descritto, su tali spedizioni deve essere effettuato un controllo doganale e il relativo ritardo è del tutto sproporzionato rispetto al tempo risparmiato dalle misure qui descritte. Anche per le spedizioni con un valore inferiore a 1.000 euro il tempo di transito dipende così fortemente dalle formalità doganali che l'accelerazione tramite servizi espressi speciali non è quasi significativa. In questi casi la 'spedizione espressa ordinaria' probabilmente la scelta più intelligente.<br\/><\/p><h2><strong>Se non vive in un paese dell'UE, la preghiamo di notare:<\/strong><\/h2><p>Controlla con le autorità doganali del tuo paese per determinare se ti è permesso importare il prodotto che vuoi acquistare (specialmente nel caso di NMN). L'NMN non è una sostanza pericolosa o proibita, ma ci sono spesso difficoltà con le autorità doganali perché la sostanza è ancora praticamente sconosciuta fuori dagli Stati Uniti. Aiuta se dichiarate che si tratta di una sostanza chimica che vi serve per scopi di ricerca. Se dichiarate che si tratta di un supplemento nutrizionale, avrete delle difficoltà perché l'NMN non è (ancora) approvato come supplemento nutrizionale. Siamo disposti ad aiutarvi ad ottenere l'importazione di NMN usando \"AFEGA Research Group\" invece di \"AFEGA Anti-Aging-Shop\" come indirizzo del mittente e mettendo la nota \"For research purposaes only\" sul pacco. Si prega di lasciare una nota nel campo dei commenti al momento del checkout se volete che lo facciamo. <strong>Formalità doganali: <\/strong>Se siete preoccupati per il trattamento doganale, possiamo risparmiarvi le formalità doganali (non i costi) se selezionate DHL EXPRESS come metodo di spedizione e ci lasciate una nota corrispondente (\"Please use DDP delivery method\") nel campo dei commenti. Calcoleremo quindi in anticipo l'imposta sulle vendite all'importazione e i dazi doganali applicabili al tuo paese per questa consegna e ti fattureremo questi importi in anticipo (ad esempio con un link di pagamento se hai pagato tramite PayPal).<strong>Le informazioni sul peso fornite in questa pagina sono il peso LORDO, cioè il peso compreso l'imballaggio. Pertanto, le informazioni su questa pagina sono solo un orientamento. Solo il prezzo indicato nel carrello è vincolante: Dal 01.01.2020 le merci non possono più essere spedite all'estero come lettere ordinarie.<\/strong><\/p><h2><strong>Condizioni speciali per i commercianti<\/strong><\/h2><p>Se sei un rivenditore e vuoi ordinare quantità maggiori, inviaci una richiesta a <a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a> e descrivete nel modo più dettagliato possibile quali prodotti volete ordinare, in quali quantità e in quale imballaggio (dimensioni dell'imballaggio \/ materiale del contenitore \/ etichettatura). Vi faremo quindi un'offerta individuale. Importante: I rivenditori possono pagare con PayPal perché le condizioni garantite da PayPal sono rivolte ai clienti finali e non sono applicabili ai clienti commerciali. - Per orientarsi, ecco la scala di sconto per i clienti all'ingrosso (la scala si riferisce sempre al prezzo al chilo del rispettivo prodotto). Da 3 kg 7,5%, da 5 kg 10%, da 10 kg 15%, da 25 kg 20%.<\/p><p><strong>Metodi di pagamento<\/strong><\/p><p><strong>Sconto sul pagamento anticipato<\/strong>: Se paghi in anticipo, cioè se trasferisci l'importo della fattura direttamente sul nostro conto bancario invece di pagare con PayPal o carta di credito, riceverai uno sconto del 3%. Tuttavia, questo non si applica ai rivenditori.<br\/><br\/>Offriamo numerose opzioni di pagamento, oltre a PayPal (non in Svizzera) e un regolare trasferimento bancario N26 (EU), TWINT (CH), Revolut (CH + EU), Bitcoin (World), ecc. Se usi uno dei metodi di pagamento N26, Revolut, TWINT o Bitcoin, scegli \"Bonifico bancario\" alla cassa. Riceverai quindi le informazioni del conto corrispondente per ciascuno di questi metodi di pagamento via e-mail. Indica nella casella dei commenti se stai usando uno dei metodi di pagamento alternativi invece di un normale bonifico bancario.<strong> Nota: se sei un cliente PayPal, PayPal ti offre ora la possibilità di pagare a rate.<br\/><br\/>Per i clienti in Svizzera che desiderano pagare con TWINT:<\/strong> selezionare franchi svizzeri (CHF) come valuta del negozio. Al momento del check out (alla cassa), scegli 'Pagamento anticipato\/bonifico bancario' e indica nel campo dei commenti che pagherai con TWINT. Nell'e-mail di conferma d'ordine troverai poi il numero TWINT a cui inviare l'importo in CHF (indicando il tuo numero d'ordine).<br\/><br\/>Pagamento in Bitcoin\/ETH\/CRO\/USDT (a partire da un importo della fattura di 500 EUR e solo per la consegna in paesi al di fuori dell'UE e Svizzera\/Lichtenstein): Se indichi nel campo dei commenti alla cassa che vuoi pagare con Bitcoin, riceverai un'email con l'indirizzo a cui inviare il Bitcoin e l'importo della fattura in Bitcoin. Come metodo di pagamento, si prega di scegliere 'Pagamento anticipato \/ Bonifico bancario'. <strong>NOTA BENE: La tabella qui sotto pubblicizza uno speciale sconto Bitcoin del 5%. Questa offerta non è più valida.<br\/><br\/>Sconto fedeltà:<\/strong><br\/>Sei stressato e leggi le nostre email solo di sfuggita? Allora tieni presente quanto segue: se ordini frequentemente, puoi beneficiare del nostro sconto fedeltà. Puoi trovare maggiori dettagli in ciascuna delle nostre e-mail con conferma di spedizione e numero di tracciamento.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_4XJVJh": {
+              "type": "spacer",
+              "settings": {
+                "space": "none"
+              }
+            }
+          },
+          "block_order": [
+            "text_mHVFr8",
+            "image_V6NmJJ",
+            "text_ii43W8",
+            "spacer_4XJVJh"
+          ]
+        },
+        "locale_RkmmdC": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_HLCrVG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Condições de envio e pagamento",
+                "text": "<h3><strong>Importante<\/strong><\/h3><p><strong>O seguinte aplica-se a entregas em países fora da UE, mas especialmente a entregas em regiões de crise: A responsabilidade pela remessa passa para o comprador quando a remessa for entregue de forma verificável ao prestador de serviços de transporte. O remetente não assume qualquer responsabilidade por atrasos que não sejam da sua responsabilidade. Para remessas que o prestador de serviços de remessa classificou como 'perdidas', o comprador receberá um reembolso do preço de compra, incluindo os custos de envio, assim que o prestador de serviços de remessa confirmar a perda.<\/strong>As taxas de transporte aqui apresentadas são absolutamente fiáveis apenas para os países da UE. Para todos os outros países, as taxas que são afixadas na caixa de saída aplicam-se em caso de dúvida.<\/p><p><strong>Devido à mudança no nosso sistema, infelizmente ainda não preparámos completamente a extensa lista com os custos de envio para todos os países do mundo. A lista só está disponível na língua alemã da loja. Em qualquer caso, verá os custos de envio no momento da compra quando seleccionar o país para o qual a entrega deve ser feita no menu pendente correspondente (endereço de entrega).<\/strong><br\/><br\/>O envio regular para países fora da União Europeia (tais como os EUA, Canadá, Israel, Brasil, etc.) é da Alemanha e não há IVA \/ imposto sobre vendas.<\/p><p><strong>Características especiais para entregas na Suíça:<\/strong>É fácil importar NMN para a Suíça! Você ainda tem uma vantagem adicional: como a Suíça não faz parte da UE, não cobraremos o IVA alemão (atualmente 19%) para um endereço de entrega na Suíça. Em troca, no entanto, será cobrado o imposto sobre vendas de importação de 7,7% cobrado pela alfândega suíça. A fim de economizar formalidades alfandegárias e taxas adicionais, cuidaremos da importação para você e entregaremos as mercadorias encomendadas diretamente da Suíça, desde que as mercadorias estejam em estoque na Suíça. (Se as mercadorias encomendadas não estiverem em estoque, você receberá uma mensagem nossa e poderá escolher se prefere esperar ou se devemos enviar as mercadorias da Alemanha.)<br\/><br\/>Se o país em que se encontra não existir na nossa lista de países de entrega, pode enviar-nos um pedido individual. Informaremos então se um envio para este país é possível e como estão as condições de envio.<\/p><h2><strong>Envio padrão (para o exterior de 8 a 14 dias)<\/strong><\/h2><p>O envio ocorre duas vezes por semana (terças e sábados) se recebermos os pedidos até segunda-feira às 20h ou sexta-feira às 20h o mais tardar. Para remessas para um país fora da UE, a remessa será atrasada em um dia útil se o valor do pedido for superior a EUR 1.000, pois tais remessas devem primeiro ser desembaraçadas pela alfândega em nosso centro de distribuição.<\/p><h2><strong>DHL Express (no exterior 4 a 7 dias):<\/strong><\/h2><p>O envio dentro da UE (e até um valor de pedido de EUR 1.000 também para um país fora da UE) ocorre no dia útil seguinte se o pedido for recebido antes das 20h (para pedidos em uma sexta-feira, o envio só pode ocorrer em Segunda-feira). Para envios para um país fora da UE e com um valor de pedido superior a EUR 1.000, são necessários dois dias, pois esses envios devem primeiro ser desembaraçados pela alfândega em nosso centro de distribuição.<br\/><br\/><strong>Expresso não é apenas Expresso<\/strong><br\/>O cálculo da taxa para remessas expresso é extremamente complicado. Veja aqui um exemplo:<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_nbYwkf": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_hWAYBW": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Na loja, o preço da opção mais barata será apresentado e reservado se selecionar Express.<br\/><br\/><strong>Há situações em que é tão urgente que uma 'entrega expresso comum' ainda é muito lento. <\/strong>Se se encontrar numa situação destas, poderá instruir-nos a escolher a forma de envio mais rápida possível. Isto também pode significar que trabalhamos até tarde da noite ou mesmo à noite ou que enviamos um funcionário para o centro de expedição especificamente para o seu pedido fora do horário de trabalho. Os custos adicionais em que incorremos devem ser cobertos por si sob a forma de um adiantamento de 100 euros (mas, em última análise, só paga pelos serviços que realmente prestamos, e não pelos serviços de que necessita. O adiantamento pago será creditado de volta na sua conta). ) clicando em <a href=\"https:\/\/www.afega-anti-aging-shop.com\/pt\/adiantamento-para-servicos-expressos-especiais-100-euros.html\">clique neste link<\/a> e adicione o adiantamento ao seu pedido. Por favor, deixe informações sobre os seus desejos específicos no campo de comentários (como: “Aceitar custos adicionais para a próxima utilização” e\/ou “Escolha o método de envio expresso mais rápido”). <strong>Não podemos garantir uma atribuição subsequente<\/strong>, pelo que apenas lhe serão cobrados os custos dessa atribuição (50 euros) se for encontrado um funcionário para a mesma. - <strong>NOTA:<\/strong>Este procedimento não é adequado para envios expresso para países fora da UE com um valor de encomenda superior a 1.000 euros. Conforme descrito acima, deve ser realizada uma inspeção aduaneira a tais remessas e o atraso associado é desproporcional ao tempo poupado pelas medidas aqui descritas. Mesmo para envios com um valor inferior a 1.000 euros, o tempo de trânsito depende tão fortemente das formalidades aduaneiras que a aceleração através de serviços expressos especiais é pouco significativa. Nestes casos, o 'envio expresso comum' provavelmente a escolha mais inteligente.<\/p><h2><strong>Se não vive num país da UE, por favor note:<\/strong><\/h2><p>Verifique com as autoridades aduaneiras do seu país para determinar se está autorizado a importar o produto que deseja comprar (especialmente no caso de NMN). O NMN não é uma substância perigosa ou proibida, mas existem frequentemente dificuldades com as autoridades alfandegárias porque a substância ainda é praticamente desconhecida fora dos Estados Unidos. Ajuda se declarar que se trata de um produto químico de que necessita para fins de investigação. Se declarar que se trata de um suplemento nutricional, terá dificuldades porque o NMN não está (ainda) aprovado como suplemento nutricional. Estamos dispostos a ajudá-lo a obter NMN importado utilizando \"AFEGA Research Group\" em vez de \"AFEGA Anti-Aging-Shop\" como endereço do remetente e colocando a nota \"Apenas para fins de investigação\" na embalagem. Por favor, deixe uma nota no campo de comentários no checkout, se quiser que o façamos.<strong>Formalidades aduaneiras<\/strong>: Se estiver preocupado com o processamento aduaneiro, podemos poupar-lhe formalidades aduaneiras (não os custos) se seleccionar DHL EXPRESS como método de envio e deixar-nos uma nota correspondente (\"Por favor, utilize o método de entrega DDP\") no campo de comentários. Em seguida, calcularemos antecipadamente o imposto sobre vendas de importação e os direitos aduaneiros aplicáveis ao seu país para esta entrega e facturar-lhe-emos estes montantes antecipadamente (por exemplo, com um link de pagamento se tiver pago via PayPal).<br\/><br\/><strong>A informação sobre o peso dada nesta página é o peso GROSS, ou seja, o peso incluindo a embalagem. Por conseguinte, a informação nesta página é apenas uma orientação. Apenas o preço indicado no carrinho de compras é vinculativo. E, por favor, tenha em atenção: A partir de 01.01.2020, as mercadorias já não podem ser enviadas para o estrangeiro como cartas normais.<\/strong><\/p><h2><strong>Condições especiais para comerciantes<\/strong><\/h2><p>Se é um retalhista e pretende encomendar maiores quantidades, envie-nos um pedido para<a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a>e descrever com o maior detalhe possível quais os produtos que pretende encomendar, em que quantidades e em que embalagem (tamanho da embalagem \/ material do recipiente \/ rotulagem). Far-lhe-emos então uma oferta individual. Importante: Os revendedores podem pagar com PayPal porque as condições garantidas pelo PayPal são voltadas para clientes finais e não são aplicáveis ​​a clientes comerciais. - Para orientação, segue a tabela de descontos para clientes atacadistas (a tabela sempre se refere ao preço do quilo do respectivo produto). A partir de 3 kg 7,5%, a partir de 5 kg 10%, a partir de 10 kg 15%, a partir de 25 kg 20%.<\/p><h2><strong>Formas de pagamento<\/strong><\/h2><p><strong>Desconto de pré-pagamento:<\/strong>Se pagar antecipadamente, ou seja, se transferir o valor da fatura diretamente para a nossa conta bancária em vez de pagar por PayPal ou cartão de crédito, receberá um desconto de 3%. - Tuttavia, questo non si applica ai rivenditori.<br\/><br\/>Oferecemos numerosas opções de pagamento, além de<strong>PayPal (não na Suíça)<\/strong>e uma transferência bancária regular N26 (UE), TWINT (CH), Revolut (CH + UE), Bitcoin (Mundo), etc. Se utilizar um dos métodos de pagamento N26, Revolut , TWINT ou Bitcoin, escolha 'Transferência bancária' na caixa. Receberá então as informações de conta correspondentes a cada um destes métodos de pagamento via e-mail. Indique na caixa de comentários se está a utilizar algum dos métodos de pagamento alternativos em vez de uma transferência bancária regular.<strong>Nota: Se for cliente PayPal, o PayPal oferece-lhe agora a opção de pagamento em prestações.Pagamento em Bitcoin\/ETH\/CRO\/USDT (a partir de um montante de factura de 500 euros e apenas para entrega em países fora da UE e Suíça\/Lichtenstein​):<\/strong>Se indicar no campo de comentários no checkout que pretende pagar com Bitcoin, receberá um e-mail com o endereço para o qual tem de enviar a Bitcoin e o montante da factura em Bitcoin. Como método de pagamento, escolha \"Pré-pagamento \/ Transferência Bancária\". NOTA: A tabela abaixo anuncia um desconto especial na Bitcoin de 5%. Esta oferta já não é válida.<br\/><br\/><strong>Desconto de fidelidade:<\/strong>Você está estressado e só lê nossos e-mails superficialmente? Então observe o seguinte: Se você faz pedidos com frequência, pode se beneficiar do nosso desconto de fidelidade. Você pode encontrar mais detalhes em cada um de nossos e-mails com confirmação de envio e número de rastreamento.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_dVqWXF": {
+              "type": "spacer",
+              "settings": {
+                "space": "none"
+              }
+            }
+          },
+          "block_order": [
+            "text_HLCrVG",
+            "image_nbYwkf",
+            "text_hWAYBW",
+            "spacer_dVqWXF"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_bHm7a8",
+        "locale_NbhxCd",
+        "locale_Pe6wVw",
+        "locale_HPYm3V",
+        "locale_RkmmdC"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_eHTGDf": {
+      "type": "section-custom",
+      "blocks": {
+        "text_FFrqYx": {
+          "type": "text",
+          "settings": {
+            "title": "Versand- & Zahlungsbedingungen",
+            "text": "<p>Wir versenden in (fast) alle Länder der Welt. Der Versand erfolgt aus Deutschland, weshalb Zoll und Zollformalitäten für EU-Länder entfallen. Auf Wunsch werden Sendungen mit einer Lieferadresse in der Schweiz von der Schweiz aus verschickt (siehe unten).<\/p><h2><strong>Wichtig<\/strong><\/h2><p><strong>Für Lieferungen in Länder außerhalb der EU, insbesondere aber für Lieferungen in Krisenregionen gilt: Die Verantwortung für die Sendung geht mit nachweislicher Übergabe der Sendung an den Versanddienstleister an den Käufer über. Der Versender übernimmt für Verzögerungen, die nicht in seinen Verantwortungsberiech fallen, keine Verantwortung. Für Sendungen, die der Versanddienstleister als 'verloren' eingestuft hat, erhält der Käufer den Kaufpreis incl. der Versandkosten zurück erstattet, sobald der Versanddienstleister den Verlust bestätigt hat.<\/strong><\/p><p>(DIe hier angegebenen Versandgebühren sind absolut zuverlässig nur für die Länder der EU. Für alle anderen Länder gelten im Zweifel die Gebühren, die beim Checkout an der Kasse angezeigt werden.)<\/p><p><strong>Sie sehen die Versandkosten beim Checkout (an der Kasse), wenn Sie im entsprechenden Dropdown-Menue das Land auswählen, in das die Lieferung erfolgen soll (Lieferadresse).<\/strong><\/p><p>Bei den auf dieser Seite angegebenen Gewichtsangaben handelt es sich um das BRUTTO-Gewicht, also das Gewicht incl. Verpackung, nicht das Gewicht des Produktes bzw. der Produkte. Daher sind die Angaben auf dieser Seite nur eine Orientierung. Verbindlich ist immer nur der im Warenkorb angezeigte Preis. <\/p><h2><strong>Standardversand (nach Übersee 8 bis 14 Tage)<\/strong><\/h2><p>Der Versand erfolgt zweimal wöchentlich (dienstags und samstags), wenn die Bestellungen bis spätestens Montag, 20 h, bzw. Freitag, 20 h, bei uns eingegangen sind. Bei Sendungen in ein Nicht-EU-Land verzögert sich der Versand um einen Werktag, sofern der Bestellwert über EUR 1.000,- liegt, da solche Sendungen zunächst in unserem Fulfilment Center vom Zoll frei gegeben werden müssen.<\/p><h2><strong>DHL-Express (nach Übersee 4 bis 7 Tage):<\/strong><\/h2><p>Der Versand innerhalb der EU (und bis zu einem Bestellwert von EUR 1.000 auch in ein Nicht-EU-Land) erfolgt am folgenden Werktag, falls die Bestellung vor 20 h eingeht (bei Bestelliungen an einem Freitag kann der Versand erst am Montag erfolgen). Bei Sendungen in ein Land außerhalb der EU und mit einem Bestellwert über EUR 1.000 werden zwei Tage benötigt, da solche Sendungen zunächst in unserem Fulfilment Center vom Zoll frei gegeben werden müssen.<br\/><br\/>Bei den berechneten Gebühren für Express-Sendungen ist ein Treibstoffzuschlag eingerechnet, der von dem gebuchten Flug abhängt und von DHL Express monatlich neu berechnet wird. Sollte der tatsächliche Zuschlag geringer ausfallen als im Shop angezeigt, wird Ihrem Konto der Differenzbetrag gutgeschrieben und steht bei einer zukünftigen Bestellung als Guthaben zur Verfügung.<br\/><br\/><strong>Express ist nicht gleich Express<\/strong><br\/>Die Gebührenberechnung für Expressendungen ist ausgesprochen kompliziert. Sehen Sie hier ein Beispiel:<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_NVWW49": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Preise-Express-Sendungen.png",
+            "link": "",
+            "width": "2\/3"
+          }
+        },
+        "text_3cm6wc": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Im Shop wird der Preis für die preiswerteste Variante angezeigt und gebucht, wenn Sie Express-Versand auswählen.<br\/><br\/><strong>Es gibt Situationen, in denen ist es so eilig, dass eine 'gewöhnliche Expressendung' noch immer zu langsam ist. <\/strong>Wenn Sie sich in einer solchen Situation befinden, dann können Sie uns anweisen, die schnellst mögliche Form des Versands zu wählen. Dazu kann auch gehören, dass wir spät abends oder gar in der Nacht noch tätig werden oder einen Mitarbeiter eigens für Ihren Auftrag außerhalb seiner Arbeitszeit ins Versandzentrum schicken. Die für uns dabei entstehenden zusätzlichen Kosten müssen von Ihnen in Form eines Vorschusses in Höhe von EUR 100 abgesichert werden (Sie bezahlen schlussendlich aber nur für die tatsächlich von uns erbrachten Leistungen, nicht benötigter Vorschuss wird Ihrem Konto wieder gutgeschrieben), indem Sie auf den <a href=\"https:\/\/www.antiaging-shop.com\/products\/vorschuss-fur-spezielle-express-dienstleistungen-eur-100?_pos=1&_psq=Vorschuss&_ss=e&_v=1.0\" target=\"_blank\" title=\"Express-Dienstleistung\">diesen Link<\/a> klicken und den Vorschuss Ihrer Bestellung hinzufügen. Bitte hinterlassen SIe im Kommentarfeld Hinweise zu Ihren konkreten Wünschen (etwa: \"Akzeptiere zusätzliche Kosten für nächtlichen Einsatz\" und\/oder \"Schnellste Express-Versandart wählen\"). <strong>Wir können einen nächtlichen Einsatz nicht garantieren<\/strong>, daher werden Ihnen die Kosten für einen solchen Einsatz (EUR 50) nur in Rechnung gestellt, falls ein Mitarbeiter dafür gefunden werden konnte. - <strong>HINWEIS: <\/strong>Dieses Verfahren ist nicht geeignet für Expresssendungen ins Nicht-EU-Ausland mit einem Bestellsert von mehr als EUR 1.000. Wie weiter unten beschrieben muss bei solchen Sendungen eine Zollbeschau durchgeführt werden und die damit verbundene Verzögerung steht in keinem Verhältnis zu dem Zeitgewinn durch die hier beschriebenen Maßnahmen. Auch bei Sendungen mit einem Wert unter EUR 1.000 hängt die Laufzeit so stark von den Zollformalitäten ab, dass die Beschleunigung durch spezielle Express-Dienstleistungen dagegen kaum ins Gewicht fällt. In diesen Fällen ist also der 'gewöhnliche Expressversand' vermutlich die klügere Wahl.<\/p><h3><strong>Express-Sendungen innerhalb Deutschlands:<\/strong><\/h3><p>Wenn der Bestellwert Ihrer Bestellung über EUR 150 liegen sollte, sind gewöhnliche Sendungen versandkostenfrei. Aus technischen Gründen wird Ihnen in diesem Fall die Option 'Express-Versand' nicht angezeigt. Als Lösung schlagen wir folgendes Vorgehen vor: Sie schreiben in das Kommentarfeld beim Checkout \"Express-Versand - Gebühren via PayPal überwiesen\" und überweisen EUR 60 an das PayPal-Konto sekretariat.afega@gmail,com und geben unter Verwendungszweck die Bestellnummer und den Text \"Zuschlag Expressversand\". <\/p><h2><strong>Wenn Sie nicht in einem Land der EU wohnen, bitte beachten:<\/strong><\/h2><p>Erkundigen Sie sich bei den Zollbehörden Ihres Landes, ob Sie das Produkt, das Sie erwerben möchten (insbesondere im Fall von NMN) importieren dürfen. Es handelt sich bei NMN nicht um eine gefährliche oder verbotene Substanz, trotzdem kommt es immer wieder zu Schwierigkeiten mit den Zollbehörden, weil die Substanz ausserhalb der USA noch praktisch unbekannt ist. Es hilft, wenn Sie angeben, dass es sich um eine Chemikalie handelt, die Sie zu Forschungszwecken benötigen. Wenn Sie angeben, dass es sich um ein Nahrungsergänzungsmittel handelt, bekommen Sie Schwierigkeiten, weil NMN (noch) nicht als Nahrungsergänzungsmittel zugelassen ist. <strong>Zollformalitäten<\/strong>: Wenn Sie Sorge um die Abwicklung beim Zoll haben, können wir Ihnen Zoll<em>formalitäten<\/em> (nicht die Kosten) ersparen, wenn Sie DHL EXPRESS als Versandmethode auswählen und uns im Kommentarfeld einen entsprechenden Hinweis (\"Bitte Liefermethode DDP\") hinterlassen.  Wir berechnen dann im voraus die für diese Lieferung anfallende Einfuhrumsatzsteuer und die Zollgebühren für Ihr Land und stellen Ihnen diese Beträge, zuzüglich einer (von DHL Express von uns verlangten) Verarbeitungsgebühr, vorab in Rechnung (z. B. mit einem payment link, wenn Sie via PayPal bezahlt haben). <br\/><br\/><strong>Besonderheiten bei Lieferungen in die Schweiz: <\/strong>Es ist problemlos möglich, NMN in die Schweiz zu importieren!  <\/p><p><strong>Sollte das Land, in dem Sie sich befinden, in unserer Liste der Lieferländer nicht vorhanden sein, können Sie eine individuelle Anfrage an uns senden. Wir teilen Ihnen dann mit, ob ein Versand in dieses Land möglich ist und wie die Versandbedingungen dafür sind.<\/strong><\/p><p><br\/><\/p><h2><strong>Sonderkonditionen für Händler<\/strong><\/h2><p>Wenn Sie Händler sind und größere Mengen bestellen wollen, senden Sie uns bitte eine Anfrage an <a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a> und beschreiben Sie so detailliert wie möglich, welche Produkte Sie in welchen Mengen und in welcher Konfektionierung (Verpackungsgröße\/Behältermaterial\/Etikettierung) bestellen möchten. Wir unterbreiten Ihnen dann ein individuelles Angebot. Wichtig: Händler können nicht mit PayPal bezahlen, weil die von PayPal garantierten Konditionen auf Endkunden abgestellt sind und für gewerbliche Kunden nicht anwendbar sind. Zur Orientierung hier die Rabattstaffelung für Großhandelskunden (die Staffelung bezieht sich jeweils auf den Kilopreis des jeweiligen Produkts). Ab 3 kg 7,5%, ab 5 kg 10%, ab 10 kg 15%, ab 25 kg 20%.<br\/><br\/>Wenn Sie (z. B. als junges Startup) in Erwägung ziehen, uns als einer der (zukünftigen) Großhandelskunden des AFEGA Anti-Aging-Shops (zumindest für den Anfang) Ihre Logistik zu übertragen: <a href=\"https:\/\/www.dpn-fulfillment-center.de\/\">DPN-Fulfillment-Center<\/a><\/p><h2><\/h2><h2><strong>Zahlungsweisen<\/strong><\/h2><p>Wir bieten zahlreiche Zahlungsmöglichkeiten an, neben <strong>PayPal<\/strong> und einer regulären Banküberweisung, N26 (EU), TWINT (CH), Revolut (CH+EU), usw. Wenn Sie eine der Zahlungsweisen N26, Revolut oder TWINT nutzen möchten, wählen Sie an der Kasse 'Banküberweisung\/Vorkasse'. Sie erhalten dann für jede dieser Zahlungsweisen per Email die entsprechenden Kontoinformationen. Bitte geben Sie im Kommentarfeld an, wenn Sie eine der alternativen Zahlungsmethoden statt einer regulären Banküberweisung nutzen werden.<\/p><p><strong>Vorkasse-Rabatt: <\/strong>Wenn Sie via Banküberweisung oder TWINT bezahlen, werden Ihrem Kundenkonto 3% Vorkasse-Rabatt gutgeschrieben. Dieses Guthaben wird bei einem zukünftigen Einkauf automatisch vom Rechnungsbetrag abgezogen.<\/p><p><strong>Treue-Rabatt:<\/strong><\/p><p>Sie sind im Stress und lesen unsere Emails nur flüchtig? Dann beachten Sie bitte folgenden Hinweis: Wenn Sie häufiger bestellen, können Sie von unserem Treue-Rabatt profitieren. Genaueres finden Sie in jeder unserer Emails mit der Versandbestätigung und der Sendungsverfolgungsnummer.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_FGHa8e": {
+          "type": "spacer",
+          "disabled": true,
+          "settings": {
+            "space": "none"
+          }
+        },
+        "button_D98nrU": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "title": "Button",
+            "link": "",
+            "link_style": "primary",
+            "width": "1\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_FFrqYx",
+        "image_NVWW49",
+        "text_3cm6wc",
+        "spacer_FGHa8e",
+        "button_D98nrU"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "shipping_table_z9maHE": {
+      "type": "shipping-table",
+      "blocks": {
+        "row_p8gi7L": {
+          "type": "row",
+          "settings": {
+            "country": "Andorra",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_v9ui89": {
+          "type": "row",
+          "settings": {
+            "country": "Vereinigte Arabische Emirate",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a1dfg3": {
+          "type": "row",
+          "settings": {
+            "country": "Afghanistan",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_q2wsy5": {
+          "type": "row",
+          "settings": {
+            "country": "Antigua und Barbuda",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_l4ndx7": {
+          "type": "row",
+          "settings": {
+            "country": "Anguilla",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_o8hvx9": {
+          "type": "row",
+          "settings": {
+            "country": "Albanien",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_r2shy3": {
+          "type": "row",
+          "settings": {
+            "country": "Armenien",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_t7xwz8": {
+          "type": "row",
+          "settings": {
+            "country": "Angola",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_2": {
+          "type": "row",
+          "settings": {
+            "country": "Antarktika",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_3": {
+          "type": "row",
+          "settings": {
+            "country": "Argentina",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_4": {
+          "type": "row",
+          "settings": {
+            "country": "Amerikanisch-Samoa",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_5": {
+          "type": "row",
+          "settings": {
+            "country": "Australien",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_6": {
+          "type": "row",
+          "settings": {
+            "country": "Aruba",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_7": {
+          "type": "row",
+          "settings": {
+            "country": "Åland",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_8": {
+          "type": "row",
+          "settings": {
+            "country": "Aserbaidschan",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_9": {
+          "type": "row",
+          "settings": {
+            "country": "Bosnien und Herzegowina",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_10": {
+          "type": "row",
+          "settings": {
+            "country": "Barbados",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7L_11": {
+          "type": "row",
+          "settings": {
+            "country": "Bangladesch",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_p8gi7j": {
+          "type": "row",
+          "settings": {
+            "country": "Burkina Faso",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_1LkfgdS": {
+          "type": "row",
+          "settings": {
+            "country": "Bahrain",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_1": {
+          "type": "row",
+          "settings": {
+            "country": "Andorra",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_2": {
+          "type": "row",
+          "settings": {
+            "country": "Benin",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_3": {
+          "type": "row",
+          "settings": {
+            "country": "Sankt Bartholomäus",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_4": {
+          "type": "row",
+          "settings": {
+            "country": "Bermuda",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_5": {
+          "type": "row",
+          "settings": {
+            "country": "Brunei Darussalam",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_6": {
+          "type": "row",
+          "settings": {
+            "country": "Bolivien (Plurinationaler Staat)",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_7": {
+          "type": "row",
+          "settings": {
+            "country": "Bonaire, Sint Eustatius und Saba",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_8": {
+          "type": "row",
+          "settings": {
+            "country": "Brasilien",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_9": {
+          "type": "row",
+          "settings": {
+            "country": "Bahamas",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a1": {
+          "type": "row",
+          "settings": {
+            "country": "Bhutan",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a2": {
+          "type": "row",
+          "settings": {
+            "country": "Bouvetinsel",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a3": {
+          "type": "row",
+          "settings": {
+            "country": "Botswana",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a4": {
+          "type": "row",
+          "settings": {
+            "country": "Belarus (Weißrussland)",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a5": {
+          "type": "row",
+          "settings": {
+            "country": "Belize",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a6": {
+          "type": "row",
+          "settings": {
+            "country": "Kanada",
+            "shipping_cost": "EUR 34 up to 1 kg\nEUR 40 up to 2 kg\nEUR 46 up to 3 kg\nEUR 52 up to 4 kg\nEUR 58 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a7": {
+          "type": "row",
+          "settings": {
+            "country": "Kokosinseln",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a8": {
+          "type": "row",
+          "settings": {
+            "country": "Demokratische Republik Kongo",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a9": {
+          "type": "row",
+          "settings": {
+            "country": "Zentralafrikanische Republik",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_a10": {
+          "type": "row",
+          "settings": {
+            "country": "Republik Kongo",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b1": {
+          "type": "row",
+          "settings": {
+            "country": "Schweiz",
+            "shipping_cost": "EUR 18 up to 1 kg\nEUR 20 up to 2 kg\nEUR 21 up to 3 kg\nEUR 22 up to 4 kg\nEUR 24 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (Kreditkartenzahlung möglich, auch wenn man nicht angemeldet ist)\nVorkasse\/Banküberweisung\nNachnahme (Aufpreis CHF 14)\nRevolut\nTWINT\nBitcoin (.\/. 5 % 'Bitcoin-Rabatt')\nBarzahlung bei Abholung"
+          }
+        },
+        "row_b2": {
+          "type": "row",
+          "settings": {
+            "country": "Côte d'Ivoire (Elfenbeinküste)",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b3": {
+          "type": "row",
+          "settings": {
+            "country": "Cookinseln",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b4": {
+          "type": "row",
+          "settings": {
+            "country": "Chile",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b5": {
+          "type": "row",
+          "settings": {
+            "country": "Kamerun",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b6": {
+          "type": "row",
+          "settings": {
+            "country": "China, Volksrepublik",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": ""
+          }
+        },
+        "row_b7": {
+          "type": "row",
+          "settings": {
+            "country": "Kolumbien",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        },
+        "row_b8": {
+          "type": "row",
+          "settings": {
+            "country": "Costa Rica",
+            "shipping_cost": "EUR 45 up to 1 kg\nEUR 52 up to 2 kg\nEUR 60 up to 3 kg\nEUR 67 up to 4 kg\nEUR 75 up to 5 kg",
+            "additional_time": "",
+            "payment_methods": "PayPal (credit card payment possible, even if you are not registered)\nPayment in advance\/bank transfer\nBitcoin (5% special bitcoin discount)"
+          }
+        }
+      },
+      "block_order": [
+        "row_p8gi7L",
+        "row_v9ui89",
+        "row_a1dfg3",
+        "row_q2wsy5",
+        "row_l4ndx7",
+        "row_o8hvx9",
+        "row_r2shy3",
+        "row_t7xwz8",
+        "row_p8gi7L_2",
+        "row_p8gi7L_3",
+        "row_p8gi7L_4",
+        "row_p8gi7L_5",
+        "row_p8gi7L_6",
+        "row_p8gi7L_7",
+        "row_p8gi7L_8",
+        "row_p8gi7L_9",
+        "row_p8gi7L_10",
+        "row_p8gi7L_11",
+        "row_p8gi7j",
+        "row_1LkfgdS",
+        "row_1",
+        "row_2",
+        "row_3",
+        "row_4",
+        "row_5",
+        "row_6",
+        "row_7",
+        "row_8",
+        "row_9",
+        "row_a1",
+        "row_a2",
+        "row_a3",
+        "row_a4",
+        "row_a5",
+        "row_a6",
+        "row_a7",
+        "row_a8",
+        "row_a9",
+        "row_a10",
+        "row_b1",
+        "row_b2",
+        "row_b3",
+        "row_b4",
+        "row_b5",
+        "row_b6",
+        "row_b7",
+        "row_b8"
+      ],
+      "settings": {}
+    },
+    "section_custom_6mmbHM": {
+      "type": "section-custom",
+      "blocks": {
+        "spacer_HthVk6": {
+          "type": "spacer",
+          "settings": {
+            "space": "medium"
+          }
+        }
+      },
+      "block_order": [
+        "spacer_HthVk6"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "localized_content_BPcFEc",
+    "section_custom_eHTGDf",
+    "shipping_table_z9maHE",
+    "section_custom_6mmbHM"
+  ]
+}

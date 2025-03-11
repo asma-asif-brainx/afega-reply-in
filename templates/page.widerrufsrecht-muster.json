@@ -1,0 +1,163 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "localized_content_ir3Df6": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_Rg8TMT": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_febcQk": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Right of Withdrawal \/ Model Withdrawal Form",
+                "text": "<p><strong>Withdrawal<\/strong><br\/><br\/><\/p><h2><strong>These regulations do not apply to you if you have registered as a dealer and order as a dealer!<\/strong><br\/><br\/>Consumers can withdraw from contracts concluded via the AFEGA web shop within 14 calendar days without giving reasons. In order to meet the deadline, it is sufficient if the corresponding declaration is sent within the above-mentioned deadline or the goods are returned. The date of the postmark or another whose evidential value is equivalent to proof applies.<\/h2><p><br\/>When buying goods begins the 14-day period with the receipt of the goods at the customer or on the day on which the customer has the first opportunity to pick up the goods from the carrier (eg post office, parcel service).<br\/><br\/><strong>Please note that cosmetics and dietary supplements have no legal right of withdrawal if the seal is damaged.​<\/strong><\/p><h3><strong>Costs of withdrawal<\/strong><\/h3><p>If you exercise your right of withdrawal, you must bear the regular costs of the return.<\/p><h3><br\/>Withdrawal for customers based in Germany<\/h3><p>You have the right to withdraw from this contract within fourteen days without giving any reason. The cancellation period is fourteen days from the day on which you or a third party named by you, who does not have the carrier, took possession of the last partial shipment or the last piece. In order to exercise your right of withdrawal, you must (AFEGA anti-aging shop, Guttenberger Str. 29, 97234 Reichenberg\/Germany, E-Mail: sekretariat.afega@gmail.com) by means of a clear statement (eg a letter sent by mail, fax or e-mail) about your decision to withdraw from this contract. In order to maintain the withdrawal period, it is sufficient that you send the notice of the exercise of the right of withdrawal before the expiry of the withdrawal period.<br\/><br\/><strong>Model withdrawal form<\/strong><br\/>(If you want to revoke the contract, you can use the form below: It is not compulsory to use it, if you want to use the form, please fill it in and send it to AFEGA Anti-Aging-Shop, Tannli 8, 3416 Affoltern, Switzerland or by e-mail: sekretariat.afega@gmail.com.<br\/><br\/>I \/ we (*) hereby revoke the contract concluded by me \/ us (*) for the purchase of the following goods (*) \/ the provision of the following service (*) ... Ordered on (*) \/ received on (* ) Name of the consumer (s) Address of the consumer (s) (only if notified on paper) Date<br\/><br\/>(*) Please delete as appropriate<\/p><h3>Consequences of the revocation for customers based in Germany<\/h3><p>If you withdraw from this Agreement, we have to refund all payments we have received from you, including delivery charges. For this repayment, we use the same means of payment that you used in the original transaction, unless otherwise agreed with you; In no case will you be charged for this repayment fees. We may refuse to repay you until we have the goods back or until you have provided proof that you have returned the goods, whichever is the earlier. You have to send back the goods immediately and in any event not later than fourteen days from the date on which you inform us of the revocation of this contract to the following address:<strong>AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid\/Germany<\/strong> to be returned or handed over. The deadline is met if you send the goods before the expiry of the period of fourteen days. You bear the immediate costs of returning the goods. You only have to pay for a possible loss in value of the goods, if this loss of value is due to a handling that is not necessary for the examination of the nature, characteristics and functionality of the goods.<br\/><br\/>The right of withdrawal does not apply to the following contracts: Contracts for the delivery of sealed goods that are not suitable for return for reasons of health or hygiene (see above).<\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_febcQk"
+          ]
+        },
+        "locale_LJLP4J": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_33ac9g": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Derecho de desistimiento y modelo de formulario de desistimiento",
+                "text": "<p><strong>Widerrufsrecht<\/strong><br\/><br\/><\/p><p><strong>¡Estas regulaciones no se aplican a usted si se ha registrado como distribuidor y realiza un pedido como distribuidor!<\/strong><\/p><h2>Los consumidores pueden desistir de los contratos celebrados a través de la tienda web de AFEGA en un plazo de 14 días naturales, sin necesidad de indicar los motivos. Para cumplir el plazo, basta con que se envíe la declaración correspondiente o se devuelva la mercancía dentro del plazo mencionado. Se aplicará la fecha del matasellos u otra prueba equivalente a su valor probatorio.<br\/><br\/>En el caso de la compra de bienes, el plazo de 14 días comienza con la recepción de los bienes por parte del cliente o con el día en que el cliente tiene la primera oportunidad de recoger los bienes del transportista (por ejemplo, la oficina de correos, el servicio de paquetería).<br\/><br\/>Tenga en cuenta que en el caso de los productos cosméticos y los suplementos dietéticos de la Tienda Antienvejecimiento AFEGA, existe un derecho legal de devolución sólo si el sello no se ha roto.<br\/><br\/>ACUERDO DE GASTOS<br\/>\u2028Si hace uso de su derecho de desistimiento, deberá correr con los gastos habituales de devolución de la mercancía.<br\/><br\/>Derecho de desistimiento para clientes con sede en Alemania<br\/>\u2028Tiene derecho a rescindir este contrato en un plazo de catorce días sin indicar el motivo. El plazo de revocación es de catorce días a partir del día en que usted o un tercero nombrado por usted, que no sea el transportista, haya tomado posesión del último envío parcial o del último artículo. Para ejercer su derecho de desistimiento, debe informarnos (AFEGA Anti-Aging-Shop, Tannli 8, 3416 Affoltern, Suiza, correo electrónico: sekretariat.afega@gmail.com) mediante una declaración clara (por ejemplo, una carta enviada por correo postal, fax o correo electrónico) de su decisión de desistir del presente contrato. Para cumplir con el plazo de cancelación, basta con que usted envíe la notificación del ejercicio del derecho de cancelación antes de que finalice el plazo de cancelación.<br\/><br\/>Modelo de formulario de anulación<br\/>(Si desea revocar el contrato, puede utilizar el siguiente formulario. Su uso no es obligatorio. Si desea utilizar el formulario, rellénelo y envíelo a AFEGA Anti-Aging-Shop, Guttenberger Str. 29, 97234 Reichenberg, Alemania o por correo electrónico: sekretariat.afega@gmail.com.<\/h2><p>Yo\/nosotros (*) desistimos del contrato celebrado por mí\/nosotros (*) para la compra de los siguientes bienes (*) \/ la prestación del siguiente servicio (*) ... Pedido el (*)\/recibido el (*) Nombre del consumidor(es) Dirección del consumidor(es) (sólo en caso de comunicación en papel) Fecha<br\/><br\/>(*) Táchese lo que no proceda.<br\/>Consecuencias de la anulación para los clientes establecidos en Alemania\u2028<br\/>Si rescinde el contrato, debemos reembolsar todos los pagos que hayamos recibido de usted, incluidos los gastos de envío (a excepción de los gastos adicionales resultantes del hecho de que usted haya elegido un tipo de envío distinto del envío estándar más barato que ofrecemos), sin demora y a más tardar en un plazo de catorce días a partir del día en que hayamos recibido la notificación de su rescisión del contrato. Para este reembolso, utilizaremos el mismo medio de pago que usted utilizó para la transacción original, a menos que se acuerde expresamente lo contrario con usted; en ningún caso se le cobrará por este reembolso. Podremos denegar el reembolso hasta que hayamos recibido la mercancía o hasta que usted haya presentado una prueba de que ha devuelto la mercancía, lo que ocurra primero.\u2028Deberá devolver los bienes inmediatamente y, en cualquier caso, en un plazo máximo de catorce días a partir del día en que nos notifique la cancelación de este contrato a la siguiente dirección de devolución:<strong>AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid, Alemania<\/strong>. El plazo se cumple si envía la mercancía antes de que expire el plazo de catorce días. Usted correrá con los gastos directos de devolución de la mercancía.\u2028Sólo tiene que pagar la pérdida de valor de la mercancía si ésta se debe a una manipulación de la misma que no es necesaria para comprobar su estado, propiedades y funcionamiento.<br\/><br\/>El derecho de desistimiento no se aplica a los siguientes contratos:\u2028Contratos de entrega de bienes precintados que no son aptos para ser devueltos por razones de protección de la salud o de higiene (véase más arriba).<\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_33ac9g"
+          ]
+        },
+        "locale_ipD9yn": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_WqbB9j": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Droit de rétractation & modèle de formulaire de rétractation",
+                "text": "<p><strong>Widerrufsrecht<\/strong><br\/><br\/><\/p><p><strong>Ces réglementations ne s'appliquent pas à vous si vous vous êtes enregistré en tant que revendeur et que vous avez commandé en tant que revendeur !<\/strong><\/p><h2>Les consommateurs peuvent résilier les contrats conclus via la boutique en ligne d'AFEGA dans un délai de 14 jours calendaires - sans indication de motifs. Pour que le délai soit respecté, il suffit que la déclaration correspondante soit envoyée ou que la marchandise soit renvoyée dans le délai susmentionné. La date du cachet de la poste ou toute autre preuve ayant la même force probante fait foi.<br\/><br\/>En cas d'achat de marchandises, le délai de 14 jours commence à courir à partir de la réception de la marchandise par le client ou à partir du jour où le client a pour la première fois la possibilité de retirer la marchandise auprès du transporteur (par ex. poste, service de colis).<br\/><br\/>Veuillez noter que pour les produits cosmétiques et les compléments alimentaires de la boutique AFEGA Anti-Aging, le droit de retour légal n'existe que si le sceau n'est pas endommagé.<br\/><br\/>ACCORD DE PRISE EN CHARGE DES FRAIS<br\/>\u2028Si vous faites usage de votre droit de rétractation, les frais réguliers de renvoi sont à votre charge.<br\/><br\/>Droit de rétractation pour les clients domiciliés en Allemagne<br\/>\u2028Vous avez le droit de vous rétracter du présent contrat dans un délai de quatorze jours sans donner de motif. Le délai de rétractation est de quatorze jours à compter du jour où vous-même ou un tiers désigné par vous, qui n'est pas le transporteur, avez pris possession du dernier envoi partiel ou de la dernière pièce. Pour exercer votre droit de rétractation, vous devez nous informer (AFEGA Anti-Aging-Shop, Tannli 8, 3416 Affoltern, Suisse, e-mail : sekretariat.afega@gmail.com) de votre décision de vous rétracter du présent contrat au moyen d'une déclaration dénuée d'ambiguïté (par ex. lettre envoyée par la poste, télécopie ou e-mail). Pour que le délai de rétractation soit respecté, il suffit que vous envoyiez la communication relative à l'exercice du droit de rétractation avant l'expiration du délai de rétractation.<\/h2><p><strong>Modèle de formulaire de rétractation<\/strong><br\/>(Si vous souhaitez révoquer le contrat, vous pouvez utiliser le formulaire ci-dessous. Son utilisation n'est pas obligatoire. Si vous souhaitez utiliser le formulaire, veuillez le remplir et l'envoyer à<strong>AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid<\/strong>,<strong>Allemagne<\/strong> ou par e-mail : sekretariat.afega@gmail.com.<br\/><br\/>Par la présente, je\/nous (*) révoque(ons) le contrat que j'ai\/nous avons (*) conclu pour l'achat des marchandises suivantes (*) \/ la fourniture du service suivant (*) ... Commandé le (*)\/reçu le (*) Nom du\/des consommateur(s) Adresse du\/des consommateur(s) (uniquement en cas de communication sur papier) Date<br\/><br\/>(*) Biffer la mention inutile.<br\/>Conséquences de la rétractation pour les clients établis en Allemagne\u2028<br\/>En cas de rétractation du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (à l'exception des frais supplémentaires découlant du fait que vous avez choisi un mode de livraison autre que le mode de livraison standard le moins cher que nous proposons), sans retard excessif et au plus tard quatorze jours à compter de la date à laquelle nous avons reçu la communication de votre décision de rétractation du présent contrat. Pour ce remboursement, nous utilisons le même moyen de paiement que celui que vous avez utilisé pour la transaction initiale, à moins qu'il n'en ait été expressément convenu autrement avec vous ; en aucun cas, des frais ne vous seront facturés pour ce remboursement. Nous pouvons refuser le remboursement jusqu'à ce que nous ayons récupéré les marchandises ou jusqu'à ce que vous ayez fourni la preuve que vous avez renvoyé les marchandises, la date retenue étant celle du premier de ces faits. \u2028Vous devez renvoyer les biens sans retard excessif et, en tout état de cause, au plus tard quatorze jours à compter de la date à laquelle vous nous informez de votre décision de rétractation du présent contrat, à l'adresse de retour suivante : Gesine Mantel, c\/o Achim von Flatow, Theaterstr. 26, 90762 Fürth à renvoyer ou à remettre. Le délai est respecté si vous renvoyez les marchandises avant l'expiration du délai de quatorze jours. Les frais directs de renvoi des marchandises sont à votre charge.\u2028Vous ne devez prendre en charge une éventuelle perte de valeur des marchandises que si cette perte de valeur est due à une manipulation non nécessaire pour vérifier la nature, les propriétés et le fonctionnement des marchandises.<br\/><br\/>Le droit de rétractation ne s'applique pas aux contrats suivants :\u2028Contrats de livraison de marchandises scellées qui ne peuvent être retournées pour des raisons de protection de la santé ou d'hygiène (voir ci-dessus).<\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_WqbB9j"
+          ]
+        },
+        "locale_eDF9PD": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_xYdM34": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Diritto di recesso \/ Modello di modulo di recesso",
+                "text": "<p><strong>revoca<\/strong><br\/><br\/><\/p><h2><strong>Queste regole non si applicano a te se ti sei registrato come commerciante e fai ordini come commerciante!<br\/><br\/>Il<\/strong> consumatore può recedere dal contratto concluso attraverso il webshop AFEGA entro 14 giorni di calendario senza indicarne il motivo. È sufficiente per rispettare questo termine se viene inviata una dichiarazione in tal senso o se la merce viene restituita entro il suddetto termine. La data del timbro postale o un'altra data con valore probatorio vale come prova.<br\/><br\/>In caso di acquisto di beni, il periodo di 14 giorni inizia dalla data di ricevimento della merce da parte del cliente o dalla data in cui il cliente ha la prima opportunità di ritirare la merce dal vettore (ad esempio, ufficio postale, servizio pacchi).<br\/><br\/>Si prega di notare che i cosmetici e gli integratori alimentari non hanno un diritto legale di richiamo se il sigillo è danneggiato.<br\/>Costi associati al richiamo di un prodotto<br\/>Se esercita il suo diritto di recesso, deve sostenere i costi regolari della restituzione.<\/h2><h3>Feedback per i clienti in Germania<\/h3><p>Lei ha il diritto di recedere da questo contratto entro quattordici giorni senza indicarne il motivo. Il termine di recesso è di quattordici giorni a partire dalla data in cui lei o un terzo che non ha un trasportatore da lei indicato prende possesso dell'ultima spedizione parziale o dell'ultimo articolo. Per esercitare il suo diritto di recesso dal contratto, deve (AFEGA Anti-Aging-Shop, 29 Guttenberger Str., 97234 Reichenberg\/Germania, e-mail: sekretariat.afega@gmail.com) comunicare la sua decisione di recedere da questo contratto con una dichiarazione esplicita (ad esempio per lettera, fax o e-mail). Per mantenere il periodo di disdetta, è sufficiente che lei abbia inviato una notifica del suo diritto di recesso prima della scadenza del periodo di disdetta.<strong>Modello di modulo di ritiro<\/strong>(Se desiderate annullare il contratto potete utilizzare il modulo qui sotto: il suo utilizzo non è obbligatorio, se desiderate utilizzare il modulo, vi preghiamo di compilarlo e inviarlo a AFEGA Anti-Aging Store, Tannli 8, 3416 Affoltern, Svizzera o via e-mail: sekretariat.afega@gmail.com).Io \/ noi (*) revochiamo il contratto stipulato da me \/ noi (*) per l'acquisto dei seguenti beni (*) \/ prestazione dei seguenti servizi (*) ... Ordinato a (*) \/ ricevuto a (* ) Nome del\/i consumatore\/i Indirizzo del\/i consumatore\/i (solo in caso di notifica cartacea) (*) Si prega di cancellare se necessario<\/p><h3>Implicazioni del richiamo per i clienti con sede in Germania<\/h3><p>Se lei annulla questo accordo, dobbiamo rimborsare qualsiasi pagamento che riceviamo da lei, incluso il costo della consegna. Per tale rimborso useremo lo stesso mezzo di pagamento che hai usato nella transazione originale, a meno che non sia stato concordato diversamente con te; in nessun caso ti verrà addebitato questo ritorno. Possiamo rifiutare il tuo rimborso fino a quando non riceviamo la merce indietro o fino a quando non ci fornisci la prova che hai restituito la merce, a seconda di quale delle due viene prima. Lei deve rispedire la merce immediatamente e in ogni caso non oltre quattordici giorni dalla data in cui ci ha comunicato la disdetta del presente contratto al seguente indirizzo:<strong>AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid\/Germania per la restituzione o la consegna.<\/strong>Il termine è rispettato se lei spedisce la merce prima della scadenza del periodo di quattordici giorni. I costi diretti della restituzione della merce saranno a vostro carico. Lei deve pagare la possibile perdita di valore della merce solo se questa perdita di valore è causata da una manipolazione che non è necessaria per esaminare la natura, le caratteristiche e la funzionalità della merce.Il diritto di recesso non si applica ai seguenti contratti: Contratti per la fornitura di beni sigillati che non possono essere restituiti per motivi di salute o di igiene (vedi sopra).<\/p><p><\/p><ul><li><\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_xYdM34"
+          ]
+        },
+        "locale_DDnCPY": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_JbKTnn": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Direito de Retirada \/ exemplo Formulário de Retirada",
+                "text": "<p><strong>Retirada<\/strong><br\/><br\/><\/p><h2><strong>Estes regulamentos não se aplicam a si se se tiver registado como revendedor e encomendar como revendedor!<\/strong><br\/><br\/>Os consumidores podem rescindir os contratos celebrados através da loja web da AFEGA no prazo de 14 dias de calendário, sem indicação dos motivos. A fim de cumprir o prazo, é suficiente que a declaração correspondente seja enviada dentro do prazo acima mencionado ou que a mercadoria seja devolvida. A data do carimbo do correio ou outra cujo valor probatório seja equivalente à prova aplica-se.<br\/><br\/>Ao comprar a mercadoria começa o período de 14 dias com a recepção da mercadoria no cliente ou no dia em que o cliente tem a primeira oportunidade de levantar a mercadoria no transportador (por exemplo, correios, serviço de encomendas).<\/h2><p><strong>É favor notar que os cosméticos e suplementos alimentares não têm direito legal de retirada se o selo for danificado.<\/strong><\/p><h3><strong>Custos da retirada<\/strong><\/h3><p>Se exercer o seu direito de retractação, deverá suportar os custos regulares da devolução.<\/p><h3>Retirada para clientes sediados na Alemanha<\/h3><p>Tem o direito de rescindir este contrato no prazo de catorze dias sem dar qualquer motivo. O prazo de rescisão é de catorze dias a partir do dia em que o cliente ou um terceiro por si nomeado, que não tem o transportador, tomou posse da última remessa parcial ou da última peça. Para exercer o seu direito de rescisão, deve (AFEGA Anti-Aging Shop, Guttenberger Str. 29, 97234 Reichenberg\/Alemanha, E-Mail: sekretariat.afega@gmail.com) através de uma declaração clara (por exemplo, uma carta enviada por correio, fax ou e-mail) sobre a sua decisão de rescisão do presente contrato. A fim de manter o período de rescisão, basta que envie a notificação do exercício do direito de rescisão antes do termo do período de rescisão.<br\/><br\/><strong>Modelo de formulário de retirada<\/strong><br\/>Se desejar revogar o contrato, pode utilizar o formulário abaixo: Não é obrigatório utilizá-lo, se quiser utilizar o formulário, por favor preencha e envie para a loja anti-envelhecimento AFEGA, Tannli 8, 3416 Affoltern, Suíça ou por e-mail: sekretariat.afega@gmail.com.<br\/><br\/>Eu \/ nós (*) revogamos o contrato celebrado por mim \/ nós (*) para a compra dos seguintes bens (*) \/ a prestação do seguinte serviço (*) ... Encomendado em (*) \/ recebido em (* ) Nome do consumidor (s) Endereço do consumidor (s) (apenas se notificado em papel) Data<br\/><br\/>(*) Por favor, eliminar conforme apropriado<\/p><h3>Consequências da revogação para clientes sediados na Alemanha<\/h3><p>Se o cliente se retirar deste Acordo, temos de reembolsar todos os pagamentos que recebemos do cliente, incluindo as despesas de entrega. Para este reembolso, utilizamos os mesmos meios de pagamento que o cliente utilizou na transacção original, salvo acordo em contrário com o cliente; em caso algum será cobrada ao cliente esta taxa de reembolso. Poderemos recusar o reembolso até termos os bens de volta ou até o cliente apresentar prova de que devolveu os bens, o que ocorrer primeiro. O cliente tem de devolver os bens imediatamente e, em qualquer caso, o mais tardar catorze dias a contar da data em que nos informar da revogação do presente contrato, para o seguinte endereço:<strong>AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid\/Alemanha<\/strong> a ser devolvido ou entregue. O prazo é cumprido se enviar a mercadoria antes do termo do prazo de catorze dias. O cliente suporta os custos imediatos da devolução da mercadoria. Só tem de pagar por uma possível perda de valor da mercadoria, se essa perda de valor for devida a uma manipulação que não seja necessária para o exame da natureza, características e funcionalidade da mercadoria.<br\/><br\/>O direito de rescisão não se aplica aos seguintes contratos: Contratos para a entrega de bens selados que não sejam adequados para devolução por razões de saúde ou higiene (ver acima).<\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_JbKTnn"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_Rg8TMT",
+        "locale_LJLP4J",
+        "locale_ipD9yn",
+        "locale_eDF9PD",
+        "locale_DDnCPY"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_RXafEn": {
+      "type": "section-custom",
+      "blocks": {
+        "text_nRFXGr": {
+          "type": "text",
+          "settings": {
+            "title": "Widerrufsrecht & Muster-Widerrufsformular",
+            "text": "<p><strong>Widerrufsrecht<\/strong><br\/><br\/><strong>Verbraucher\/Endkunden<\/strong> können von Verträgen, die über den Webshop von AFEGA abgeschlossen wurden, binnen 14 Kalendertagen – ohne Angabe von Gründen – zurücktreten. Für die Wahrung der Frist reicht es, wenn innerhalb der oben genannten Frist die entsprechende Erklärung abgesendet wird oder die Ware zurückgeschickt wird. Es gilt das Datum des Poststempels oder ein anderer, dessen Beweiskraft gleichstehender, Nachweis.<\/p><p>Beim Warenkauf beginnt die 14-Tages-Frist mit dem Eingang der Ware beim Kunden bzw. mit dem Tag, an dem der Kunde erstmals die Möglichkeit hat, die Ware vom Transporteur (z. B. Post, Paketdienst) abzuholen.<br\/><br\/>Bitte beachten Sie, dass bei Kosmetikartikeln und Nahrungsergänzungsmitteln des AFEGA Anti-Aging-Shops nur bei unverletzter Versiegelung ein gesetzliches Rückgaberecht besteht.<\/p><p><strong>Infusionen sind vom Rückgaberecht ausdrücklich ausgeschlossen.<\/strong><br\/><\/p><h2><strong>KOSTENTRAGUNGSVEREINBARUNG<\/strong><\/h2><p>\u2028Machen Sie von Ihrem Widerrufsrecht Gebrauch, haben Sie die regelmässigen Kosten der Rücksendung zu tragen.<\/p><h3><br\/>Widerrufsrecht für Kunden mit Sitz in Deutschland<\/h3><p>\u2028Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen. Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat. Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (AFEGA Anti-Aging-Shop, Tannli 8, 3416 Affoltern, Schweiz, E-Mail: sekretariat.afega@gmail.com) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.<br\/><br\/><strong>Muster-Widerrufsformular<\/strong><\/p><p>(Wenn Sie den Vertrag widerrufen wollen, dann können Sie das nachfolgende Formular nutzen. Die Verwendung ist nicht zwingend vorgeschrieben. Sofern Sie das Formular nutzen möchten, füllen Sie dieses aus und senden Sie es an AFEGA Anti-Aging-Shop, Guttenberger Str. 29, 97234 Reichenberg, Deutschland oder per E-Mail: sekretariat.afega@gmail.com.<br\/><br\/>Hiermit widerrufe(n) ich\/wir (*) den von mir\/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*) \/ die Erbringung der folgenden Dienstleistung (*) … Bestellt am (*)\/ erhalten am (*) Name des Verbraucher(s) Anschrift des\/der Verbraucher(s) (nur bei Mitteilung auf Papier) Datum<br\/><br\/>(*) Unzutreffendes bitte streichen<\/p><h3>Folgen des Widerrufs für Kunden mit Sitz in Deutschland\u2028<\/h3><p>Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet. Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.\u2028Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an folgende <strong>Rücksende-Adresse: AFEGA Fulfillment-Center, Dhrontalstr. 1, 54413 Bescheid <\/strong>zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden. Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.\u2028Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.<br\/><br\/>Widerrufsrecht besteht nicht bei den folgenden Verträgen:\u2028Verträge zur Lieferung versiegelter Waren, die aus Gründen des Gesundheitsschutzes oder der Hygiene nicht zur Rückgabe geeignet sind (siehe oben).<br\/><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_nRFXGr"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "localized_content_ir3Df6",
+    "section_custom_RXafEn"
+  ]
+}

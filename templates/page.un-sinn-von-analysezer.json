@@ -1,0 +1,330 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "localized_content_6fX4cd": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_QiazfG": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_xfRyqV": {
+              "type": "text",
+              "settings": {
+                "title": "The eyewash with the certificates of analysis",
+                "text": "<p>In general, you should not overestimate the importance of certificates of analysis. It remains a question of trust, because even if someone were to show you a certificate of analysis, it would not be certain that the glass delivered to you contained the substance analyzed... :-(<br\/><br\/>If you want to be absolutely sure, the only option is to have the substance delivered analyzed yourself. It could be worth it if you order a sufficiently large quantity, because then the costs for the analysis (converted to the price per gram) are no longer so important.<br\/><br\/>The results of chemical analyzes are often not easy to understand for non-experts. The nominal degree of purity is usually given far too much importance because this number is misleading for at least two reasons:<\/p><h3><strong>1. Accuracy of the analysis method (+\/- 2%)<\/strong><\/h3><p>The industry standard for the analysis of NMN and most other substances we sell is <a href=\"https:\/\/de.wikipedia.org\/wiki\/High-performance%20liquid%20chromatography\">HPLC<\/a>.<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\">This analysis result <\/a>is for most Probably 'disturbing' to customers, because the reported purity level of the tested NMN was well over 100%.<br\/><br\/>We have tried to formulate an explanation for this analysis result. on the Internet that an educated layperson without any special knowledge of (bio-)chemistry can understand, but unfortunately we were not able to do that. This is due to the complexity of the analytical method used (HPLC). <br\/><br\/>The laboratory in the USA that carried out this analysis for us (Intertek) itself wrote about this result:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measures of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>What does that mean?<\/strong>Well: First of all, this means that a single analysis (it costs about $150) only has an accuracy of +\/- 2%! If you wanted greater accuracy, you would have to run multiple (numerous) analyzes (at $150 each) and then average them. So if one of our competitors presents a (single) certificate with a purity of 99.9%, the actual purity may be (only) 97.9%!<br\/><br\/>In our case, however, it means something very special and very pleasing for us: If we assume a measurement uncertainty of +\/- 2%, then the degree of purity is 'ours' NMN in the worst case at least 99.8%! (Our supplier's Certificate of Analysis indicates a purity of 99.9%.) This is therefore extremely pure NMN.<\/p><h3><strong>2. The degree of purity says practically nothing about the quality<\/strong><\/h3><p>(See also <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Notes on the required level of purity of NMN<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_CQnpCy": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_nJaCVK": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>We are often asked: \"If the analyzed purity of NMN or NAD* is 97.5%, what is the remaining 2.5%?\"<br\/>The answer: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Water_of_crystallization\">Water of crystallization <\/a>You could further increase the level of purity simply by trying to get rid of the crystal water, <strong>but that would only make the product unnecessarily more expensive without any increase in quality<\/strong>.<br\/><br\/>What is really important is not so much the degree of purity, but rather the result of the microbiological analysis and the analysis of heavy metal contamination.<br\/><br\/>What do you need to know?<br\/><br\/>In the current analysis report shown here about the NAD+ we sell, you can see information in the section about the microbiological analysis &lt; 10 and &lt; 100.<br\/>These are guideline values that should be adhered to (or warning values that are not & uuml; may be exceeded).<br\/>The <a href=\"https:\/\/en.wikipedia.org\/wiki\/Colony-forming_unit\">unit of measurement for these guideline or warning values is CFU\/g<\/a><\/p>",
+                "align": "center",
+                "width": "1\/3"
+              }
+            },
+            "text_ArmTqz": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>When analyzing for heavy metals, particularly strict guidelines apply; ideally it says \"n.n.\" for 'below the detection limit'.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_xfRyqV",
+            "image_CQnpCy",
+            "text_nJaCVK",
+            "text_ArmTqz"
+          ]
+        },
+        "locale_Kh9bkk": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_qMcdgq": {
+              "type": "text",
+              "settings": {
+                "title": "El colirio con los certificados de análisis.",
+                "text": "<p>In general, you should not overestimate the importance of certificates of analysis. It remains a question of trust, because even if someone were to show you a certificate of analysis, it would not be certain that the glass delivered to you contained the substance analyzed... :-(<br\/><br\/>If you want to be absolutely sure, the only option is to have the substance delivered analyzed yourself. It could be worth it if you order a sufficiently large quantity, because then the costs for the analysis (converted to the price per gram) are no longer so important.<br\/><br\/>The results of chemical analyzes are often not easy to understand for non-experts. The nominal degree of purity is usually given far too much importance because this number is misleading for at least two reasons:<\/p><h3><strong>1. Accuracy of the analysis method (+\/- 2%)<\/strong><\/h3><p>The industry standard for the analysis of NMN and most other substances we sell is <a href=\"https:\/\/de.wikipedia.org\/wiki\/High-performance%20liquid%20chromatography\">HPLC<\/a>.<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\">This analysis result <\/a>is for most Probably 'disturbing' to customers, because the reported purity level of the tested NMN was well over 100%.<br\/><br\/>We have tried to formulate an explanation for this analysis result. on the Internet that an educated layperson without any special knowledge of (bio-)chemistry can understand, but unfortunately we were not able to do that. This is due to the complexity of the analytical method used (HPLC). <br\/><br\/>The laboratory in the USA that carried out this analysis for us (Intertek) itself wrote about this result:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measures of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>What does that mean?<\/strong>Well: First of all, this means that a single analysis (it costs about $150) only has an accuracy of +\/- 2%! If you wanted greater accuracy, you would have to run multiple (numerous) analyzes (at $150 each) and then average them. So if one of our competitors presents a (single) certificate with a purity of 99.9%, the actual purity may be (only) 97.9%!<br\/><br\/>In our case, however, it means something very special and very pleasing for us: If we assume a measurement uncertainty of +\/- 2%, then the degree of purity is 'ours' NMN in the worst case at least 99.8%! (Our supplier's Certificate of Analysis indicates a purity of 99.9%.) This is therefore extremely pure NMN.<\/p><h3><strong>2. The degree of purity says practically nothing about the quality<\/strong><\/h3><p>(See also <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Notes on the required level of purity of NMN<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_gF66X8": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_gYEpwU": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>We are often asked: \"If the analyzed purity of NMN or NAD* is 97.5%, what is the remaining 2.5%?\"<br\/>The answer: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Water_of_crystallization\">Water of crystallization <\/a>You could further increase the level of purity simply by trying to get rid of the crystal water, <strong>but that would only make the product unnecessarily more expensive without any increase in quality<\/strong>.<br\/><br\/>What is really important is not so much the degree of purity, but rather the result of the microbiological analysis and the analysis of heavy metal contamination.<br\/><br\/>What do you need to know?<br\/><br\/>In the current analysis report shown here about the NAD+ we sell, you can see information in the section about the microbiological analysis &lt; 10 and &lt; 100.<br\/>These are guideline values that should be adhered to (or warning values that are not & uuml; may be exceeded).<br\/>The <a href=\"https:\/\/en.wikipedia.org\/wiki\/Colony-forming_unit\">unit of measurement for these guideline or warning values is CFU\/g<\/a><\/p>",
+                "align": "center",
+                "width": "1\/3"
+              }
+            },
+            "text_rRzjdQ": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>When analyzing for heavy metals, particularly strict guidelines apply; ideally it says \"n.n.\" for 'below the detection limit'.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_qMcdgq",
+            "image_gF66X8",
+            "text_gYEpwU",
+            "text_rRzjdQ"
+          ]
+        },
+        "locale_h8pY9a": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_i9pVtH": {
+              "type": "text",
+              "settings": {
+                "title": "Le collyre avec les certificats d'analyse",
+                "text": "<p>In general, you should not overestimate the importance of certificates of analysis. It remains a question of trust, because even if someone were to show you a certificate of analysis, it would not be certain that the glass delivered to you contained the substance analyzed... :-(<br\/><br\/>If you want to be absolutely sure, the only option is to have the substance delivered analyzed yourself. It could be worth it if you order a sufficiently large quantity, because then the costs for the analysis (converted to the price per gram) are no longer so important.<br\/><br\/>The results of chemical analyzes are often not easy to understand for non-experts. The nominal degree of purity is usually given far too much importance because this number is misleading for at least two reasons:<\/p><h3><strong>1. Accuracy of the analysis method (+\/- 2%)<\/strong><\/h3><p>The industry standard for the analysis of NMN and most other substances we sell is <a href=\"https:\/\/de.wikipedia.org\/wiki\/High-performance%20liquid%20chromatography\">HPLC<\/a>.<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\">This analysis result <\/a>is for most Probably 'disturbing' to customers, because the reported purity level of the tested NMN was well over 100%.<br\/><br\/>We have tried to formulate an explanation for this analysis result. on the Internet that an educated layperson without any special knowledge of (bio-)chemistry can understand, but unfortunately we were not able to do that. This is due to the complexity of the analytical method used (HPLC). <br\/><br\/>The laboratory in the USA that carried out this analysis for us (Intertek) itself wrote about this result:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measures of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>What does that mean?<\/strong>Well: First of all, this means that a single analysis (it costs about $150) only has an accuracy of +\/- 2%! If you wanted greater accuracy, you would have to run multiple (numerous) analyzes (at $150 each) and then average them. So if one of our competitors presents a (single) certificate with a purity of 99.9%, the actual purity may be (only) 97.9%!<br\/><br\/>In our case, however, it means something very special and very pleasing for us: If we assume a measurement uncertainty of +\/- 2%, then the degree of purity is 'ours' NMN in the worst case at least 99.8%! (Our supplier's Certificate of Analysis indicates a purity of 99.9%.) This is therefore extremely pure NMN.<\/p><h3><strong>2. The degree of purity says practically nothing about the quality<\/strong><\/h3><p>(See also <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Notes on the required level of purity of NMN<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_WygATE": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_6MAz4t": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>We are often asked: \"If the analyzed purity of NMN or NAD* is 97.5%, what is the remaining 2.5%?\"<br\/>The answer: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Water_of_crystallization\">Water of crystallization <\/a>You could further increase the level of purity simply by trying to get rid of the crystal water, <strong>but that would only make the product unnecessarily more expensive without any increase in quality<\/strong>.<br\/><br\/>What is really important is not so much the degree of purity, but rather the result of the microbiological analysis and the analysis of heavy metal contamination.<br\/><br\/>What do you need to know?<br\/><br\/>In the current analysis report shown here about the NAD+ we sell, you can see information in the section about the microbiological analysis &lt; 10 and &lt; 100.<br\/>These are guideline values that should be adhered to (or warning values that are not & uuml; may be exceeded).<br\/>The <a href=\"https:\/\/en.wikipedia.org\/wiki\/Colony-forming_unit\">unit of measurement for these guideline or warning values is CFU\/g<\/a><\/p>",
+                "align": "center",
+                "width": "1\/3"
+              }
+            },
+            "text_FL74ar": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>When analyzing for heavy metals, particularly strict guidelines apply; ideally it says \"n.n.\" for 'below the detection limit'.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_i9pVtH",
+            "image_WygATE",
+            "text_6MAz4t",
+            "text_FL74ar"
+          ]
+        },
+        "locale_timArD": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_T7zQfB": {
+              "type": "text",
+              "settings": {
+                "title": "Il collirio con i certificati di analisi",
+                "text": "<p>In general, you should not overestimate the importance of certificates of analysis. It remains a question of trust, because even if someone were to show you a certificate of analysis, it would not be certain that the glass delivered to you contained the substance analyzed... :-(<br\/><br\/>If you want to be absolutely sure, the only option is to have the substance delivered analyzed yourself. It could be worth it if you order a sufficiently large quantity, because then the costs for the analysis (converted to the price per gram) are no longer so important.<br\/><br\/>The results of chemical analyzes are often not easy to understand for non-experts. The nominal degree of purity is usually given far too much importance because this number is misleading for at least two reasons:<\/p><h3><strong>1. Accuracy of the analysis method (+\/- 2%)<\/strong><\/h3><p>The industry standard for the analysis of NMN and most other substances we sell is <a href=\"https:\/\/de.wikipedia.org\/wiki\/High-performance%20liquid%20chromatography\">HPLC<\/a>.<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\">This analysis result <\/a>is for most Probably 'disturbing' to customers, because the reported purity level of the tested NMN was well over 100%.<br\/><br\/>We have tried to formulate an explanation for this analysis result. on the Internet that an educated layperson without any special knowledge of (bio-)chemistry can understand, but unfortunately we were not able to do that. This is due to the complexity of the analytical method used (HPLC). <br\/><br\/>The laboratory in the USA that carried out this analysis for us (Intertek) itself wrote about this result:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measures of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>What does that mean?<\/strong>Well: First of all, this means that a single analysis (it costs about $150) only has an accuracy of +\/- 2%! If you wanted greater accuracy, you would have to run multiple (numerous) analyzes (at $150 each) and then average them. So if one of our competitors presents a (single) certificate with a purity of 99.9%, the actual purity may be (only) 97.9%!<br\/><br\/>In our case, however, it means something very special and very pleasing for us: If we assume a measurement uncertainty of +\/- 2%, then the degree of purity is 'ours' NMN in the worst case at least 99.8%! (Our supplier's Certificate of Analysis indicates a purity of 99.9%.) This is therefore extremely pure NMN.<\/p><h3><strong>2. The degree of purity says practically nothing about the quality<\/strong><\/h3><p>(See also <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Notes on the required level of purity of NMN<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_yaURMD": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_TDmqQV": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>We are often asked: \"If the analyzed purity of NMN or NAD* is 97.5%, what is the remaining 2.5%?\"<br\/>The answer: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Water_of_crystallization\">Water of crystallization <\/a>You could further increase the level of purity simply by trying to get rid of the crystal water, <strong>but that would only make the product unnecessarily more expensive without any increase in quality<\/strong>.<br\/><br\/>What is really important is not so much the degree of purity, but rather the result of the microbiological analysis and the analysis of heavy metal contamination.<br\/><br\/>What do you need to know?<br\/><br\/>In the current analysis report shown here about the NAD+ we sell, you can see information in the section about the microbiological analysis &lt; 10 and &lt; 100.<br\/>These are guideline values that should be adhered to (or warning values that are not & uuml; may be exceeded).<br\/>The <a href=\"https:\/\/en.wikipedia.org\/wiki\/Colony-forming_unit\">unit of measurement for these guideline or warning values is CFU\/g<\/a><\/p>",
+                "align": "center",
+                "width": "1\/3"
+              }
+            },
+            "text_yyzAgH": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>When analyzing for heavy metals, particularly strict guidelines apply; ideally it says \"n.n.\" for 'below the detection limit'.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_T7zQfB",
+            "image_yaURMD",
+            "text_TDmqQV",
+            "text_yyzAgH"
+          ]
+        },
+        "locale_89CrWh": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_rfFE4g": {
+              "type": "text",
+              "settings": {
+                "title": "O colírio com os certificados de análise",
+                "text": "<p>In general, you should not overestimate the importance of certificates of analysis. It remains a question of trust, because even if someone were to show you a certificate of analysis, it would not be certain that the glass delivered to you contained the substance analyzed... :-(<br\/><br\/>If you want to be absolutely sure, the only option is to have the substance delivered analyzed yourself. It could be worth it if you order a sufficiently large quantity, because then the costs for the analysis (converted to the price per gram) are no longer so important.<br\/><br\/>The results of chemical analyzes are often not easy to understand for non-experts. The nominal degree of purity is usually given far too much importance because this number is misleading for at least two reasons:<\/p><h3><strong>1. Accuracy of the analysis method (+\/- 2%)<\/strong><\/h3><p>The industry standard for the analysis of NMN and most other substances we sell is <a href=\"https:\/\/de.wikipedia.org\/wiki\/High-performance%20liquid%20chromatography\">HPLC<\/a>.<br\/><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0865\/3262\/0621\/files\/Intertek-Report-202009.png?v=1737009590\">This analysis result <\/a>is for most Probably 'disturbing' to customers, because the reported purity level of the tested NMN was well over 100%.<br\/><br\/>We have tried to formulate an explanation for this analysis result. on the Internet that an educated layperson without any special knowledge of (bio-)chemistry can understand, but unfortunately we were not able to do that. This is due to the complexity of the analytical method used (HPLC). <br\/><br\/>The laboratory in the USA that carried out this analysis for us (Intertek) itself wrote about this result:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measures of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>What does that mean?<\/strong>Well: First of all, this means that a single analysis (it costs about $150) only has an accuracy of +\/- 2%! If you wanted greater accuracy, you would have to run multiple (numerous) analyzes (at $150 each) and then average them. So if one of our competitors presents a (single) certificate with a purity of 99.9%, the actual purity may be (only) 97.9%!<br\/><br\/>In our case, however, it means something very special and very pleasing for us: If we assume a measurement uncertainty of +\/- 2%, then the degree of purity is 'ours' NMN in the worst case at least 99.8%! (Our supplier's Certificate of Analysis indicates a purity of 99.9%.) This is therefore extremely pure NMN.<\/p><h3><strong>2. The degree of purity says practically nothing about the quality<\/strong><\/h3><p>(See also <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Notes on the required level of purity of NMN<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_BBWkGp": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_dkkgXJ": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>We are often asked: \"If the analyzed purity of NMN or NAD* is 97.5%, what is the remaining 2.5%?\"<br\/>The answer: <a href=\"https:\/\/en.wikipedia.org\/wiki\/Water_of_crystallization\">Water of crystallization <\/a>You could further increase the level of purity simply by trying to get rid of the crystal water, <strong>but that would only make the product unnecessarily more expensive without any increase in quality<\/strong>.<br\/><br\/>What is really important is not so much the degree of purity, but rather the result of the microbiological analysis and the analysis of heavy metal contamination.<br\/><br\/>What do you need to know?<br\/><br\/>In the current analysis report shown here about the NAD+ we sell, you can see information in the section about the microbiological analysis &lt; 10 and &lt; 100.<br\/>These are guideline values that should be adhered to (or warning values that are not & uuml; may be exceeded).<br\/>The <a href=\"https:\/\/en.wikipedia.org\/wiki\/Colony-forming_unit\">unit of measurement for these guideline or warning values is CFU\/g<\/a><\/p>",
+                "align": "center",
+                "width": "1\/3"
+              }
+            },
+            "text_8n6UkQ": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>When analyzing for heavy metals, particularly strict guidelines apply; ideally it says \"n.n.\" for 'below the detection limit'.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_rfFE4g",
+            "image_BBWkGp",
+            "text_dkkgXJ",
+            "text_8n6UkQ"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_QiazfG",
+        "locale_Kh9bkk",
+        "locale_h8pY9a",
+        "locale_timArD",
+        "locale_89CrWh"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_WFkNAR": {
+      "type": "section-custom",
+      "blocks": {
+        "text_q8w7C7": {
+          "type": "text",
+          "settings": {
+            "title": "Die Augenwischerei mit den Analysezertifikaten",
+            "text": "<p>Sie sollten die Bedeutung von Analysezertifikate generell nicht überschätzen. Es bleibt eine Vertrauensfrage, denn selbst wenn Ihnen jemand ein Analysenzertifikat vorlegen würde, wäre nicht sicher, dass das an Sie gelieferte Glas auch die analysierte Substanz enthielt... :-(<br\/><br\/>Wenn Sie ganz sicher gehen wollen, bleibt nur die Möglichkeit, die gelieferte Substanz selbst analysieren zu lassen. Es könnte sich lohnen, wenn Sie eine ausreichend große Menge bestellen, denn dann fallen die Kosten für die Analyse (umgerechnet auf den Grammpreis) nicht mehr so ​​ins Gewicht. <br\/><br\/>Ergebnisse von chemischen Analysen sind zudem für Nicht-Fachleute oft nicht einfach zu verstehen. Meist wird dem nominellen Reinheitsgrad eine viel zu große Bedeutung gegeben, denn diese Zahl ist aus mindestens zwei Gründen irreführend:<\/p><h3><strong>1. Genauigkeit der Analysemethode (+\/- 2 %)<\/strong><\/h3><p>Der Industriestandard für die Analyse von NMN und den meisten anderen von uns vertriebenen Substanzen ist <a href=\"https:\/\/de.wikipedia.org\/wiki\/Hochleistungsfl%C3%BCssigkeitschromatographie\">HPLC<\/a>.<br\/><br\/><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Intertek-Report-202009.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Intertek-Report-202009.png\">Dieses Analyseergebnis <\/a>ist für die meisten Kunden vermutlich 'verstörend', denn der ausgewiesene Reinheitsgrad des getesteten NMN lag deutlich über 100 %.<br\/><br\/>Wir haben uns bemüht, eine Erklärung für dieses Analyseergebnis zu formulieren  bzw. im Netz zu finden, die ein gebildeter Laie ohne spezielle Vorkenntnis in (Bio-) Chemie auch verstehen kann, aber das ist uns leider nicht gelungen. Das hängt mit der Komplexität des angewendeten Analyseverfahrens (HPLC) zusammen. <br\/><br\/>Das Labor in den USA, dass diese Analyse für uns durchgeführt hat (Intertek) selbst schrieb zu diesem Ergebnis:<br\/><br\/>\"Hello Peter,<br\/> I am not sure how to help here, They are technically correct. The only way to determine a 'true value' is through statistical analysis of multiple chemical analysis. If we allow for a variance +2% then a variance -2% is equally as likely. The only thing I can offer is that this is an industry accepted practice and that there is no better way to achieve results on a single analysis. We stand by our analysis and, since we are audited by the FDA, we are following all required measure of quality required from an ISO certified, GMP facility. <br\/><br\/>Stay Healthy and Best Regards<br\/>Noah Morgan<br\/>Key Account Manager\"<br\/><br\/><strong>Was bedeutet das?<\/strong>Nun: Zunächst einmal bedeutet das, dass eine einzelne Analyse (sie kostet etwa 150 Dollar) nur eine Genauigkeit von +\/- 2 % aufweist! Wollte man eine höhere Genauigkeit, müsste man mehrere (zahlreiche) Analysen (zu je 150 Dollar) ausführen und dann einen Durchschnittswert bilden. Wenn einer unserer Mitbewerber also ein (einzelnes) Zertifikat vorlegt mit einer Reinheit von 99,9%, kann die tatsächliche Reinheit bei (nur) 97,9 % liegen!<br\/><br\/>In unserem Fall bedeutet es aber etwas sehr Spezielles und für uns sehr Erfreutliches: Wenn wir eine Messungenauigkeit von +\/- 2 % zugrunde legen, dann ist der Reinheitsgrad 'unseres' NMN im ungünstigsten Fall mindestens 99,8 %! (Das Certificate of Analysis unseres Lieferanten weist einen Reinheitsgrad von 99,9 % aus.) Es handelt sich also um extrem reines NMN.<\/p><h3><strong>2. Der Reinheitsgrad sagt praktisch nichts über die Qualität<\/strong><\/h3><p>(Siehe auch <a href=\"https:\/\/www.facebook.com\/altersforschung\/posts\/471241420264971\">Anmerkungen zum notwendigen Reinheitsgrad von NMN<\/a>)<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_4Fq6Dd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/NAD_-Analyse.png",
+            "link": "",
+            "width": "2\/3"
+          }
+        },
+        "text_GwRn4c": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Wir werden häufig gefragt: \"Wenn der analysierte Reinheitsgrad von NMN oder NAD* bei 97,5% liegt, was sind denn dann die verbleibenden 2,5%?\"<br\/>Die Antwort: <a href=\"https:\/\/de.wikipedia.org\/wiki\/Kristallwasser\">Kristallwasser <\/a>Man könnte den Reinheitsgrad also einfach dadurch weiter steigern, dass man versucht, sich des Kristallwassers zu entledigen,<strong>aber das würde das Produkt ohne jeden Qualitätsgewinn nur unnötig verteuern. <\/strong><\/p><p><strong>Wirklich bedeutsam <\/strong>ist daher nicht so sehr der Reinheitsgrad, sondern das Ergebnis der mikrobiologischen Analyse und der Analyse der Schwermetallbelastung.<br\/><br\/><strong>Was muss man dazu wissen? <\/strong><\/p><p>In dem hier abgebildeten aktuellen Analysebericht über das von uns vertriebene NAD+  sehen Sie im Abschnitt über die mikrobiologische Analayse Angaben &lt; 10 und &lt; 100.<br\/>Dabei handelt es sich um Richtwerte, die eingehalten werden sollten (oder Warnwerte, die nicht überschritten werden dürfen).<br\/>Die <a href=\"https:\/\/de.wikipedia.org\/wiki\/Koloniebildende_Einheit\">Maßeinheit für diese Richt- bzw. Warnwerte ist KbE\/g<\/a><\/p>",
+            "align": "left",
+            "width": "1\/3"
+          }
+        },
+        "text_gV9eVV": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Bei der Analyse auf Schwermetalle gelten besonders strenge Richtwerte, idealerweise steht dort \"n.n.\" für 'unterhalb der Nachweisgrenze'.<br\/><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_q8w7C7",
+        "image_4Fq6Dd",
+        "text_GwRn4c",
+        "text_gV9eVV"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "localized_content_6fX4cd",
+    "section_custom_WFkNAR"
+  ]
+}

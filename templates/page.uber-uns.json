@@ -1,0 +1,390 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "localized_content_miXAge": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_4VjDEQ": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_8cc7Pt": {
+              "type": "text",
+              "settings": {
+                "title": "Reputable Supplier of NMN, Resveratrol \/ Pterostilbene, NR and NAD +",
+                "text": "<p>The research of Prof. Sinclair, although breathtaking in claims made, is still almost unknown in Europe. We belong to a group of scientists under the umbrella of AFEGA (<a href=\"http:\/\/research.afega.net\/\">AFEGA Research Group<\/a>, Email: <a href=\"mailto:research@afega.net\">research@afega.net<\/a>) who want to establish this new branch of research in Europe. We carry out our research together with colleagues (including biologists and psychologists and a beautician) from D, CH, A, GB and F. We build on the research of Dr. med. Sinclair (he carries out animal experiments with the various substances) and test the results obtained by Prof. Sinclair in animal experiments on ourselves and friends and relatives. These are scientific studies, but we do them on a private basis, so to speak, taking on ourselves as \"test persons\", supplemented by friends and relatives.<br\/><br\/>As NMN distributor and provider the The research is concerned with the effects of substances (especially resveratrol and NMN) and the effect of the substances when processed in cosmetic products (in particular nicotinamide).<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_krjX4n": {
+              "type": "text",
+              "settings": {
+                "title": "Our Goal",
+                "text": "",
+                "align": "center",
+                "width": "1\/2"
+              }
+            },
+            "image_tw3TVa": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+                "link": "",
+                "width": "1\/3"
+              }
+            },
+            "text_MzfYjF": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Our goal is to be a reliable supplier of 'genuine NMN'. We had to pay a lot of training and have worked hard for many hours. Only after a long search we found a laboratory (in the Unitted States) that can reliably analyze NMN. But each analysis of a sample costs $ 290. And you have to have many samples analyzed to find a supplier that is trustworthy. You also have to carry out quality checks in between. And with all that not enough: The substance is virtually unknown, and with so many customers who order NMN in the US, the package is simply not handed out. It is either confiscated by customs (as in our case) or sent back because NMN is not (yet) approved as a dietary supplement in Europe. For this reason, carefully read what we have written under Shipping and Payment.<br\/><br\/>We as a reputable NAD+ distributor agree with David that NMN should be available to everyone at an affordable price. If it works as the research suggests, it is a sort of 'human right': it must not be that rich people can 'prolong' their lives, and poorer people just have to die sooner. We are primarily scientists and not primarily business people. You can see that in our not so professional design. :-)<br\/><br\/>Our most important goal is that our customers can trust us! They should not have to experience what we had to experience (see the link to our video documentations about that matter).<\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            },
+            "text_bYrgxP": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Peter Niehenke, PhD-Psychologist<br\/>research and product development<br\/><br\/>Incidentally, you will also find detailed information and testimonials on our Facebook page.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_8cc7Pt",
+            "text_krjX4n",
+            "image_tw3TVa",
+            "text_MzfYjF",
+            "text_bYrgxP"
+          ]
+        },
+        "locale_ULLz9C": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_TrzkrY": {
+              "type": "text",
+              "settings": {
+                "title": "Sobre nosotros",
+                "text": "<p>La investigación del profesor Sinclair sigue siendo casi desconocida en Europa, aunque sus afirmaciones son impresionantes. Pertenecemos a un grupo de científicos bajo el paraguas de AFEGA (Grupo de Investigación AFEGA, correo electrónico: research@afega.net) que quiere establecer esta nueva rama de investigación en Europa. Llevamos a cabo nuestra investigación junto con colegas (incluidos biólogos y psicólogos y una esteticista) de D, CH, A, GB y F. Nos basamos en la investigación de biólogos y psicólogos. Nos basamos en las investigaciones del Dr. Sinclair (que hace experimentos con animales con las distintas sustancias) y probamos los resultados obtenidos por el Prof. Sinclair en experimentos con animales, tanto en nosotros mismos como en amigos y familiares. Se trata de estudios científicos, pero los llevamos a cabo de forma \"privada\", por así decirlo, tomando principalmente a nosotros mismos como \"sujetos de prueba\", complementados por amigos y familiares.  <br\/> <br\/>Esta investigación se refiere tanto al efecto de las sustancias que se toman (especialmente el resveratrol y el NMN) como al efecto de las sustancias cuando se transforman en productos cosméticos (especialmente la nicotinamida). <br\/>As NMN distributor and provider the The research is concerned with the effects of substances (especially resveratrol and NMN) and the effect of the substances when processed in cosmetic products (in particular nicotinamide).<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_XfTdnX": {
+              "type": "text",
+              "settings": {
+                "title": "Nuestro objetivo",
+                "text": "",
+                "align": "center",
+                "width": "1\/2"
+              }
+            },
+            "image_A4pUtb": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+                "link": "",
+                "width": "1\/3"
+              }
+            },
+            "text_CUTpqj": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Nuestro objetivo es ser un proveedor fiable de \"auténtico NMN\". Hemos tenido que pagar mucho dinero de aprendizaje y hemos tenido que trabajar duro durante muchas horas. Sólo después de una larga búsqueda encontramos un laboratorio (en Estados Unidos) que puede analizar de forma fiable el NMN. Pero cada análisis de una muestra cuesta 290 dólares. Y hay que hacer analizar muchas muestras para encontrar un proveedor de confianza. También hay que hacer controles de calidad entre medias. Y eso no es todo: la sustancia es prácticamente desconocida, por lo que muchos clientes que encargan NMN en los Estados Unidos (a 7 dólares el gramo) simplemente no reciben el paquete. O bien es confiscado por la aduana (como en nuestro caso) o devuelto de nuevo porque el NMN no está (todavía) aprobado como complemento alimenticio en Europa. Por esta razón, lea atentamente lo que hemos escrito en las condiciones de envío y de pago.<br\/><br\/>Estamos de acuerdo con David en que el NMN debe estar al alcance de todos a un precio asequible. Si funciona como muestran las investigaciones, es una especie de \"derecho humano\": no debería ser que los ricos puedan \"prolongar\" su vida y los pobres tengan que morir antes. Somos principalmente científicos y no principalmente empresarios. Esto también se puede ver en nuestra apariencia, que no es tan profesional en términos de diseño. :-)<br\/>We as a reputable NAD+ distributor agree with David that NMN should be available to everyone at an affordable price. If it works as the research suggests, it is a sort of 'human right': it must not be that rich people can 'prolong' their lives, and poorer people just have to die sooner. We are primarily scientists and not primarily business people. You can see that in our not so professional design. :-)<\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            },
+            "text_3KEp4k": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Nuestro objetivo más importante es que nuestros clientes puedan confiar en nosotros. No deberían tener que experimentar lo que nosotros tuvimos que experimentar (véase nuestra documentación en vídeo vinculada a nuestra página web).<br\/><br\/>Dr. Peter Niehenke, diplomado en psicología<br\/>investigación y desarrollo de productos<br\/><br\/>Por cierto, también puedes encontrar información detallada e informes de experiencias en nuestra página de Facebook die-war-gestern.com.<\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_TrzkrY",
+            "text_XfTdnX",
+            "image_A4pUtb",
+            "text_CUTpqj",
+            "text_3KEp4k"
+          ]
+        },
+        "locale_rxnXDD": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_RingyH": {
+              "type": "text",
+              "settings": {
+                "title": "À propos de nous",
+                "text": "<p>Les recherches du professeur Sinclair sont encore presque inconnues en Europe, bien qu'elles soient époustouflantes dans leurs conclusions. Nous faisons partie d'un groupe de scientifiques sous l'égide de l'AFEGA (AFEGA Research Group, e-mail : research@afega.net), qui souhaite établir cette nouvelle branche de recherche en Europe. Nous comme fournisseur NR menons nos recherches en collaboration avec des collègues (entre autres des biologistes et des psychologues et une esthéticienne) d'Allemagne, de Suisse, d'Autriche, de Grande-Bretagne et de France. Nous nous basons sur les recherches du Dr Sinclair (qui effectue des tests sur les animaux avec les différentes substances) et testons les résultats obtenus par le Prof. Sinclair sur les animaux sur nous-mêmes ainsi que sur des amis et des parents. Il s'agit d'études scientifiques, mais nous les menons pour ainsi dire 'dans le cadre privé', en nous prenant principalement nous-mêmes comme 'sujets d'expérience', complétés par des amis et des parents.  <br\/> <br\/>Ces recherches portent à la fois sur les effets des substances que l'on ingère (notamment le resvératrol et le NMN) et sur les effets des substances lorsqu'elles sont incorporées dans des produits cosmétiques (notamment la nicotinamide). <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_XUtMgM": {
+              "type": "text",
+              "settings": {
+                "title": "Notre objectif",
+                "text": "",
+                "align": "center",
+                "width": "1\/2"
+              }
+            },
+            "image_MPaCKY": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+                "link": "",
+                "width": "1\/3"
+              }
+            },
+            "text_TmVGwx": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Notre objectif est d'être un fournisseur fiable de 'vrai NMN'. Nous avons dû payer un prix d'apprentissage très élevé et travailler dur pendant de nombreuses heures. Ce n'est qu'après de longues recherches que nous avons trouvé un laboratoire (aux États-Unis) capable d'analyser le NMN de manière fiable. Mais chaque analyse d'échantillon coûte 290 dollars. Et il faut faire analyser de nombreux échantillons pour trouver un fournisseur digne de confiance. Il faut aussi effectuer des contrôles de qualité de temps en temps. Et ce n'est pas tout : la substance étant pratiquement inconnue, de nombreux clients qui commandent du NMN aux États-Unis (à 7 dollars le gramme) ne se voient tout simplement pas remettre leur paquet. Il est soit confisqué par les douanes (comme dans notre cas), soit renvoyé, car la NMN n'est pas (encore) autorisée en Europe en tant que complément alimentaire. Pour cette raison, lisez attentivement ce que nous avons écrit dans les conditions d'expédition et de paiement.<br\/><br\/>Nous sommes du même avis que David, à savoir que le NMN devrait être disponible pour tout le monde à un prix abordable. Si cela fonctionne comme le montrent les recherches, c'est une sorte de 'droit de l'homme' : il ne faut pas que les riches puissent 'prolonger' leur vie et que les pauvres meurent plus tôt. Nous sommes avant tout des scientifiques et non des hommes d’affaires. Cela se voit également dans notre apparence, qui n’est pas aussi professionnelle en termes de design. :-)<\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            },
+            "text_trzQQa": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Notre objectif principal est que nos clients puissent nous faire confiance ! Ils ne doivent pas vivre ce que nous avons vécu (voir notre documentation vidéo en lien sur notre page d'accueil).<br\/><br\/>Dr. Peter Niehenke, diplômé en psychologie<br\/>recherche et développement de produits<br\/><br\/>Vous trouverez d'ailleurs des informations détaillées et des témoignages sur notre page Facebook sterben-war-gestern.com<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_RingyH",
+            "text_XUtMgM",
+            "image_MPaCKY",
+            "text_TmVGwx",
+            "text_trzQQa"
+          ]
+        },
+        "locale_bXw8tn": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_TAAF7b": {
+              "type": "text",
+              "settings": {
+                "title": "Fornitore rispettabile di NMN, Resveratrolo \/ Pterostilbene, NR e NAD +",
+                "text": "<p>La ricerca del Prof. Sinclair, anche se mozzafiato nelle affermazioni fatte, è ancora quasi sconosciuta in Europa. Apparteniamo a un gruppo di scienziati sotto l'ombrello dell'AFEGA (<a href=\"http:\/\/research.afega.net\/\">AFEGA Research Group<\/a>, Email: <a href=\"mailto:research@afega.net\">research@afega.net<\/a>) che vogliono stabilire questo nuovo ramo di ricerca in Europa. Portiamo avanti le nostre ricerche insieme a colleghi (tra cui biologi e psicologi e un'estetista) di D, CH, A, GB e F. Ci basiamo sulle ricerche del Dr. med. Sinclair (lui fa esperimenti sugli animali con le varie sostanze) e testiamo i risultati ottenuti dal Prof. Sinclair in esperimenti sugli animali su noi stessi e su amici e parenti. Questi sono studi scientifici, ma li facciamo su base privata, per così dire, assumendo noi stessi come \"persone di prova\", integrati da amici e parenti.<br\/><br\/>Le ricerche riguardano gli effetti delle sostanze (soprattutto il resveratrolo e l'NMN) e l'effetto delle sostanze quando vengono trasformate in prodotti cosmetici (in particolare la nicotinamide). <br\/>Ces recherches portent à la fois sur les effets des substances que l'on ingère (notamment le resvératrol et le NMN) et sur les effets des substances lorsqu'elles sont incorporées dans des produits cosmétiques (notamment la nicotinamide). <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_ziwCGN": {
+              "type": "text",
+              "settings": {
+                "title": "Il nostro obiettivo",
+                "text": "",
+                "align": "center",
+                "width": "1\/2"
+              }
+            },
+            "image_DVtfxL": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+                "link": "",
+                "width": "1\/3"
+              }
+            },
+            "text_Xf7MNy": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>l nostro obiettivo è quello di essere un fornitore affidabile di 'NMN genuino'. Abbiamo dovuto pagare un sacco di formazione e abbiamo lavorato duramente per molte ore. Solo dopo una lunga ricerca abbiamo trovato un laboratorio (negli Stati Uniti) che può analizzare in modo affidabile NMN. Ma ogni analisi di un campione costa 290 dollari. E bisogna far analizzare molti campioni per trovare un fornitore affidabile. Bisogna anche fare dei controlli di qualità nel frattempo. E con tutto ciò non basta: La sostanza è praticamente sconosciuta, e con tanti clienti che ordinano NMN negli Stati Uniti, il pacco semplicemente non viene consegnato. Viene confiscato dalla dogana (come nel nostro caso) o rimandato indietro perché NMN non è (ancora) approvato come integratore alimentare in Europa. Per questo motivo, leggete attentamente ciò che abbiamo scritto alla voce Spedizione e pagamento.<br\/><br\/>Siamo d'accordo con David che NMN dovrebbe essere disponibile per tutti ad un prezzo accessibile. Se funziona come suggerisce la ricerca, si tratta di una sorta di \"diritto umano\": non deve essere che i ricchi possono \"prolungare\" la loro vita, e i poveri devono solo morire prima. Siamo principalmente scienziati e non principalmente uomini d'affari. Lo si vede anche dal nostro aspetto, che non è altrettanto professionale in termini di design. :-)<br\/>Nous sommes du même avis que David, à savoir que le NMN devrait être disponible pour tout le monde à un prix abordable. Si cela fonctionne comme le montrent les recherches, c'est une sorte de 'droit de l'homme' : il ne faut pas que les riches puissent 'prolonger' leur vie et que les pauvres meurent plus tôt. Nous sommes avant tout des scientifiques et non des hommes d’affaires. Cela se voit également dans notre apparence, qui n’est pas aussi professionnelle en termes de design. :-)<\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            },
+            "text_jCMrxz": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Il nostro obiettivo più importante è che i nostri clienti possano fidarsi di noi! Non devono sperimentare quello che abbiamo dovuto sperimentare noi (vedi il link alle nostre documentazioni video su questo argomento).<br\/><br\/>Peter Niehenke, PhD-Psicologo<br\/>ricerca e sviluppo prodotto<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_TAAF7b",
+            "text_ziwCGN",
+            "image_DVtfxL",
+            "text_Xf7MNy",
+            "text_jCMrxz"
+          ]
+        },
+        "locale_QbhTVA": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_zaE3Xt": {
+              "type": "text",
+              "settings": {
+                "title": "Fornecedor de renome de NMN, Resveratrol \/ Pterostilbene, NR e NAD +",
+                "text": "<p>A investigação do Prof. Sinclair, embora de tirar o fôlego das alegações feitas, é ainda quase desconhecida na Europa. Pertencemos a um grupo de cientistas sob a égide da AFEGA (<a href=\"http:\/\/research.afega.net\/\">AFEGA Research Group<\/a>, Email: <a href=\"mailto:research@afega.net\">research@afega.net<\/a>) que querem estabelecer este novo ramo de investigação na Europa. Realizamos a nossa investigação em conjunto com colegas (incluindo biólogos e psicólogos e uma esteticista) de D, CH, A, GB e F. Baseamo-nos na investigação do Dr. med. Sinclair (ele realiza experiências em animais com as várias substâncias) e testa os resultados obtidos pelo Prof. Sinclair em experiências em animais em nós próprios e em amigos e familiares. Estes são estudos científicos, mas fazemo-los numa base privada, por assim dizer, assumindo-nos como \"pessoas de teste\", complementados por amigos e familiares.<br\/><br\/>A investigação preocupa-se com os efeitos das substâncias (especialmente o resveratrol e NMN) e o efeito das substâncias quando processadas em produtos cosméticos (em particular a nicotinamida).<br\/>Le ricerche riguardano gli effetti delle sostanze (soprattutto il resveratrolo e l'NMN) e l'effetto delle sostanze quando vengono trasformate in prodotti cosmetici (in particolare la nicotinamide). <br\/>Ces recherches portent à la fois sur les effets des substances que l'on ingère (notamment le resvératrol et le NMN) et sur les effets des substances lorsqu'elles sont incorporées dans des produits cosmétiques (notamment la nicotinamide). <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_QEepbR": {
+              "type": "text",
+              "settings": {
+                "title": "O nosso objectivo",
+                "text": "",
+                "align": "center",
+                "width": "1\/2"
+              }
+            },
+            "image_zVWbt8": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+                "link": "",
+                "width": "1\/3"
+              }
+            },
+            "text_hCiA6Y": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>O nosso objectivo é ser um fornecedor fiável de 'NMN genuíno'. Tivemos de pagar uma grande quantidade de formação e trabalhámos arduamente durante muitas horas. Só depois de uma longa pesquisa encontrámos um laboratório (nos Estados Unidos) que pode analisar NMN de forma fiável. Mas cada análise de uma amostra custa 290 dólares. E é preciso ter muitas amostras analisadas para encontrar um fornecedor que seja digno de confiança. Também tem de realizar verificações de qualidade no meio. E com tudo isto não é suficiente: A substância é praticamente desconhecida, e com tantos clientes que encomendam NMN nos EUA, o pacote simplesmente não é entregue. É confiscada pela alfândega (como no nosso caso) ou devolvida porque o NMN não é (ainda) aprovado como suplemento dietético na Europa. Por esta razão, leia cuidadosamente o que escrevemos em Shipping and Payment (Envio e Pagamento).<br\/><br\/>Concordamos com David que a NMN deve estar disponível para todos a um preço acessível. Se funcionar como a investigação sugere, é uma espécie de \"direito humano\": não deve ser que os ricos possam \"prolongar\" as suas vidas, e as pessoas mais pobres apenas têm de morrer mais cedo. Somos sobretudo cientistas e não principalmente empresários. Também se pode ver isso na nossa aparência, que não é tão profissional em termos de design. :-)<\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            },
+            "text_77YNNh": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>O nosso objectivo mais importante é que os nossos clientes possam confiar em nós! Eles não devem ter de experimentar o que nós tivemos de experimentar (ver o link para as nossas documentações em vídeo sobre esse assunto).<br\/><br\/>Peter Niehenke, PhD-Psicólogo<br\/>pesquisa e desenvolvimento de produtos<br\/><br\/>A propósito, encontrará também informações e testemunhos detalhados na nossa página do Facebook.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_zaE3Xt",
+            "text_QEepbR",
+            "image_zVWbt8",
+            "text_hCiA6Y",
+            "text_77YNNh"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_4VjDEQ",
+        "locale_ULLz9C",
+        "locale_rxnXDD",
+        "locale_bXw8tn",
+        "locale_QbhTVA"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_PxYpDX": {
+      "type": "section-custom",
+      "blocks": {
+        "text_Xxm3hk": {
+          "type": "text",
+          "settings": {
+            "title": "Seriöse Anbieter von NMN, Resveratrol\/Pterostilbene, NR und NAD+",
+            "text": "<p>Die Forschungen von Prof. Sinclair sind, obwohl atemberaubend in ihren Aussagen, in Europa noch fast unbekannt. Wir gehören zu einer Gruppe von Wissenschaftlern unter dem Dach der AFEGA (<a href=\"http:\/\/research.afega.net\/\">AFEGA Research Group<\/a>, Email: <a href=\"mailto:research@afega.net\">research@afega.net<\/a>), die diesen neuen Forschungszweig in Europa etablieren wollen. Unsere Forschungen führen wir zusammen mit Kollegen (u. a. Biologen und Psychologen und einer Kosmetikerin) aus D, CH, A, GB und F durch. Wir bauen dabei auf den Forschungen von Dr. Sinclair auf (er unternimmt Tierversuche mit den verschiedenen Substanzen) und testen die von Prof. Sinclair im Tierversuch gewonnenen Ergebnisse an uns selbst sowie Freunden und Verwandten. Es sind wissenschaftliche Studien, aber wir führen sie sozusagen ‚im privaten Rahmen‘ durch, nehmen überwiegend uns selbst als ‚Versuchspersonen‘, ergänzt um Freunde und Verwandte.  <br\/>Es geht bei diesen Forschungen sowohl um die Wirkung von Substanzen, die man einnimmt (insbesondere Resveratrol und NMN), als auch um die Wirkung der Substanzen, wenn sie in kosmetischen Produkten verarbeitet werden (insbesondere Nicotinamid). <\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_PNFUFe": {
+          "type": "text",
+          "settings": {
+            "title": "Unser Ziel",
+            "text": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_mGYrJL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ich_Portrait_2020.jpg",
+            "link": "",
+            "width": "1\/3"
+          }
+        },
+        "text_kwxPcx": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Unser Ziel ist es, ein zuverlässiger Lieferant von 'echtem NMN' zu sein. Wir mussten sehr viel Lehrgeld bezahlen und haben viele Stunden hart arbeiten müssen. Wir fanden erst nach langem Suchen ein Labor (in den USA), das NMN zuverlässig analysieren kann. Aber jede Analyse einer Probe kostete damals noch 290 Dollar. Und man muss viele Proben analysieren lassen, um einen vertrauenswürdigen Lieferanten zu finden. Man muss auch zwischendurch immer wieder Qualitätskontrollen durchführen. Und mit all dem nicht genug: Die Substanz war praktisch unbekannt, und so wird vielen Kunden, die NMN in den USA bestellen, das Päckchen einfach nicht ausgehändigt. Es wird entweder vom Zoll beschlagnahmt (wie in unserem Fall) oder wieder zurück geschickt, weil NMN in Europa (noch) nicht als Nahrungsergänzungsmittel zugelassen ist. Lesen Sie aus diesem Grund sorgfältig, was wir unter Versand- und Zahlungsbedingungen geschrieben haben.<br\/><br\/>Wir sind, mit David, der Meinung, dass NMN jedem Menschen zu einem erschwinglichen Preis zur Verfügung stehen sollte. Wenn es so wirkt, wie die Forschungen nahe legen, ist das geradezu eine Art 'Menschenrecht': Es darf ja nicht sein, dass reiche Menschen ihr Leben 'verlängern' können, und ärmere Menschen müssen halt früher sterben. Wir sind primär Wissenschaftler und nicht primär Kaufleute. Man sieht das auch an unserem vom Design her nicht ganz so professionellem Auftritt. :-)<\/p>",
+            "align": "left",
+            "width": "1\/2"
+          }
+        },
+        "text_tfAnef": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Unser wichtigstes Ziel ist es, dass unsere Kunden uns vertrauen können! Sie sollen nicht erleben müssen, was wir erleben mussten (siehe unsere auf unsere Startseite verlinkte Video-Dokumentation).<br\/><br\/>Dipl-Psych. Dr. Peter Niehenke<br\/>Forschungsleiter des Vereins AFEGA<br\/><br\/>Ausführliche Informationen und Erlebnisberichte finden Sie übrigens auch auf unserer Facebook-Seite sterben-war-gestern.com<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_Xxm3hk",
+        "text_PNFUFe",
+        "image_mGYrJL",
+        "text_kwxPcx",
+        "text_tfAnef"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "localized_content_miXAge",
+    "section_custom_PxYpDX"
+  ]
+}

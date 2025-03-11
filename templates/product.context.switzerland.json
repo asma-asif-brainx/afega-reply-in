@@ -1,0 +1,19 @@
+{
+  "parent": "product.json",
+  "context": {
+    "market": "switzerland"
+  },
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "price": {
+          "settings": {
+            "add-custom-tax-text": false,
+            "remove-price-notes": true
+          }
+        }
+      }
+    }
+  }
+}

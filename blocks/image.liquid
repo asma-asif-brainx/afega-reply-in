@@ -1,0 +1,111 @@
+<div class="o-layout__item u-1/1 u-{{ block.settings.width }}@tab" {{ block.shopify_attributes }}>
+  {%- liquid
+    assign multiplyer = 1
+    case block.settings.width
+      when '1/2'
+        assign multiplyer = 0.5
+      when '1/3'
+        assign multiplyer = 0.3333
+      when '1/4'
+        assign multiplyer = 0.25
+      when '2/3'
+        assign multiplyer = 0.6666
+    endcase
+    assign sizes = '(min-width: 2200px) calc(2140px * ' | append: multiplyer | append: '), (min-width: 767px) calc((100vw - 60px) * ' | append: multiplyer | append: '), calc(100vw - 30px)'
+
+    assign loading = 'lazy'
+    if section.location == 'template' and section.index == 1
+      assign loading = 'eager'
+    endif
+  -%}
+  <div
+    class="custom-content__item custom-content__item--image"
+    {{ block.shopify_attributes }}
+  >
+    <div class="custom-content__item-content custom-content__item-content--image">
+      {% unless block.settings.link == blank %}
+        <a href="{{ block.settings.link }}" class="custom-content__link">
+      {% endunless %}
+      {% unless block.settings.image == blank %}
+        <div
+          class="o-ratio o-ratio--custom"
+          style="padding-bottom:{{ 1 | divided_by: block.settings.image.aspect_ratio | times: 100 }}%;"
+        >
+          <div class="o-ratio__content">
+            {% render 'image',
+              image: block.settings.image,
+              alt_string: block.settings.image.alt,
+              additional_classes: 'custom-content__img',
+              image_ratio: 'natural',
+              image_srcset_widths: '360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048',
+              image_sizes: sizes,
+              render_skeleton: true,
+              loading: loading
+            %}
+          </div>
+        </div>
+      {% else %}
+        <div class="o-ratio o-ratio--4:3">
+          <div class="o-ratio__content">
+            {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--light' }}
+          </div>
+        </div>
+      {% endunless %}
+      {% unless block.settings.link == blank %}
+        </a>
+      {% endunless %}
+    </div>
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Image",
+  "tag": null,
+  "settings": [
+    {
+      "type": "image_picker",
+      "id": "image",
+      "label": "Image"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link"
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "1/2",
+      "options": [
+        {
+          "label": "Full width",
+          "value": "1/1"
+        },
+        {
+          "label": "One half",
+          "value": "1/2"
+        },
+        {
+          "label": "One third",
+          "value": "1/3"
+        },
+        {
+          "label": "One fourth",
+          "value": "1/4"
+        },
+        {
+          "label": "Two thirds",
+          "value": "2/3"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Image"
+    }
+  ]
+}
+{% endschema %}

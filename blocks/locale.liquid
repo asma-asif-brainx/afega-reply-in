@@ -1,0 +1,82 @@
+{% assign shop_language = localization.language.iso_code %}
+{% assign target_language = block.settings.locale %}
+{% if shop_language == target_language %}
+  {% content_for 'blocks' %}
+{% endif %}
+
+{% schema %}
+{
+  "name": "Locale",
+  "settings": [
+    {
+      "type": "select",
+      "id": "locale",
+      "label": "Target language",
+      "options": [
+        {
+          "label": "German",
+          "value": "de"
+        },
+        {
+          "label": "English",
+          "value": "en"
+        },
+        {
+          "label": "Spanish",
+          "value": "es"
+        },
+        {
+          "label": "French",
+          "value": "fr"
+        },
+        {
+          "label": "Italian",
+          "value": "it"
+        },
+        {
+          "label": "Portuguese",
+          "value": "pt-PT"
+        }
+      ],
+      "default": "de"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "text"
+    },
+    {
+      "type": "image"
+    },
+    {
+      "type": "button"
+    },
+    {
+      "type": "page"
+    },
+    {
+      "type": "spacer"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Locale"
+    }
+  ]
+}
+{% endschema %}
+
+{% comment %}
+  {
+    "type": "image"
+  },
+  {
+    "type": "spacer"
+  },
+  {
+    "type": "button"
+  },
+  {
+    "type": "page"
+  }
+{% endcomment %}

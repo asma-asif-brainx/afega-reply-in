@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "localized_content_WdkDEd": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_Papicd": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_KLADh3": {
+              "type": "text",
+              "settings": {
+                "title": "Jugend bewahren: Prävention beginnt früh",
+                "text": "<p><strong>Die Verbindung von Anti-Aging und körperlicher Fitness: Warum beides Hand in Hand geht<\/strong><\/p><p>Anti-Aging ist weit mehr als nur der Wunsch, Falten zu reduzieren oder das biologische Alter hinauszuzögern. Es ist ein ganzheitliches Konzept, das darauf abzielt, die Lebensqualität zu verbessern, die Vitalität zu steigern und die Gesundheit bis ins hohe Alter zu bewahren. Dabei spielt die körperliche Fitness eine zentrale Rolle – nicht nur für ältere Menschen, sondern auch für jüngere, die präventiv ihre Zukunft gestalten möchten. Fehlende Mobilität kann durch Nahrungsergänzungsmittel nur in sehr begrenztem Umfang verbessert werden.<\/p><p><strong>Fitness als Schlüssel zur Zellgesundheit<\/strong><\/p><p>Körperliche Aktivität wirkt auf Zellebene: Regelmäßige Bewegung fördert die Durchblutung und versorgt die Zellen mit Sauerstoff und Nährstoffen. Gleichzeitig regt sie die Bildung neuer Mitochondrien an, der sogenannten „Kraftwerke der Zellen“. Dies ist besonders wichtig, da die Mitochondrien-Funktion mit zunehmendem Alter nachlässt, was zu Energieverlust, geringerer Zellregeneration und sichtbaren Zeichen des Alterns führen kann.<\/p><p>Die Verbindung von Bewegung und Anti-Aging zeigt sich auch in der Aktivierung bestimmter Mechanismen wie Autophagie, einem zellulären Reinigungsprozess. Autophagie hilft dabei, beschädigte Zellbestandteile zu recyceln, was die Zellgesundheit erhält und die Alterung verlangsamen kann. Regelmäßige körperliche Aktivität ist eine der effektivsten Methoden, diesen Prozess anzukurbeln.<\/p><p><strong>Bewegung schützt vor altersbedingten Krankheiten<\/strong><\/p><p>Ein gesunder, fitter Körper ist besser gegen altersbedingte Erkrankungen gewappnet. Studien zeigen, dass Menschen mit einer guten körperlichen Fitness ein geringeres Risiko für Herz-Kreislauf-Erkrankungen, Diabetes, Osteoporose und sogar Demenz haben. Fitness trägt zur Regulation des Blutzuckerspiegels bei, reduziert chronische Entzündungen und stärkt das Immunsystem – alles Aspekte, die auch im Anti-Aging entscheidend sind.<\/p><p><strong>Jugend bewahren: Prävention beginnt früh<\/strong><\/p><p>Fitness ist nicht nur ein Thema für ältere Menschen. Jüngere profitieren enorm davon, frühzeitig ihre körperliche Gesundheit zu fördern, um den Alterungsprozess positiv zu beeinflussen. Muskelerhalt und Knochengesundheit sind zwei Bereiche, die besonders im Fokus stehen sollten. Ab etwa dem 30. Lebensjahr beginnt der natürliche Muskelabbau, was langfristig die Mobilität und Lebensqualität einschränken kann, wenn keine Gegenmaßnahmen ergriffen werden. Krafttraining und eine gezielte Fitnessroutine können dem effektiv entgegenwirken.<\/p><p><strong>Fitness als Anti-Aging-Kategorie in unserem Shop<\/strong><\/p><p>Um die Synergien zwischen Anti-Aging und körperlicher Fitness zu fördern, erweitern wir unsere Produktpalette um die Kategorie „Fitness“. Unser Ziel ist es, Ihnen nicht nur Produkte anzubieten, die den Alterungsprozess auf zellulärer Ebene verlangsamen, sondern auch solche, die Ihre körperliche Vitalität und Fitness unterstützen.<\/p><p>Unser Sortiment wird bald folgende Bereiche abdecken:<\/p><p>• <strong>Fitnessgeräte und Tools:<\/strong> Von kompakten Geräten für das Training zu Hause bis hin zu innovativen Tools, die speziell auf den Erhalt von Mobilität und Muskelkraft abzielen.<\/p><p>• <strong>Nahrungsergänzungsmittel für Sportler:<\/strong> Produkte, die speziell für aktive Menschen entwickelt wurden, um Energie, Regeneration und Leistungsfähigkeit zu unterstützen, wie BCAA-Komplexe, Proteine und spezifische Anti-Aging-Supplements.<\/p><p>• <strong>Bekleidung und Zubehör:<\/strong> Funktionale Sportbekleidung, die Komfort und Performance vereint, sowie Zubehör wie Fitnessmatten und Trainingsbänder.<\/p><p>• <strong>Ratgeber und Trainingspläne:<\/strong> Praktische Leitfäden und Programme, die Ihnen helfen, Ihre Fitnessziele zu erreichen und dabei gleichzeitig die Prinzipien des Anti-Aging zu berücksichtigen.<\/p><p><strong>Ein ganzheitlicher Ansatz für Ihre Gesundheit<\/strong><\/p><p>Mit der Integration von Fitness in unser Angebot möchten wir Ihnen helfen, Ihr Leben aktiv und selbstbestimmt zu gestalten. Anti-Aging und Fitness gehören zusammen: Denn was nützt eine verjüngte Haut, wenn der Körper nicht mehr mitmacht? Genauso wenig bringt es, fit zu sein, wenn der Alterungsprozess auf zellulärer Ebene ungehindert voranschreitet. Unser Ziel ist es, beide Welten miteinander zu verbinden – für ein Leben voller Energie, Vitalität und Lebensfreude.<\/p><p><strong>Bleiben Sie gespannt auf unsere neuen Produkte und entdecken Sie, wie Sie Ihre Fitness und Ihr Anti-Aging-Potenzial optimal verbinden können. Gemeinsam gestalten wir Ihre Zukunft – jung, gesund und aktiv!<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_XkdUXa": {
+              "type": "button",
+              "settings": {
+                "title": "Vibrationsplatten - Für Fitness, Gesundheit und Rehabilitation",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_KLADh3",
+            "button_XkdUXa"
+          ]
+        },
+        "locale_ptHcCb": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_7h77er": {
+              "type": "text",
+              "settings": {
+                "title": "Preserving youth: prevention starts early",
+                "text": "<p><strong>The connection between anti-aging and physical fitness: why the two go hand in hand<\/strong><\/p><p>Anti-aging is much more than just the desire to reduce wrinkles or delay biological age. It is a holistic concept that aims to improve the quality of life, increase vitality and maintain health into old age. Physical fitness plays a central role in this - not only for older people, but also for younger people who want to shape their future in a preventative manner. Lack of mobility can only be improved to a very limited extent by dietary supplements.<\/p><p><strong>Fitness as the key to cell health<\/strong><\/p><p>Physical activity works at the cellular level: regular exercise promotes blood circulation and supplies the cells with oxygen and nutrients. At the same time, it stimulates the formation of new mitochondria, the so-called \"power plants of the cells\". This is particularly important because mitochondrial function declines with age, which can lead to loss of energy, reduced cell regeneration and visible signs of aging.The connection between exercise and anti-aging is also evident in the activation of certain mechanisms such as autophagy, a cellular cleaning process. Autophagy helps recycle damaged cell components, which maintains cell health and can slow down aging. Regular physical activity is one of the most effective ways to boost this process.<\/p><p><strong>Exercise protects against age-related diseases<\/strong><\/p><p>A healthy, fit body is better equipped to fight age-related diseases. Studies show that people with good physical fitness have a lower risk of cardiovascular disease, diabetes, osteoporosis and even dementia. Fitness helps regulate blood sugar levels, reduces chronic inflammation and strengthens the immune system - all aspects that are also crucial in anti-aging.<\/p><p><strong>Maintaining youth: Prevention starts early<\/strong><\/p><p>Fitness is not just an issue for older people. Younger people benefit enormously from promoting their physical health early on in order to positively influence the aging process. Muscle maintenance and bone health are two areas that should be particularly focused on. Natural muscle loss begins around the age of 30, which can limit mobility and quality of life in the long term if no countermeasures are taken. Strength training and a targeted fitness routine can effectively counteract this.<\/p><p><strong>Fitness as an anti-aging category in our shop<\/strong><\/p><p>To promote the synergies between anti-aging and physical fitness, we are expanding our product range to include the \"Fitness\" category. Our goal is to offer you not only products that slow down the aging process at a cellular level, but also those that support your physical vitality and fitness.<\/p><p><strong>Our range will soon cover the following areas:<\/strong><\/p><p>• Fitness equipment and tools: From compact equipment for training at home to innovative tools specifically aimed at maintaining mobility and muscle strength.<br\/>• Nutritional supplements for athletes: Products specifically developed for active people to support energy, regeneration and performance, such as BCAA complexes, proteins and specific anti-aging supplements.<br\/>• Clothing and accessories: Functional sportswear that combines comfort and performance, as well as accessories such as fitness mats and training bands.<br\/>• Guides and training plans: Practical guides and programs that help you achieve your fitness goals while taking anti-aging principles into account.<\/p><p><strong>A holistic approach to your health<\/strong><\/p><p>By integrating fitness into our offering, we want to help you live an active and self-determined life. Anti-aging and fitness belong together: After all, what use is rejuvenated skin if the body no longer cooperates? It's just as pointless to be fit if the aging process continues unhindered at the cellular level. Our goal is to combine both worlds - for a life full of energy, vitality and zest for life.<\/p><p><strong>Stay tuned for our new products and discover how you can optimally combine your fitness and your anti-aging potential. Together we will shape your future - young, healthy and active!<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_CeL9kK": {
+              "type": "button",
+              "settings": {
+                "title": "Vibration Plates - The Original",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_7h77er",
+            "button_CeL9kK"
+          ]
+        },
+        "locale_w4Y4DK": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_rCmdV8": {
+              "type": "text",
+              "settings": {
+                "title": "Preservar la juventud: la prevención comienza temprano",
+                "text": "<p><strong>La conexión entre antienvejecimiento y aptitud física: por qué van de la mano<\/strong><\/p><p>El antienvejecimiento es mucho más que el simple deseo de reducir las arrugas o retrasar la edad biológica. Es un concepto holístico que tiene como objetivo mejorar la calidad de vida, aumentar la vitalidad y mantener la salud en la vejez. La aptitud física desempeña un papel central, no sólo para las personas mayores, sino también para los más jóvenes que quieren moldear su futuro de forma preventiva. La falta de movilidad sólo puede mejorarse de forma muy limitada mediante suplementos nutricionales.<br\/><br\/><strong>El fitness como clave para la salud celular<\/strong><\/p><p>La actividad física actúa a nivel celular: el ejercicio regular favorece la circulación sanguínea y suministra oxígeno y nutrientes a las células. Al mismo tiempo, estimula la formación de nuevas mitocondrias, las llamadas “centrales energéticas de las células”. Esto es particularmente importante porque la función mitocondrial disminuye con la edad, lo que puede provocar pérdida de energía, reducción de la regeneración celular y signos visibles de envejecimiento.<br\/><br\/>La conexión entre ejercicio y antienvejecimiento también se refleja en la activación de ciertos mecanismos como la autofagia, un proceso de limpieza celular. La autofagia ayuda a reciclar los componentes celulares dañados, lo que mantiene la salud celular y puede retardar el envejecimiento. La actividad física regular es una de las formas más efectivas de estimular este proceso.<br\/><br\/><strong>El ejercicio protege contra enfermedades relacionadas con la edad<\/strong><\/p><p>Un cuerpo sano y en forma está mejor protegido contra las enfermedades relacionadas con la edad. Los estudios demuestran que las personas con buena condición física tienen un menor riesgo de sufrir enfermedades cardiovasculares, diabetes, osteoporosis e incluso demencia. El fitness ayuda a regular los niveles de azúcar en sangre, reduce la inflamación crónica y fortalece el sistema inmunológico, aspectos todos ellos que también son cruciales en la lucha contra el envejecimiento.<br\/><br\/><strong>Preservar la juventud: la prevención comienza temprano<\/strong><\/p><p>El fitness no es sólo un problema de las personas mayores. Los más jóvenes se benefician enormemente de promover su salud física en una etapa temprana para influir positivamente en el proceso de envejecimiento. El mantenimiento de los músculos y la salud ósea son dos áreas a las que se debe prestar especial atención. La pérdida natural de masa muscular comienza alrededor de los 30 años, lo que puede limitar la movilidad y la calidad de vida a largo plazo si no se toman contramedidas. El entrenamiento de fuerza y ​​una rutina de ejercicios específica pueden contrarrestar esto de manera efectiva.<br\/><br\/><strong>Fitness como categoría anti-envejecimiento en nuestra tienda<\/strong><\/p><p>Para promover las sinergias entre el antienvejecimiento y la aptitud física, estamos ampliando nuestra gama de productos para incluir la categoría \"Fitness\". Nuestro objetivo es ofrecerle no sólo productos que ralenticen el proceso de envejecimiento a nivel celular, sino también aquellos que apoyen su vitalidad física y su forma física.<br\/><br\/><strong>Nuestra gama pronto cubrirá las siguientes áreas:<\/strong><\/p><p>• Equipos y herramientas de fitness: desde equipos compactos para entrenamientos en casa hasta herramientas innovadoras específicamente destinadas a mantener la movilidad y la fuerza muscular.<br\/>• Suplementos nutricionales para deportistas: Productos diseñados específicamente para personas activas para apoyar la energía, la recuperación y el rendimiento, como complejos BCAA, proteínas y suplementos específicos anti-envejecimiento.<br\/>• Ropa y Accesorios: Ropa deportiva funcional que combina comodidad y rendimiento, así como accesorios como colchonetas y bandas de ejercicio.<br\/>• Guías y planes de entrenamiento: guías y programas prácticos que le ayudarán a alcanzar sus objetivos de acondicionamiento físico incorporando principios antienvejecimiento.<\/p><p><strong>Un enfoque holístico para tu salud.<\/strong><\/p><p>Al integrar el fitness en nuestra oferta, nos gustaría ayudarle a vivir una vida activa y autodeterminada. Antienvejecimiento y fitness van de la mano: ¿De qué sirve una piel rejuvenecida si el cuerpo ya no puede soportarlo? Tampoco tiene sentido estar en forma si el proceso de envejecimiento continúa sin obstáculos a nivel celular. Nuestro objetivo es conectar ambos mundos, para una vida llena de energía, vitalidad y alegría de vivir.<br\/><br\/><strong>Mantente atento a nuestros nuevos productos y descubre cómo puedes combinar de forma óptima tu fitness y tu potencial antienvejecimiento. ¡Juntos daremos forma a su futuro: joven, saludable y activo!<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_mWNcPi": {
+              "type": "button",
+              "settings": {
+                "title": "Placas vibratorias: el original",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_rCmdV8",
+            "button_mWNcPi"
+          ]
+        },
+        "locale_g7LFcx": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_gh6T6T": {
+              "type": "text",
+              "settings": {
+                "title": "Préserver la jeunesse : la prévention commence tôt",
+                "text": "<p><strong>Le lien entre anti-âge et forme physique : pourquoi ils vont de pair<\/strong><\/p><p>L’anti-âge est bien plus que la simple volonté de réduire les rides ou de retarder l’âge biologique. Il s’agit d’un concept holistique qui vise à améliorer la qualité de vie, à accroître la vitalité et à maintenir la santé jusqu’à un âge avancé. La forme physique joue un rôle central, non seulement pour les personnes âgées, mais aussi pour les plus jeunes qui souhaitent façonner leur avenir de manière préventive. Le manque de mobilité ne peut être amélioré que dans une mesure très limitée grâce à des compléments nutritionnels.<br\/><br\/><strong>La forme physique comme clé de la santé cellulaire<\/strong><\/p><p>L'activité physique agit au niveau cellulaire : l'exercice régulier favorise la circulation sanguine et fournit aux cellules de l'oxygène et des nutriments. En même temps, il stimule la formation de nouvelles mitochondries, appelées « centrales énergétiques des cellules ». Ceci est particulièrement important car la fonction mitochondriale diminue avec l’âge, ce qui peut entraîner une perte d’énergie, une régénération cellulaire réduite et des signes visibles de vieillissement.<br\/><br\/>Le lien entre exercice et anti-âge est également évident dans l’activation de certains mécanismes comme l’autophagie, un processus de nettoyage cellulaire. L'autophagie aide à recycler les composants cellulaires endommagés, ce qui maintient la santé cellulaire et peut ralentir le vieillissement. L’activité physique régulière est l’un des moyens les plus efficaces pour stimuler ce processus.<br\/><br\/><strong>L'exercice protège contre les maladies liées à l'âge<\/strong><\/p><p>Un corps sain et en forme est mieux protégé contre les maladies liées à l’âge. Des études montrent que les personnes en bonne forme physique ont un risque moindre de maladies cardiovasculaires, de diabète, d’ostéoporose et même de démence. La forme physique aide à réguler la glycémie, réduit l’inflammation chronique et renforce le système immunitaire – autant d’aspects qui sont également cruciaux dans la lutte contre le vieillissement.<br\/><br\/><strong>Préserver la jeunesse : la prévention commence tôt<\/strong><\/p><p>La forme physique n’est pas seulement un problème pour les personnes âgées. Les jeunes bénéficient énormément d’une promotion précoce de leur santé physique afin d’influencer positivement le processus de vieillissement. L’entretien musculaire et la santé des os sont deux domaines qui méritent une attention particulière. La perte musculaire naturelle commence vers l’âge de 30 ans, ce qui peut limiter la mobilité et la qualité de vie à long terme si aucune contre-mesure n’est prise. L’entraînement en force et une routine de remise en forme ciblée peuvent contrecarrer efficacement ce phénomène.<br\/><br\/><strong>Le fitness comme catégorie anti-âge dans notre boutique<\/strong><\/p><p>Afin de favoriser les synergies entre anti-âge et forme physique, nous élargissons notre gamme de produits avec la catégorie « Fitness ». Notre objectif est de vous proposer non seulement des produits qui ralentissent le processus de vieillissement au niveau cellulaire, mais également ceux qui soutiennent votre vitalité physique et votre forme physique.<br\/><br\/><strong>Notre gamme couvrira bientôt les domaines suivants :<br\/><\/strong>• Équipements et outils de fitness : de l'équipement compact pour les entraînements à domicile aux outils innovants spécifiquement destinés au maintien de la mobilité et de la force musculaire.<br\/>• Compléments nutritionnels pour sportifs : produits spécialement conçus pour les personnes actives pour soutenir l'énergie, la récupération et la performance, tels que des complexes BCAA, des protéines et des suppléments anti-âge spécifiques.<br\/>• Vêtements et accessoires : vêtements de sport fonctionnels alliant confort et performance, ainsi que des accessoires tels que des tapis de fitness et des bandes d'exercice.<br\/>• Guides et plans d'entraînement : guides et programmes pratiques pour vous aider à atteindre vos objectifs de remise en forme tout en intégrant des principes anti-âge.<\/p><p><strong>Une approche holistique de votre santé<\/strong><\/p><p>En intégrant le fitness dans notre offre, nous souhaitons vous aider à vivre une vie active et autodéterminée. Anti-âge et fitness vont de pair : à quoi sert une peau rajeunie si le corps n’y parvient plus ? Il ne sert à rien non plus d’être en forme si le processus de vieillissement se poursuit sans entrave au niveau cellulaire. Notre objectif est de connecter les deux mondes – pour une vie pleine d’énergie, de vitalité et de joie de vivre.<br\/><br\/><strong>Restez à l'écoute de nos nouveaux produits et découvrez comment vous pouvez combiner de manière optimale votre forme physique et votre potentiel anti-âge. Ensemble, nous façonnerons votre avenir – jeune, en bonne santé et actif !<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_46ta7W": {
+              "type": "button",
+              "settings": {
+                "title": "Plaques vibrantes - l'original",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_gh6T6T",
+            "button_46ta7W"
+          ]
+        },
+        "locale_hq84Lh": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_knCAxb": {
+              "type": "text",
+              "settings": {
+                "title": "Preservare i giovani: la prevenzione inizia presto",
+                "text": "<p><strong>La connessione tra anti-età e forma fisica: perché vanno di pari passo<\/strong><\/p><p>L’anti-età è molto più del semplice desiderio di ridurre le rughe o ritardare l’età biologica. È un concetto olistico che mira a migliorare la qualità della vita, aumentare la vitalità e mantenere la salute anche in età avanzata. La forma fisica gioca un ruolo centrale, non solo per gli anziani, ma anche per i giovani che vogliono modellare preventivamente il proprio futuro. La mancanza di mobilità può essere migliorata solo in misura molto limitata attraverso l’integrazione alimentare.<br\/><br\/><strong>Il fitness come chiave per la salute delle cellule<\/strong><\/p><p>L’attività fisica agisce a livello cellulare: l’esercizio regolare favorisce la circolazione sanguigna e fornisce alle cellule ossigeno e sostanze nutritive. Allo stesso tempo stimola la formazione di nuovi mitocondri, le cosiddette “centrali energetiche delle cellule”. Ciò è particolarmente importante perché la funzione mitocondriale diminuisce con l’età, il che può portare a perdita di energia, ridotta rigenerazione cellulare e segni visibili di invecchiamento.<br\/><br\/>Il legame tra esercizio fisico e anti-età si riflette anche nell'attivazione di alcuni meccanismi come l'autofagia, un processo di pulizia cellulare. L’autofagia aiuta a riciclare i componenti cellulari danneggiati, mantenendo la salute cellulare e può rallentare l’invecchiamento. L’attività fisica regolare è uno dei modi più efficaci per stimolare questo processo.<br\/><br\/><strong>L’esercizio fisico protegge dalle malattie legate all’età<\/strong><\/p><p>Un corpo sano e in forma è meglio protetto dalle malattie legate all’età. Gli studi dimostrano che le persone con una buona forma fisica hanno un rischio minore di malattie cardiovascolari, diabete, osteoporosi e persino demenza. Il fitness aiuta a regolare i livelli di zucchero nel sangue, riduce l'infiammazione cronica e rafforza il sistema immunitario, tutti aspetti cruciali anche nell'anti-invecchiamento.<br\/><br\/><strong>Preservare i giovani: la prevenzione inizia presto<\/strong><\/p><p>Il fitness non è solo un problema degli anziani. I giovani traggono enormi benefici dalla promozione precoce della propria salute fisica per influenzare positivamente il processo di invecchiamento. Il mantenimento dei muscoli e la salute delle ossa sono due aree a cui prestare particolare attenzione. Intorno ai 30 anni inizia la perdita muscolare naturale, che può limitare la mobilità e la qualità della vita a lungo termine se non vengono prese contromisure. L'allenamento della forza e una routine di fitness mirata possono contrastare efficacemente questo problema.<br\/><br\/><strong>Il fitness come categoria anti-età nel nostro negozio<\/strong><\/p><p>Per promuovere le sinergie tra anti-età e forma fisica, stiamo ampliando la nostra gamma di prodotti per includere la categoria “Fitness”. Il nostro obiettivo è offrirti non solo prodotti che rallentino il processo di invecchiamento a livello cellulare, ma anche prodotti che supportino la tua vitalità fisica e la tua forma fisica.<br\/><br\/><strong>La nostra gamma coprirà presto le seguenti aree:<br\/><\/strong>• Attrezzature e strumenti per il fitness: dalle attrezzature compatte per gli allenamenti a casa agli strumenti innovativi specificamente mirati al mantenimento della mobilità e della forza muscolare.<br\/>• Integratori nutrizionali per atleti: Prodotti specificatamente studiati per le persone attive per supportare l'energia, il recupero e le prestazioni, come complessi BCAA, proteine ​​e integratori antietà specifici.<br\/>• Abbigliamento e accessori: abbigliamento sportivo funzionale che unisce comfort e prestazioni, nonché accessori come tappetini per il fitness e fasce per esercizi.<br\/>• Guide e piani di allenamento: guide e programmi pratici per aiutarti a raggiungere i tuoi obiettivi di fitness incorporando principi anti-età.<br\/><br\/><strong>Un approccio olistico alla tua salute<\/strong><\/p><p>Integrando il fitness nella nostra offerta, vorremmo aiutarvi a vivere una vita attiva e autodeterminata. Anti-età e fitness vanno di pari passo: a cosa serve una pelle ringiovanita se il corpo non ce la fa più? Inoltre, non ha senso mantenersi in forma se il processo di invecchiamento continua senza ostacoli a livello cellulare. Il nostro obiettivo è connettere entrambi i mondi – per una vita piena di energia, vitalità e gioia di vivere.<br\/><br\/><strong>Resta sintonizzato per i nostri nuovi prodotti e scopri come combinare in modo ottimale il tuo fitness e il tuo potenziale anti-età. Insieme daremo forma al tuo futuro: giovane, sano e attivo!<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_abrjXP": {
+              "type": "button",
+              "settings": {
+                "title": "Pedane vibranti: l'originale",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_knCAxb",
+            "button_abrjXP"
+          ]
+        },
+        "locale_NMijzf": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_z3CtPW": {
+              "type": "text",
+              "settings": {
+                "title": "Preservar a juventude: a prevenção começa cedo",
+                "text": "<p><strong>A ligação entre antienvelhecimento e boa forma física: porque andam de mãos dadas<\/strong><\/p><p>O antienvelhecimento é muito mais do que apenas o desejo de reduzir as rugas ou atrasar a idade biológica. É um conceito holístico que visa melhorar a qualidade de vida, aumentar a vitalidade e manter a saúde na velhice. A aptidão física desempenha um papel central – não só para os idosos, mas também para os mais jovens que pretendem moldar o seu futuro de forma preventiva. A falta de mobilidade só pode ser melhorada até certo ponto através de suplementos nutricionais.<br\/><br\/><strong>O fitness como a chave para a saúde celular<\/strong><\/p><p>A actividade física actua a nível celular: o exercício regular promove a circulação sanguínea e fornece oxigénio e nutrientes às células. Ao mesmo tempo, estimula a formação de novas mitocôndrias, as chamadas “centrais de energia das células”. Isto é particularmente importante porque a função mitocondrial diminui com a idade, o que pode levar à perda de energia, à redução da regeneração celular e a sinais visíveis de envelhecimento.<br\/><br\/>A ligação entre o exercício e o antienvelhecimento reflete-se também na ativação de certos mecanismos como a autofagia, um processo de limpeza celular. A autofagia ajuda a reciclar os componentes celulares danificados, o que mantém a saúde celular e pode retardar o envelhecimento. A atividade física regular é uma das formas mais eficazes de estimular este processo.<br\/><br\/><strong>O exercício protege contra doenças relacionadas com a idade<\/strong><\/p><p>Um corpo saudável e em forma está melhor protegido contra as doenças relacionadas com a idade. Estudos demonstram que pessoas com boa aptidão física apresentam menor risco de doenças cardiovasculares, diabetes, osteoporose e até demência. O condicionamento físico ajuda a regular os níveis de açúcar no sangue, reduz a inflamação crónica e fortalece o sistema imunitário – todos aspetos que também são cruciais no anti-envelhecimento.<br\/><br\/><strong>Preservar a juventude: a prevenção começa cedo<\/strong><\/p><p>O condicionamento físico não é um problema apenas dos idosos. Os mais jovens beneficiam enormemente da promoção da sua saúde física numa fase precoce, de forma a influenciar positivamente o processo de envelhecimento. A manutenção muscular e a saúde óssea são duas áreas que devem merecer especial atenção. A perda muscular natural começa por volta dos 30 anos de idade, o que pode limitar a mobilidade e a qualidade de vida a longo prazo, se não forem tomadas medidas preventivas. O treino de força e uma rotina de fitness direcionada podem contrariar isso de forma eficaz.<br\/><br\/><strong>Fitness como categoria anti-envelhecimento na nossa loja<\/strong><\/p><p>Para promover as sinergias entre o antienvelhecimento e a boa forma física, estamos a expandir a nossa gama de produtos para incluir a categoria “Fitness”. O nosso objetivo é oferecer-lhe não só produtos que retardam o processo de envelhecimento a nível celular, mas também aqueles que apoiam a sua vitalidade física e boa forma.<br\/><br\/><strong>A nossa gama abrangerá em breve as seguintes áreas:<br\/><\/strong>• Equipamentos e ferramentas de fitness: desde equipamentos compactos para exercícios em casa até ferramentas inovadoras especificamente orientadas para manter a mobilidade e a força muscular.<br\/>• Suplementos nutricionais para atletas: Produtos desenvolvidos especificamente para pessoas ativas para apoiar a energia, a recuperação e o desempenho, como complexos de BCAA, proteínas e suplementos antienvelhecimento específicos.<br\/>• Vestuário e acessórios: roupa desportiva funcional que combina conforto e desempenho, bem como acessórios como tapetes de ginástica e bandas de exercício.<br\/>• Guias e planos de treino: guias e programas práticos para o ajudar a atingir os seus objetivos de fitness, ao mesmo tempo que incorpora princípios antienvelhecimento.<\/p><p><strong>Uma abordagem holística à sua saúde<\/strong><\/p><p>Ao integrar o fitness na nossa oferta, gostaríamos de o ajudar a viver uma vida ativa e autodeterminada. Antienvelhecimento e boa forma andam juntos: de que serve uma pele rejuvenescida se o corpo já não aguenta mais? Também não faz sentido estar em forma se o processo de envelhecimento continuar sem impedimentos a nível celular. O nosso objetivo é ligar os dois mundos – para uma vida cheia de energia, vitalidade e alegria de viver.<br\/><br\/><strong>Fique atento às nossas novidades e descubra como pode combinar da melhor forma a sua forma física e o seu potencial anti-envelhecimento. Juntos vamos moldar o seu futuro – jovem, saudável e ativo!<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_VkhfdA": {
+              "type": "button",
+              "settings": {
+                "title": "Placas vibratórias - o original",
+                "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+                "link_style": "hollow",
+                "width": "1\/3"
+              }
+            }
+          },
+          "block_order": [
+            "text_z3CtPW",
+            "button_VkhfdA"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_Papicd",
+        "locale_ptHcCb",
+        "locale_w4Y4DK",
+        "locale_g7LFcx",
+        "locale_hq84Lh",
+        "locale_NMijzf"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_p9afpP": {
+      "type": "section-custom",
+      "blocks": {
+        "text_KLADh3": {
+          "type": "text",
+          "settings": {
+            "title": "Jugend bewahren: Prävention beginnt früh",
+            "text": "<p><strong>Die Verbindung von Anti-Aging und körperlicher Fitness: Warum beides Hand in Hand geht<\/strong><\/p><p>Anti-Aging ist weit mehr als nur der Wunsch, Falten zu reduzieren oder das biologische Alter hinauszuzögern. Es ist ein ganzheitliches Konzept, das darauf abzielt, die Lebensqualität zu verbessern, die Vitalität zu steigern und die Gesundheit bis ins hohe Alter zu bewahren. Dabei spielt die körperliche Fitness eine zentrale Rolle – nicht nur für ältere Menschen, sondern auch für jüngere, die präventiv ihre Zukunft gestalten möchten. Fehlende Mobilität kann durch Nahrungsergänzungsmittel nur in sehr begrenztem Umfang verbessert werden.<\/p><p><strong>Fitness als Schlüssel zur Zellgesundheit<\/strong><\/p><p>Körperliche Aktivität wirkt auf Zellebene: Regelmäßige Bewegung fördert die Durchblutung und versorgt die Zellen mit Sauerstoff und Nährstoffen. Gleichzeitig regt sie die Bildung neuer Mitochondrien an, der sogenannten „Kraftwerke der Zellen“. Dies ist besonders wichtig, da die Mitochondrien-Funktion mit zunehmendem Alter nachlässt, was zu Energieverlust, geringerer Zellregeneration und sichtbaren Zeichen des Alterns führen kann.<\/p><p>Die Verbindung von Bewegung und Anti-Aging zeigt sich auch in der Aktivierung bestimmter Mechanismen wie Autophagie, einem zellulären Reinigungsprozess. Autophagie hilft dabei, beschädigte Zellbestandteile zu recyceln, was die Zellgesundheit erhält und die Alterung verlangsamen kann. Regelmäßige körperliche Aktivität ist eine der effektivsten Methoden, diesen Prozess anzukurbeln.<\/p><p><strong>Bewegung schützt vor altersbedingten Krankheiten<\/strong><\/p><p>Ein gesunder, fitter Körper ist besser gegen altersbedingte Erkrankungen gewappnet. Studien zeigen, dass Menschen mit einer guten körperlichen Fitness ein geringeres Risiko für Herz-Kreislauf-Erkrankungen, Diabetes, Osteoporose und sogar Demenz haben. Fitness trägt zur Regulation des Blutzuckerspiegels bei, reduziert chronische Entzündungen und stärkt das Immunsystem – alles Aspekte, die auch im Anti-Aging entscheidend sind.<\/p><p><strong>Jugend bewahren: Prävention beginnt früh<\/strong><\/p><p>Fitness ist nicht nur ein Thema für ältere Menschen. Jüngere profitieren enorm davon, frühzeitig ihre körperliche Gesundheit zu fördern, um den Alterungsprozess positiv zu beeinflussen. Muskelerhalt und Knochengesundheit sind zwei Bereiche, die besonders im Fokus stehen sollten. Ab etwa dem 30. Lebensjahr beginnt der natürliche Muskelabbau, was langfristig die Mobilität und Lebensqualität einschränken kann, wenn keine Gegenmaßnahmen ergriffen werden. Krafttraining und eine gezielte Fitnessroutine können dem effektiv entgegenwirken.<\/p><p><strong>Fitness als Anti-Aging-Kategorie in unserem Shop<\/strong><\/p><p>Um die Synergien zwischen Anti-Aging und körperlicher Fitness zu fördern, erweitern wir unsere Produktpalette um die Kategorie „Fitness“. Unser Ziel ist es, Ihnen nicht nur Produkte anzubieten, die den Alterungsprozess auf zellulärer Ebene verlangsamen, sondern auch solche, die Ihre körperliche Vitalität und Fitness unterstützen.<\/p><p>Unser Sortiment wird bald folgende Bereiche abdecken:<\/p><p>• <strong>Fitnessgeräte und Tools:<\/strong> Von kompakten Geräten für das Training zu Hause bis hin zu innovativen Tools, die speziell auf den Erhalt von Mobilität und Muskelkraft abzielen.<\/p><p>• <strong>Nahrungsergänzungsmittel für Sportler:<\/strong> Produkte, die speziell für aktive Menschen entwickelt wurden, um Energie, Regeneration und Leistungsfähigkeit zu unterstützen, wie BCAA-Komplexe, Proteine und spezifische Anti-Aging-Supplements.<\/p><p>• <strong>Bekleidung und Zubehör:<\/strong> Funktionale Sportbekleidung, die Komfort und Performance vereint, sowie Zubehör wie Fitnessmatten und Trainingsbänder.<\/p><p>• <strong>Ratgeber und Trainingspläne:<\/strong> Praktische Leitfäden und Programme, die Ihnen helfen, Ihre Fitnessziele zu erreichen und dabei gleichzeitig die Prinzipien des Anti-Aging zu berücksichtigen.<\/p><p><strong>Ein ganzheitlicher Ansatz für Ihre Gesundheit<\/strong><\/p><p>Mit der Integration von Fitness in unser Angebot möchten wir Ihnen helfen, Ihr Leben aktiv und selbstbestimmt zu gestalten. Anti-Aging und Fitness gehören zusammen: Denn was nützt eine verjüngte Haut, wenn der Körper nicht mehr mitmacht? Genauso wenig bringt es, fit zu sein, wenn der Alterungsprozess auf zellulärer Ebene ungehindert voranschreitet. Unser Ziel ist es, beide Welten miteinander zu verbinden – für ein Leben voller Energie, Vitalität und Lebensfreude.<\/p><p><strong>Bleiben Sie gespannt auf unsere neuen Produkte und entdecken Sie, wie Sie Ihre Fitness und Ihr Anti-Aging-Potenzial optimal verbinden können. Gemeinsam gestalten wir Ihre Zukunft – jung, gesund und aktiv!<\/strong><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "button_XkdUXa": {
+          "type": "button",
+          "settings": {
+            "title": "Vibrationsplatten - Für Fitness, Gesundheit und Rehabilitation",
+            "link": "shopify:\/\/collections\/vibrationsplatten-fur-fitness-gesundheit-und-rehabilitation",
+            "link_style": "hollow",
+            "width": "1\/3"
+          }
+        }
+      },
+      "block_order": [
+        "text_KLADh3",
+        "button_XkdUXa"
+      ],
+      "disabled": true,
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "localized_content_WdkDEd",
+    "section_custom_p9afpP",
+    "banner",
+    "product-grid"
+  ]
+}

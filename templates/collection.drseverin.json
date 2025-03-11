@@ -1,0 +1,437 @@
+{
+  "sections": {
+    "localized_content_CREwqa": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_JVjBRN": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_RnTWMA": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - Kosmetik Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_9iGrXG": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_dgfXPz": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Die AFEGA Research Group hat in den zurück liegenden Jahren eine Reihe von Kosmetikprodukten entwickelt, die wir in dieser Kategorie des Shops (Kosmetik) angeboten haben und teilweise auch noch anbieten.<br\/><br\/>Die Produkte wurden sehr selten gekauft, wenn auch diejenigen, die sie gekauft haben, davon sehr angetan waren, wie man den Rezensionen bei Trustpilot (siehe den Link dazu am oberen Rand des Bildschirms auf der Startseite des Shops) entnehmen kann. Wir waren stolz auf unsere selbst entwickelten Produkte, aber der Aufwand stand in keinem Verhältnis zum damit erzielten Umsatz. Es war wirklich ein Verlustgeschäft.<br\/><br\/>Wir haben uns daher nach einer Marke umgesehen, die  mit unserer Philosophie in Einklang steht, und wir wurden bei der Marke. Dr.Severin fündig. Die AFEGA Research Group hat die hier vorgestellten Produkte getestet und wir sind von ihrer Qualität überzeugt und beeindruckt. Ja, sie sind teuer, viel teurer als es die von uns selbst entwickelten Produkte sind\/waren. Wir haben uns bei unseren eigenen Produkten einfach nicht getraut, einen angemessenen Preis festzusetzen. Wir haben die ganze Kosmetiksparte als unser Hobby angesehen und betrieben. Wir können das jedoch nicht mehr aufrecht erhalten.<br\/><br\/>Dr. Severin ist eine deutsche Kosmetikmarke, die sich auf hochwertige Hautpflegeprodukte spezialisiert hat. Das Sortiment umfasst Anti-Aging-Seren, Pflegeseren und Cremes, die mit sorgfältig ausgewählten Inhaltsstoffen formuliert sind. Besonders hervorzuheben ist das 12 % Vitamin C Hyaluron Serum Ultra, das für seine intensive Pflege und straffende Wirkung bekannt ist. <br\/><br\/>Die Produkte werden in Deutschland hergestellt und unterliegen strengen Qualitätskontrollen, um eine gleichbleibend hohe Wirksamkeit zu gewährleisten. <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_XinJpx": {
+              "type": "text",
+              "settings": {
+                "title": "Wie sich die Firma selbst sieht",
+                "text": "<p>Unsere Geschichte nahm ihren Anfang, als unser Gründer Peter auf der Suche nach einem effektiven After Shave war, aber von den auf dem Markt erhältlichen Produkten enttäuscht wurde. Das trieb ihn an, den Dr. Severin Original Body After Shave Balsam zu entwickeln, der seither ein Topseller ist.<br\/><br\/>Unsere Hingabe für qualitativ hochwertige Hautpflege geht jedoch weit über den After Shave Balsam hinaus. Wir sind stolz darauf, dass alle unsere Produkte in Deutschland hergestellt werden und niemals an Tieren getestet wurden. Ein Meilenstein in unserer Reise war die Schaffung unseres Vitamin C Hyaluron Serums, das Ihre Haut mit wertvollen Nährstoffen versorgt und für jugendliche Frische sorgt.<br\/><br\/>Wir sind eine Gemeinschaft von Hautpflege-Enthusiasten, die sich der Entwicklung hochwirksamer Produkte verschrieben haben, die Ihre Haut liebevoll pflegen.<br\/>Willkommen bei Dr. Severin – lassen Sie uns gemeinsam die Reise zu gesünderer und schönerer Haut antreten!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_Gxnqpy": {
+              "type": "text",
+              "settings": {
+                "title": "Rabatt",
+                "text": "<p>Wenn Sie Produkte von Dr.Severin mit einem Gesamtwert von mehr als EUR 200 bestellen, geben Sie bitte beim Checkout den Rabattcode \"Severin-10\" ein und Sie erhalten 10% Rabatt auf alle Dr.Severin-Artikel. Sollte einer dieser Artikel bereits rabattiert sein, gilt dieser 10%-Rabatt zusätzlich.<br\/><strong>Bitte beachten:<\/strong>Dieser Rabatt ist mit Rabatten für unser Gesamtsortiment (wie dem Treue-Rabatt) nicht kumulierbar.<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_RnTWMA",
+            "image_9iGrXG",
+            "text_dgfXPz",
+            "text_XinJpx",
+            "text_Gxnqpy"
+          ]
+        },
+        "locale_FF4PQX": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_GjKVaR": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - cosmetics Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_TjV7c8": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_pk4Gwq": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Over the past few years, the <strong>AFEGA Research Group <\/strong>has developed a range of cosmetic products that we have offered and partly still offer in this category of the shop (cosmetics).<br\/><br\/>The products were very rarely purchased, although those who did buy them were very impressed with them, as can be seen from the reviews on Trustpilot (see the link at the top of the screen on the shop's homepage). We were proud of the products we developed ourselves, but the effort was disproportionate to the sales we generated. It really was a loss-making business.<br\/><br\/>We therefore looked for a brand that was in line with our philosophy and we found the Dr.Severin brand. The AFEGA Research Group has tested the products presented here and we are convinced and impressed by their quality. Yes, they are expensive, much more expensive than the products we developed ourselves are\/were. We simply did not dare to set a reasonable price for our own products. We viewed and operated the whole cosmetics division as our hobby. However, we can no longer maintain this.<br\/><br\/>Dr. Severin is a German cosmetics brand that specializes in high-quality skin care products. The range includes anti-aging serums, care serums and creams formulated with carefully selected ingredients. Particularly noteworthy is the 12% Vitamin C Hyaluron Serum Ultra, which is known for its intensive care and firming effect.<br\/><br\/>The products are made in Germany and are subject to strict quality controls to ensure consistently high effectiveness.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_hhnEpj": {
+              "type": "text",
+              "settings": {
+                "title": "How the company sees itself",
+                "text": "<p>Our story began when our founder Peter was looking for an effective aftershave but was disappointed by the products available on the market. This drove him to develop the Dr. Severin Original Body After Shave Balm, which has been a top seller ever since.However, our dedication to high-quality skin care goes far beyond the aftershave balm. We are proud that all of our products are made in Germany and have never been tested on animals. A milestone in our journey was the creation of our Vitamin C Hyaluron Serum, which supplies your skin with valuable nutrients and ensures youthful freshness.We are a community of skin care enthusiasts who are committed to developing highly effective products that lovingly care for your skin.Welcome to Dr. Severin - let's start the journey to healthier and more beautiful skin together!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_GjKVaR",
+            "image_TjV7c8",
+            "text_pk4Gwq",
+            "text_hhnEpj"
+          ]
+        },
+        "locale_e7NgHD": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_rGcbXC": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - Productos cosméticos Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_iMJTt3": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_4qTCKn": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>En los últimos años, el <strong>AFEGA Research Group <\/strong>ha desarrollado una serie de productos cosméticos que hemos ofrecido y algunos de los cuales todavía ofrecemos en esta categoría de la tienda (cosmética).<br\/><br\/>Los productos se compraron muy raramente, aunque quienes los compraron les tenían mucho cariño, como se desprende de las reseñas en Trustpilot (ver el enlace en la parte superior de la pantalla de la página de inicio de la tienda). Estábamos orgullosos de los productos que desarrollamos nosotros mismos, pero el esfuerzo fue desproporcionado con las ventas que logramos. Realmente fue una propuesta perdida.<br\/><br\/>Por eso buscamos una marca que fuera acorde con nuestra filosofía y acabamos con la marca. El Dr. Severin encontró lo que buscaba.El grupo de investigación AFEGA ha probado los productos aquí presentados y estamos convencidos e impresionados por su calidad. Sí, son caros, mucho más caros que los productos que desarrollamos nosotros mismos. Simplemente no nos atrevíamos a fijar un precio adecuado para nuestros propios productos. Consideramos y perseguimos todo el sector de la cosmética como nuestro hobby. Sin embargo, ya no podemos mantener esto.<br\/><br\/>Dr. Severin es una marca de cosméticos alemana que se especializa en productos para el cuidado de la piel de alta calidad. La gama incluye sueros antienvejecimiento, sueros de cuidado y cremas formulados con ingredientes cuidadosamente seleccionados. Particularmente digno de mención es el 12% Vitamin C Hyaluronic Serum Ultra, conocido por su cuidado intensivo y efecto reafirmante.<br\/><br\/>Los productos se fabrican en Alemania y están sujetos a estrictos controles de calidad para garantizar una alta eficacia constante.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_8wn8hF": {
+              "type": "text",
+              "settings": {
+                "title": "Cómo se ve la empresa a sí misma",
+                "text": "<p>Nuestra historia comenzó cuando nuestro fundador, Peter, buscaba un after shave eficaz pero quedó decepcionado con los productos disponibles en el mercado. Eso es lo que lo impulsó a convertirse en Dr. Severin Original Body After Shave Balm, que ha sido un éxito de ventas desde entonces.<br\/><br\/>Sin embargo, nuestro compromiso con el cuidado de la piel de alta calidad va mucho más allá del bálsamo para después del afeitado. Estamos orgullosos de que todos nuestros productos se fabrican en Alemania y nunca han sido probados en animales. Un hito en nuestro camino fue la creación de nuestro suero hialurónico con vitamina C, que aporta a la piel valiosos nutrientes y garantiza una frescura juvenil.<br\/><br\/>Somos una comunidad de entusiastas del cuidado de la piel dedicada a crear productos altamente efectivos que cuidan tu piel con amor.<br\/>Bienvenido a la Dra. Severin: ¡emprendemos juntos el viaje hacia una piel más sana y bella!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_rGcbXC",
+            "image_iMJTt3",
+            "text_4qTCKn",
+            "text_8wn8hF"
+          ]
+        },
+        "locale_wE99tG": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_aNUNLU": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - Produits de beauté Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_6LDj6r": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_F9GTLn": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Ces dernières années, le <strong>AFEGA Reseearch Group <\/strong>a développé un certain nombre de produits cosmétiques que nous avons proposés et dont certains nous proposons encore dans cette catégorie de la boutique (cosmétiques).<br\/><br\/>Les produits ont été achetés très rarement, même si ceux qui les ont achetés les ont beaucoup appréciés, comme en témoignent les avis sur Trustpilot (voir le lien en haut de l'écran sur la page d'accueil de la boutique). Nous étions fiers des produits que nous avions développés nous-mêmes, mais les efforts étaient disproportionnés par rapport aux ventes réalisées. C'était vraiment une proposition perdante.<br\/><br\/>Nous avons donc recherché une marque qui correspondait à notre philosophie et nous avons finalement opté pour la marque. Le Dr Severin a trouvé ce qu'il cherchait.Le groupe de recherche AFEGA a testé les produits présentés ici et nous sommes convaincus et impressionnés par leur qualité. Oui, ils sont chers, bien plus chers que les produits que nous avons développés nous-mêmes. Nous n'avons tout simplement pas osé fixer un prix approprié pour nos propres produits. Nous considérions et poursuivions l'ensemble du secteur cosmétique comme notre passe-temps. Cependant, nous ne pouvons plus maintenir cela.<br\/><br\/>Dr. Severin est une marque de cosmétiques allemande spécialisée dans les produits de soins de la peau de haute qualité. La gamme comprend des sérums anti-âge, des sérums de soin et des crèmes formulés avec des ingrédients soigneusement sélectionnés. Il convient particulièrement de noter le sérum hyaluronique Ultra à 12 % de vitamine C, connu pour son soin intensif et son effet raffermissant.<br\/><br\/>Les produits sont fabriqués en Allemagne et sont soumis à des contrôles de qualité stricts pour garantir une efficacité constante.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_tCDCdN": {
+              "type": "text",
+              "settings": {
+                "title": "Comment l'entreprise se voit",
+                "text": "<p>Notre histoire a commencé lorsque notre fondateur Peter cherchait un après-rasage efficace mais était déçu par les produits disponibles sur le marché. C'est ce qui l'a poussé à devenir Dr. Le baume après-rasage Severin Original Body, qui est depuis lors un best-seller.<br\/><br\/>Cependant, notre engagement envers des soins de la peau de haute qualité va bien au-delà du baume après-rasage. Nous sommes fiers que tous nos produits soient fabriqués en Allemagne et n'aient jamais été testés sur les animaux. Une étape importante de notre voyage a été la création de notre sérum hyaluronique à la vitamine C, qui fournit à votre peau des nutriments précieux et assure une fraîcheur de jeunesse.<br\/><br\/>Nous sommes une communauté de passionnés de soins de la peau qui se consacrent à la création de produits très efficaces qui prennent soin de votre peau avec amour.<br\/>Bienvenue chez le Dr. Severin – embarquons ensemble dans le voyage vers une peau plus saine et plus belle !<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_aNUNLU",
+            "image_6LDj6r",
+            "text_F9GTLn",
+            "text_tCDCdN"
+          ]
+        },
+        "locale_JFVadU": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_qbNbX3": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - Cosmetici Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_Yh3iAW": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_hYa3CA": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Negli ultimi anni il <strong>AFEGA Research Group <\/strong>ha sviluppato una serie di prodotti cosmetici che abbiamo offerto e alcuni dei quali offriamo ancora in questa categoria del negozio (cosmetici).<br\/><br\/>I prodotti sono stati acquistati molto raramente, anche se chi li ha acquistati ne è rimasto molto affezionato, come si può vedere dalle recensioni su Trustpilot (vedi link in alto sullo schermo nella home page del negozio). Eravamo orgogliosi dei prodotti che sviluppavamo noi stessi, ma lo sforzo era sproporzionato rispetto alle vendite ottenute. Era davvero una proposta persa.<br\/><br\/>Abbiamo quindi cercato un marchio che fosse in linea con la nostra filosofia e alla fine abbiamo trovato il marchio. Il dottor Severin ha trovato quello che stava cercando.Il Gruppo di Ricerca AFEGA ha testato i prodotti qui presentati e siamo convinti e impressionati dalla loro qualità. Sì, sono costosi, molto più costosi dei prodotti che abbiamo sviluppato noi stessi. Semplicemente non osavamo fissare un prezzo adeguato per i nostri prodotti. Consideravamo e perseguivamo l'intero settore dei cosmetici come il nostro hobby. Tuttavia non possiamo più mantenerlo.<br\/><br\/>Dott. Severin è un marchio di cosmetici tedesco specializzato in prodotti per la cura della pelle di alta qualità. La gamma comprende sieri antietà, sieri curativi e creme formulati con ingredienti accuratamente selezionati. Particolarmente degno di nota è il siero ialuronico ultra al 12% di vitamina C, noto per la sua cura intensiva e l'effetto rassodante.<br\/><br\/>I prodotti sono fabbricati in Germania e sono soggetti a severi controlli di qualità per garantire un'efficacia costantemente elevata.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_6ECdyR": {
+              "type": "text",
+              "settings": {
+                "title": "Come vede se stessa l'azienda",
+                "text": "<p>La nostra storia inizia quando il nostro fondatore Peter era alla ricerca di un dopobarba efficace ma rimase deluso dai prodotti disponibili sul mercato. Questo è ciò che lo ha spinto a diventare Dr. Severin Original Body After Shave Balm, che da allora è stato un best seller.<br\/><br\/>Tuttavia, il nostro impegno per la cura della pelle di alta qualità va ben oltre il balsamo dopobarba. Siamo orgogliosi che tutti i nostri prodotti siano fabbricati in Germania e non siano mai stati testati sugli animali. Una pietra miliare nel nostro viaggio è stata la creazione del nostro siero ialuronico alla vitamina C, che fornisce alla tua pelle preziose sostanze nutritive e garantisce freschezza giovanile.<br\/><br\/>Siamo una comunità di appassionati di cura della pelle dediti alla creazione di prodotti altamente efficaci che si prendono cura amorevolmente della tua pelle.<br\/>Benvenuto al Dott. Severin – intraprendiamo insieme il viaggio verso una pelle più sana e più bella!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_qbNbX3",
+            "image_Yh3iAW",
+            "text_hYa3CA",
+            "text_6ECdyR"
+          ]
+        },
+        "locale_hQxmgi": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_8mf3pe": {
+              "type": "text",
+              "settings": {
+                "title": "Dr. Severin - Cosméticos Made in Germany",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_HkGDhL": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_dzy6nJ": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Nos últimos anos, o <strong>AFEGA Research Group <\/strong>desenvolveu uma série de produtos cosméticos que oferecemos e alguns dos quais ainda oferecemos nesta categoria da loja (cosméticos).<br\/><br\/>Os produtos eram comprados muito raramente, embora quem os comprasse gostasse muito deles, como se pode ver nas avaliações da Trustpilot (ver link no topo do ecrã da página inicial da loja). Estávamos orgulhosos dos produtos que desenvolvemos, mas o esforço foi desproporcional às vendas que alcançámos. Foi realmente uma proposta perdida.<br\/><br\/>Procurámos, por isso, uma marca que estivesse em linha com a nossa filosofia e acabámos por ficar com a marca. O Dr. Severin encontrou o que procurava.O Grupo de Investigação AFEGA testou os produtos aqui apresentados e estamos convencidos e impressionados com a sua qualidade. Sim, são caros, muito mais caros do que os produtos que desenvolvemos. Simplesmente não nos atrevemos a estabelecer um preço adequado para os nossos próprios produtos. Víamos e perseguimos todo o setor da cosmética como nosso hobby. No entanto, já não podemos manter isso.<br\/><br\/>O Dr. Severin é uma marca alemã de cosméticos especializada em produtos para a pele de alta qualidade. A linha inclui séruns antienvelhecimento, séruns de cuidado e cremes formulados com ingredientes cuidadosamente selecionados. Particularmente digno de nota é o 12% Vitamin C Hyaluronic Serum Ultra, que é conhecido pelo seu cuidado intensivo e efeito reafirmante.<br\/><br\/>Os produtos são fabricados na Alemanha e estão sujeitos a rigorosos controlos de qualidade para garantir uma eficácia consistentemente elevada.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_wJPciM": {
+              "type": "text",
+              "settings": {
+                "title": "Como é que a empresa se vê",
+                "text": "<p>A nossa história começou quando o nosso fundador Peter procurava um after shave eficaz, mas ficou desapontado com os produtos disponíveis no mercado. Foi isso que o levou a tornar-se Dr. Severin Original Body After Shave Balm, que tem sido um campeão de vendas desde então.<br\/><br\/>No entanto, o nosso compromisso com cuidados de pele de alta qualidade vai muito além do bálsamo pós-barba. Orgulhamo-nos de que todos os nossos produtos sejam fabricados na Alemanha e nunca tenham sido testados em animais. Um marco na nossa jornada foi a criação do nosso Sérum Hialurónico com Vitamina C, que fornece à sua pele nutrientes valiosos e garante uma frescura juvenil.<br\/><br\/>Somos uma comunidade de entusiastas de cuidados com a pele dedicados a criar produtos altamente eficazes que cuidam da sua pele com amor.<br\/>Bem-vindo ao Dr. Severin – vamos embarcar juntos na viagem para uma pele mais saudável e bonita!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_8mf3pe",
+            "image_HkGDhL",
+            "text_dzy6nJ",
+            "text_wJPciM"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_JVjBRN",
+        "locale_FF4PQX",
+        "locale_e7NgHD",
+        "locale_wE99tG",
+        "locale_JFVadU",
+        "locale_hQxmgi"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_DYLYMX": {
+      "type": "section-custom",
+      "disabled": true,
+      "blocks": {
+        "text_RnTWMA": {
+          "type": "text",
+          "settings": {
+            "title": "Dr. Severin - Kosmetik Made in Germany",
+            "text": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_9iGrXG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+            "link": "",
+            "width": "1\/4"
+          }
+        },
+        "text_dgfXPz": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Die AFEGA Research Group hat in den zurück liegenden Jahren eine Reihe von Kosmetikprodukten entwickelt, die wir in dieser Kategorie des Shops (Kosmetik) angeboten haben und teilweise auch noch anbieten.<br\/><br\/>Die Produkte wurden sehr selten gekauft, wenn auch diejenigen, die sie gekauft haben, davon sehr angetan waren, wie man den Rezensionen bei Trustpilot (siehe den Link dazu am oberen Rand des Bildschirms auf der Startseite des Shops) entnehmen kann. Wir waren stolz auf unsere selbst entwickelten Produkte, aber der Aufwand stand in keinem Verhältnis zum damit erzielten Umsatz. Es war wirklich ein Verlustgeschäft.<br\/><br\/>Wir haben uns daher nach einer Marke umgesehen, die  mit unserer Philosophie in Einklang steht, und wir wurden bei der Marke. Dr.Severin fündig. Die AFEGA Research Group hat die hier vorgestellten Produkte getestet und wir sind von ihrer Qualität überzeugt und beeindruckt. Ja, sie sind teuer, viel teurer als es die von uns selbst entwickelten Produkte sind\/waren. Wir haben uns bei unseren eigenen Produkten einfach nicht getraut, einen angemessenen Preis festzusetzen. Wir haben die ganze Kosmetiksparte als unser Hobby angesehen und betrieben. Wir können das jedoch nicht mehr aufrecht erhalten.<br\/><br\/>Dr. Severin ist eine deutsche Kosmetikmarke, die sich auf hochwertige Hautpflegeprodukte spezialisiert hat. Das Sortiment umfasst Anti-Aging-Seren, Pflegeseren und Cremes, die mit sorgfältig ausgewählten Inhaltsstoffen formuliert sind. Besonders hervorzuheben ist das 12 % Vitamin C Hyaluron Serum Ultra, das für seine intensive Pflege und straffende Wirkung bekannt ist. <br\/><br\/>Die Produkte werden in Deutschland hergestellt und unterliegen strengen Qualitätskontrollen, um eine gleichbleibend hohe Wirksamkeit zu gewährleisten. <\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_XinJpx": {
+          "type": "text",
+          "settings": {
+            "title": "Wie sich die Firma selbst sieht",
+            "text": "<p>Unsere Geschichte nahm ihren Anfang, als unser Gründer Peter auf der Suche nach einem effektiven After Shave war, aber von den auf dem Markt erhältlichen Produkten enttäuscht wurde. Das trieb ihn an, den Dr. Severin Original Body After Shave Balsam zu entwickeln, der seither ein Topseller ist.<br\/><br\/>Unsere Hingabe für qualitativ hochwertige Hautpflege geht jedoch weit über den After Shave Balsam hinaus. Wir sind stolz darauf, dass alle unsere Produkte in Deutschland hergestellt werden und niemals an Tieren getestet wurden. Ein Meilenstein in unserer Reise war die Schaffung unseres Vitamin C Hyaluron Serums, das Ihre Haut mit wertvollen Nährstoffen versorgt und für jugendliche Frische sorgt.<br\/><br\/>Wir sind eine Gemeinschaft von Hautpflege-Enthusiasten, die sich der Entwicklung hochwirksamer Produkte verschrieben haben, die Ihre Haut liebevoll pflegen.<br\/>Willkommen bei Dr. Severin – lassen Sie uns gemeinsam die Reise zu gesünderer und schönerer Haut antreten!<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_Gxnqpy": {
+          "type": "text",
+          "settings": {
+            "title": "Rabatt",
+            "text": "<p>Wenn Sie Produkte von Dr.Severin mit einem Gesamtwert von mehr als EUR 200 bestellen, geben Sie bitte beim Checkout den Rabattcode \"Severin-10\" ein und Sie erhalten 10% Rabatt auf alle Dr.Severin-Artikel. Sollte einer dieser Artikel bereits rabattiert sein, gilt dieser 10%-Rabatt zusätzlich.<br\/><strong>Bitte beachten:<\/strong>Dieser Rabatt ist mit Rabatten für unser Gesamtsortiment (wie dem Treue-Rabatt) nicht kumulierbar.<br\/><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_RnTWMA",
+        "image_9iGrXG",
+        "text_dgfXPz",
+        "text_XinJpx",
+        "text_Gxnqpy"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "localized_content_CREwqa",
+    "section_custom_DYLYMX",
+    "banner",
+    "product-grid"
+  ]
+}

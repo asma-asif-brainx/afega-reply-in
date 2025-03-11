@@ -1,0 +1,18 @@
+{
+  "parent": "product.json",
+  "context": {
+    "market": "de"
+  },
+  "sections": {
+    "main": {
+      "settings": {},
+      "blocks": {
+        "buy_buttons": {
+          "settings": {
+            "enable_payment_button": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1005 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "section_image_text_banner_bdUczf": {
+      "type": "section-image-text-banner",
+      "blocks": {
+        "image_ErGjYX": {
+          "type": "image",
+          "settings": {
+            "add-inlineimg-url": "https:\/\/de.trustpilot.com\/review\/afega-anti-aging-shop.com?utm_medium=trustbox&utm_source=MicroReviewCount",
+            "inline_image": "shopify:\/\/shop_images\/Group_36_1.png",
+            "inline_image_width": 160,
+            "inline_image_width_mobile": 50,
+            "inline_image_radius": 0
+          }
+        },
+        "inline_text_image_c7B3HF": {
+          "type": "inline_text_image",
+          "settings": {
+            "icon-image": "shopify:\/\/shop_images\/Group_37_1.svg",
+            "text-for-icon": "4,9\/5,00 (über 10.000 Menschen leben einen gesunden Lebensstil)"
+          }
+        },
+        "heading_M77pTp": {
+          "type": "heading",
+          "settings": {
+            "custom-desktop-heading-size": 37,
+            "custom-heading-weight": "400",
+            "heading": "WILLKOMMEN BEI",
+            "text_size": 4,
+            "text_width": 40,
+            "text_size_mobile": 6
+          }
+        },
+        "heading_Df9zb6": {
+          "type": "heading",
+          "settings": {
+            "custom-desktop-heading-size": 53,
+            "custom-heading-weight": "700",
+            "heading": "AFEGA® Vital-Check",
+            "text_size": 6,
+            "text_width": 40,
+            "text_size_mobile": 6
+          }
+        },
+        "text_83dCJ7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Beantworten Sie 77 einfache Fragen und entdecken Sie die 5 besten Anti-Aging-Substanzen, die auf Ihre Bedürfnisse zugeschnitten sind.<\/p>",
+            "text_size": 2,
+            "text_width": 40,
+            "text_size_mobile": 2
+          }
+        },
+        "button_3KkaQA": {
+          "type": "button",
+          "settings": {
+            "button_label": "Beantworten Sie diese Fragen und und erhalten Sie Ihre individuellen Empfehlungen!",
+            "button_link": "shopify:\/\/pages\/quiz-questions",
+            "button_style": "c-btn c-btn--primary",
+            "button_2_label": "",
+            "button_2_link": "",
+            "button_2_style": "c-btn c-btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "image_ErGjYX",
+        "inline_text_image_c7B3HF",
+        "heading_M77pTp",
+        "heading_Df9zb6",
+        "text_83dCJ7",
+        "button_3KkaQA"
+      ],
+      "settings": {
+        "add-container-class": true,
+        "add_quiz_class": true,
+        "bg_image": "shopify:\/\/shop_images\/ada_2.png",
+        "content_alignment": "center",
+        "section_height": 540,
+        "section_height_mobile": 220,
+        "section_full_screen": false,
+        "section_width": "full",
+        "bg_color": "#f2f2f2",
+        "content_color": "#131313",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "content_heading_color": false,
+        "divider_top": false,
+        "divider_bottom": false,
+        "section_bottom_margin": false
+      }
+    },
+    "localized_content_Ekfcc8": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_4CUrK4": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_kmhUBw": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Scientific Background",
+                "text": "<p>Aging is influenced by numerous biological factors, including cellular energy, inflammation, oxidative stress, DNA damage, and mitochondrial health. Scientific research has shown that specific substances can actively support these processes and promote overall cell health.The AFEGA® Vitality Check is based on the latest scientific findings on anti-aging mechanisms. However, this test has not been empirically validated. The results should therefore be seen as a guideline for your personal anti-aging strategy and do not replace medical advice.<\/p><p>A great tip: All the substances we use in our shop are precious for everyone! However, these substances cannot be used as supplements. This test will help you find the most important substances, as well as their physical and psychological effects - if you are sick. If you are already aware of the substances to be supplemented, it is the substances that you (from the dosage) need to be supplemented.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_kmhUBw"
+          ]
+        },
+        "locale_VBwzLD": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_WmCQRx": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Wissenschaftlicher Hintergrund",
+                "text": "<p>Das Altern wird durch zahlreiche biologische Faktoren beeinflusst, darunter Zellenergie, Entzündungen, oxidativer Stress, DNA-Schäden und die Gesundheit der Mitochondrien. Wissenschaftliche Untersuchungen haben gezeigt, dass bestimmte Substanzen diese Prozesse aktiv unterstützen und die allgemeine Zellgesundheit fördern können. Der AFEGA® Vital-Check basiert auf neuesten wissenschaftlichen Erkenntnissen zu Anti-Aging-Mechanismen. Dieser Test wurde jedoch nicht empirisch validiert. Die Ergebnisse sollten daher als Leitfaden für Ihre persönliche Anti-Aging-Strategie betrachtet werden und ersetzen nicht die ärztliche Beratung.<\/p><p>Ein wichtiger Hinweis: <em>Alle<\/em> Substanzen, die wir in unserem Shop anbieten, sind segensreich für jeden! Aber nicht jeder kann es sich leisten, alle diese Substanzen auch regelmäßig zu supplementieren. Dieser Test soll Ihnen helfen, die für <em>Sie<\/em> wichtigsten Substanzen zu finden, also die, die Ihrer körperlichen und psychischen Verfassung am besten entsprechen - wenn Sie auswählen müssen. Wenn Sie es sich leisten können, alle Substanzen zu supplementieren, sind es die Substanzen, die Sie (von der Dosierung her) bevorzugen sollten. <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_WmCQRx"
+          ]
+        },
+        "locale_LGfAYL": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_YgmB76": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Antecedentes científicos",
+                "text": "<p>El envejecimiento está influenciado por numerosos factores biológicos, incluida la energía celular, la inflamación, el estrés oxidativo, el daño del ADN y la salud mitocondrial. La investigación científica ha demostrado que sustancias específicas pueden apoyar activamente estos procesos y promover la salud celular en general.<br\/>AFEGA® Vitality Check se basa en los últimos descubrimientos científicos sobre los mecanismos antienvejecimiento. Sin embargo, esta prueba no ha sido validada empíricamente. Por lo tanto, los resultados deben considerarse como una guía para su estrategia personal antienvejecimiento y no reemplazan el consejo médico.<\/p><p>Un gran consejo: ¡todas las sustancias que utilizamos en nuestra tienda son valiosas para todos! Sin embargo, estas sustancias no pueden utilizarse como suplementos. Esta prueba le ayudará a encontrar las sustancias más importantes, así como sus efectos físicos y psicológicos, si está enfermo. Si ya conoces las sustancias que debes suplementar, se trata de las sustancias que (a partir de la dosis) debes suplementar.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_YgmB76"
+          ]
+        },
+        "locale_teMgpq": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_hFyEAi": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Contexte scientifique",
+                "text": "<p>Le vieillissement est influencé par de nombreux facteurs biologiques, notamment l’énergie cellulaire, l’inflammation, le stress oxydatif, les dommages à l’ADN et la santé mitochondriale. La recherche scientifique a montré que des substances spécifiques peuvent soutenir activement ces processus et favoriser la santé globale des cellules.<br\/>Le AFEGA® Vitality Check s'appuie sur les dernières découvertes scientifiques sur les mécanismes anti-âge. Cependant, ce test n’a pas été validé empiriquement. Les résultats doivent donc être considérés comme une ligne directrice pour votre stratégie anti-âge personnelle et ne remplacent pas un avis médical.<\/p><p>Remarque importante : Toutes les substances que nous proposons dans notre boutique sont bénéfiques pour tout le monde ! Mais tout le monde ne peut pas se permettre de prendre régulièrement tous ces nutriments. Ce test est conçu pour vous aider à trouver les substances qui sont les plus importantes pour VOUS, c'est-à-dire celles qui conviennent le mieux à votre condition physique et mentale - si vous devez choisir. Si vous pouvez vous permettre de compléter toutes les substances, voici celles que vous devriez privilégier (en termes de dosage).<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_hFyEAi"
+          ]
+        },
+        "locale_rFBxin": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_44Miji": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Background scientifico",
+                "text": "<p>L’invecchiamento è influenzato da numerosi fattori biologici, tra cui l’energia cellulare, l’infiammazione, lo stress ossidativo, il danno al DNA e la salute mitocondriale. La ricerca scientifica ha dimostrato che sostanze specifiche possono supportare attivamente questi processi e promuovere la salute generale delle cellule.<br\/>L'AFEGA® Vitality Check si basa sulle più recenti scoperte scientifiche sui meccanismi anti-età. Tuttavia, questo test non è stato validato empiricamente. I risultati devono quindi essere visti come una linea guida per la propria personale strategia antietà e non sostituiscono il consiglio medico.<\/p><p>Nota importante: TUTTE le sostanze che offriamo nel nostro negozio sono benefiche per tutti! Ma non tutti possono permettersi di assumere regolarmente tutte queste sostanze. Questo test è stato ideato per aiutarti a individuare le sostanze più importanti per TE, ovvero quelle più adatte alle tue condizioni fisiche e mentali, se proprio devi scegliere. Se puoi permetterti di integrare tutte le sostanze, queste sono le sostanze che dovresti preferire (in termini di dosaggio).<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_44Miji"
+          ]
+        },
+        "locale_TpWP4i": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_EqcHHK": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Formação Científica",
+                "text": "<p>O envelhecimento é influenciado por vários fatores biológicos, incluindo a energia celular, a inflamação, o stress oxidativo, os danos no ADN e a saúde mitocondrial. A investigação científica demonstrou que substâncias específicas podem apoiar ativamente estes processos e promover a saúde geral das células. No entanto, este teste não foi validado empiricamente. Os resultados devem, portanto, ser vistos como uma orientação para a sua estratégia pessoal antienvelhecimento e não substituem o aconselhamento médico.<\/p><p>Uma nota importante: Todas as substâncias que oferecemos na nossa loja são benéficas para todos! Mas nem todos se podem dar ao luxo de suplementar todas estas substâncias regularmente. Este teste foi criado para o ajudar a encontrar as substâncias que são mais importantes para SI, ou seja, aquelas que melhor se adaptam à sua condição física e mental - se tiver de escolher. Se puder suplementar todas as substâncias, estas são as que deve preferir (em termos de dosagem).<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_EqcHHK"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_4CUrK4",
+        "locale_VBwzLD",
+        "locale_LGfAYL",
+        "locale_teMgpq",
+        "locale_rFBxin",
+        "locale_TpWP4i"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "localized_content_DGMMbD": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_6DedGN": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_H9Dexg": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "How the Test Works",
+                "text": "<p>You will receive 77 targeted questions covering various aspects of your health, diet, lifestyle, and genetic predispositions. Each question will be presented individually, and you can choose from three response options:<\/p><p>✅ YES<br\/>🤔 Sometimes \/ maybe<br\/>❌ no<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_7KxMcx": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Answer these questions and Get Your Personalized Results!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_yTbdBF": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Once you have answered at least 50 questions, you will receive a scientifically grounded evaluation. Our system will analyze your responses and generate a ranked list of the most beneficial anti-aging substances tailored to your profile.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_H9Dexg",
+            "button_7KxMcx",
+            "text_yTbdBF"
+          ]
+        },
+        "locale_zDcJPc": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_6iBjQr": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "So funktioniert der Test",
+                "text": "<p>Sie erhalten 77 gezielte Fragen zu verschiedenen Aspekten Ihrer Gesundheit, Ernährung, Lebensweise und genetischen Veranlagung. Jede Frage wird einzeln gestellt und Sie können aus drei Antwortmöglichkeiten wählen: <\/p><p>✅ JA<\/p><p>🤔 Manchmal \/ vielleicht <\/p><p>❌ Nein<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_9fy9gF": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Beantworten Sie diese Fragen und und erhalten Sie Ihre individuellen Empfehlungen!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_3KKF8j": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Sobald Sie mindestens 50 Fragen beantwortet haben, erhalten Sie eine wissenschaftlich fundierte Bewertung. Unser System analysiert Ihre Antworten und erstellt eine auf Ihr Profil zugeschnittene Rangliste der wirksamsten Anti-Aging-Wirkstoffe.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_6iBjQr",
+            "button_9fy9gF",
+            "text_3KKF8j"
+          ]
+        },
+        "locale_kcNUG4": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_XyUxpf": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Cómo funciona la prueba",
+                "text": "<p>Recibirá 77 preguntas específicas que cubrirán diversos aspectos de su salud, dieta, estilo de vida y predisposiciones genéticas. Cada pregunta se presentará individualmente y podrás elegir entre tres opciones de respuesta: <\/p><p>✅ SÍ<\/p><p>🤔 A veces\/tal vez<\/p><p>❌ no<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_wyR8Kp": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "¡Responda estas preguntas y obtenga sus resultados personalizados!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_Dy9VLm": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Una vez que haya respondido al menos 50 preguntas, recibirá una evaluación con base científica. Nuestro sistema analizará sus respuestas y generará una lista clasificada de las sustancias antienvejecimiento más beneficiosas adaptadas a su perfil.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_XyUxpf",
+            "button_wyR8Kp",
+            "text_Dy9VLm"
+          ]
+        },
+        "locale_Mq4CBP": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_dcUEPG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Comment fonctionne le test",
+                "text": "<p>Vous recevrez 77 questions ciblées couvrant divers aspects de votre santé, de votre alimentation, de votre mode de vie et de vos prédispositions génétiques. Chaque question sera présentée individuellement et vous pourrez choisir parmi trois options de réponse :<\/p><p>✅ OUI<\/p><p>🤔 Parfois \/ peut-être<\/p><p>❌ non<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_4VUirQ": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Répondez à ces questions et obtenez vos résultats personnalisés !",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_qAyWx3": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Une fois que vous aurez répondu à au moins 50 questions, vous recevrez une évaluation scientifiquement fondée. Notre système analysera vos réponses et générera une liste classée des substances anti-âge les plus bénéfiques, adaptée à votre profil.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_dcUEPG",
+            "button_4VUirQ",
+            "text_qAyWx3"
+          ]
+        },
+        "locale_ChpegW": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_8CMbww": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Come funziona il test",
+                "text": "<p>Riceverai 77 domande mirate che coprono vari aspetti della tua salute, dieta, stile di vita e predisposizioni genetiche. Ogni domanda verrà presentata individualmente e potrai scegliere tra tre opzioni di risposta:<\/p><p>✅ SÌ<\/p><p>🤔 A volte\/forse<\/p><p>❌ no<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_rxy9iA": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Rispondi a queste domande e ottieni i tuoi risultati personalizzati!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_tPEBrz": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Dopo aver risposto ad almeno 50 domande, riceverai una valutazione scientificamente fondata. Il nostro sistema analizzerà le tue risposte e genererà un elenco classificato delle sostanze antietà più benefiche su misura per il tuo profilo.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_8CMbww",
+            "button_rxy9iA",
+            "text_tPEBrz"
+          ]
+        },
+        "locale_7DiaWm": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_a84ryV": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Como funciona o teste",
+                "text": "<p>Você receberá 77 perguntas específicas cobrindo vários aspectos de sua saúde, dieta, estilo de vida e predisposições genéticas. Cada questão será apresentada individualmente, e você poderá escolher entre três opções de resposta: <\/p><p>✅ SIM<\/p><p>🤔 Às vezes\/talvez<\/p><p>❌ não<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_K7KHmW": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Responda a estas perguntas e obtenha resultados personalizados!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_wUdMqR": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Depois de responder a pelo menos 50 perguntas, você receberá uma avaliação com base científica. Nosso sistema analisará suas respostas e gerará uma lista classificada das substâncias antienvelhecimento mais benéficas, adaptada ao seu perfil.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_a84ryV",
+            "button_K7KHmW",
+            "text_wUdMqR"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_6DedGN",
+        "locale_zDcJPc",
+        "locale_kcNUG4",
+        "locale_Mq4CBP",
+        "locale_ChpegW",
+        "locale_7DiaWm"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "localized_content_XDbipV": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_j4VddV": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_3N67Cp": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "What to Keep in Mind",
+                "text": "<ul><li>Answer the questions as honestly and spontaneously as possible—there are no “right” or “wrong” answers.<\/li><li>If unsure, select “Sometimes \/ Maybe.<\/li><li>This test is not a medical diagnosis but a scientifically based tool for personal guidance.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_MQ7Def": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Answer these questions and Get Your Personalized Results!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_Dzt3hg": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Start your AFEGA® Vitality Check now and discover the best substances for you!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_AALeUU": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>This is a service of the AFEGA Anti-Aging-Shop and AFEGA Research Group disclaims any liability in connection with the use of this service.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_3N67Cp",
+            "button_MQ7Def",
+            "text_Dzt3hg",
+            "text_AALeUU"
+          ]
+        },
+        "locale_MyhU6F": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_qXDxQ7": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Was Sie beachten sollten",
+                "text": "<ul><li>Beantworten Sie die Fragen so ehrlich und spontan wie möglich – es gibt keine „richtigen“ oder „falschen“ Antworten.<\/li><li>Wenn Sie unsicher sind, wählen Sie „Manchmal \/ Vielleicht“. <\/li><li>Dieser Test ist keine medizinische Diagnose, sondern ein wissenschaftlich fundiertes Hilfsmittel zur persönlichen Beratung.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_hrdTHp": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Beantworten Sie diese Fragen und und erhalten Sie Ihre individuellen Empfehlungen!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_Mccd9x": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Starten Sie jetzt Ihren AFEGA® Vital-Check und entdecken Sie die für Sie besten Substanzen!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_ENNNRw": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>Dies ist ein Service der AFEGA Research Group und der AFEGA Anti-Aging-Shop lehnt jegliche Haftung im Zusammenhang mit der Nutzung dieses Services ab.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_qXDxQ7",
+            "button_hrdTHp",
+            "text_Mccd9x",
+            "text_ENNNRw"
+          ]
+        },
+        "locale_7WbCAi": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_hMAf8G": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Qué tener en cuenta",
+                "text": "<ul><li>Responda las preguntas de la manera más honesta y espontánea posible; no hay respuestas “correctas” o “incorrectas”.<\/li><li> Si no está seguro, seleccione “A veces\/Quizás”. <\/li><li>Esta prueba no es un diagnóstico médico, sino una herramienta con base científica para orientación personal.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_9bWVEj": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "¡Responda estas preguntas y obtenga sus resultados personalizados!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_KDWcic": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>¡Comienza ahora tu AFEGA® Vitality Check y descubre las mejores sustancias para ti!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_p3wfda": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>Este es un servicio de AFEGA Research Group y AFEGA® Anti-Aging-Shop rechaza cualquier responsabilidad en relación con el uso de este servicio.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_hMAf8G",
+            "button_9bWVEj",
+            "text_KDWcic",
+            "text_p3wfda"
+          ]
+        },
+        "locale_PyPYkM": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_ApCUFa": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Ce qu'il faut garder à l'esprit",
+                "text": "<ul><li>Répondez aux questions aussi honnêtement et spontanément que possible : il n'y a pas de « bonne » ou de « mauvaise » réponse. <\/li><li>En cas de doute, sélectionnez « Parfois \/ Peut-être ».<\/li><li> Ce test n'est pas un diagnostic médical mais un outil scientifiquement fondé pour vous guider personnellement.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_A6i73U": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Répondez à ces questions et obtenez vos résultats personnalisés !",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_LCfbLa": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Commencez dès maintenant votre AFEGA® Vitality Check et découvrez les meilleures substances pour vous !<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_ybzPWY": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>Il s'agit d'un service de l'AFEGA Research Group et le AFEGA® Anti-Aging-Shop décline toute responsabilité liée à l'utilisation de ce service.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_ApCUFa",
+            "button_A6i73U",
+            "text_LCfbLa",
+            "text_ybzPWY"
+          ]
+        },
+        "locale_RUkytc": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_AKM6jB": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Cosa tenere a mente",
+                "text": "<ul><li>Rispondi alle domande nel modo più onesto e spontaneo possibile: non esistono risposte \"giuste\" o \"sbagliate\".<\/li><li> In caso di dubbi, seleziona \"A volte \/ Forse\". <\/li><li>Questo test non è una diagnosi medica ma uno strumento scientificamente fondato per l'orientamento personale.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_yHqjdQ": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Rispondi a queste domande e ottieni i tuoi risultati personalizzati!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_Tc6Wfn": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Inizia subito il tuo AFEGA® Vitality Check e scopri le sostanze più adatte a te!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_xPDQQJ": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>Questo è un servizio dell'AFEGA Resedarch. Group e il AFEGA® Anti-Aging-Shop declina ogni responsabilità in relazione all'utilizzo di questo servizio.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_AKM6jB",
+            "button_yHqjdQ",
+            "text_Tc6Wfn",
+            "text_xPDQQJ"
+          ]
+        },
+        "locale_fQCNA7": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_kKDe3w": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "O que manter em mente",
+                "text": "<ul><li>Responda às perguntas da forma mais honesta e espontânea possível - não há respostas “certas” ou “erradas”.<\/li><li> Se não tiver certeza, selecione “Às vezes \/ Talvez.<\/li><li> Este teste não é um diagnóstico médico, mas uma ferramenta com base científica para orientação pessoal.<\/li><\/ul>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "button_YxpgpM": {
+              "type": "button",
+              "settings": {
+                "add-custom-blue-color-button": true,
+                "title": "Responda a estas perguntas e obtenha resultados personalizados!",
+                "link": "shopify:\/\/pages\/quiz-questions",
+                "link_style": "primary",
+                "width": "1\/2"
+              }
+            },
+            "text_KbRm9p": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Comece agora o seu AFEGA® Vitality Check e descubra as melhores substâncias para você!<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_tdwAjY": {
+              "type": "text",
+              "settings": {
+                "add-text-color": true,
+                "title": "",
+                "text": "<p>Este é um serviço da AFEGA Research Group e o AFEGA® Anti-Aging-Shop isenta-se de qualquer responsabilidade em relação ao uso deste serviço.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_kKDe3w",
+            "button_YxpgpM",
+            "text_KbRm9p",
+            "text_tdwAjY"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_j4VddV",
+        "locale_MyhU6F",
+        "locale_7WbCAi",
+        "locale_PyPYkM",
+        "locale_RUkytc",
+        "locale_fQCNA7"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_E7hYEj": {
+      "type": "section-custom",
+      "blocks": {
+        "text_AaUhLr": {
+          "type": "text",
+          "settings": {
+            "title": "Scientific Background",
+            "text": "<p>Aging is influenced by numerous biological factors, including cellular energy, inflammation, oxidative stress, DNA damage, and mitochondrial health. Scientific research has shown that specific substances can actively support these processes and promote overall cell health.The AFEGA® Vitality Check is based on the latest scientific findings on anti-aging mechanisms. However, this test has not been empirically validated. The results should therefore be seen as a guideline for your personal anti-aging strategy and do not replace medical advice.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_AaUhLr"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "en",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_AgwYXA": {
+      "type": "section-custom",
+      "blocks": {
+        "text_jtyFa8": {
+          "type": "text",
+          "settings": {
+            "title": "How the Test Works",
+            "text": "<p>You will receive 75 targeted questions covering various aspects of your health, diet, lifestyle, and genetic predispositions. Each question will be presented individually, and you can choose from three response options:<\/p><p>✅ YES<br\/>🤔 Sometimes \/ maybe<br\/>❌ no<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "button_MYUBrX": {
+          "type": "button",
+          "settings": {
+            "title": "Answer these questions and Get Your Personalized Results!",
+            "link": "",
+            "link_style": "primary",
+            "width": "1\/2"
+          }
+        },
+        "text_AbaCLY": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Once you have answered at least 50 questions, you will receive a scientifically grounded evaluation. Our system will analyze your responses and generate a ranked list of the most beneficial anti-aging substances tailored to your profile.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_jtyFa8",
+        "button_MYUBrX",
+        "text_AbaCLY"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": true,
+        "locale": "en",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_pCYtFF": {
+      "type": "section-custom",
+      "blocks": {
+        "text_8NxP6b": {
+          "type": "text",
+          "settings": {
+            "title": "What to Keep in Mind",
+            "text": "<ul><li>Answer the questions as honestly and spontaneously as possible—there are no “right” or “wrong” answers.<\/li><li>If unsure, select “Sometimes \/ Maybe.<\/li><li>This test is not a medical diagnosis but a scientifically based tool for personal guidance.<\/li><\/ul>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "button_GgqiCD": {
+          "type": "button",
+          "settings": {
+            "title": "Answer these questions and Get Your Personalized Results!",
+            "link": "",
+            "link_style": "primary",
+            "width": "2\/3"
+          }
+        },
+        "text_rBBLDW": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Start your AFEGA® Vitality Check now and discover the best substances for you!<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_griK9x": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>This is a service of the AFEGA Anti-Aging-Shop and AFEGA Research Group disclaims any liability in connection with the use of this service.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_8NxP6b",
+        "button_GgqiCD",
+        "text_rBBLDW",
+        "text_griK9x"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "en",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_image_text_banner_bdUczf",
+    "localized_content_Ekfcc8",
+    "localized_content_DGMMbD",
+    "localized_content_XDbipV",
+    "section_custom_E7hYEj",
+    "section_custom_AgwYXA",
+    "section_custom_pCYtFF"
+  ]
+}

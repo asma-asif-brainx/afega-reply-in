@@ -1,0 +1,359 @@
+{
+  "sections": {
+    "section_slideshow_6wPyc3": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_Jk6KrV": {
+          "type": "image",
+          "settings": {
+            "remove-top-margin": true,
+            "add-top-position": true,
+            "add-top-position-mobile": false,
+            "move-text-bottom-mobile": false,
+            "image": "shopify:\/\/shop_images\/Frame_5_9.png",
+            "image_mobile": "shopify:\/\/shop_images\/Frame_5_10.png",
+            "add-custom-text-color": false,
+            "icon-link": "",
+            "text-for-icon": "",
+            "text-for-icon-two": "",
+            "title": "Wir bieten die besten Anti-Aging-Produkte für Sie an.",
+            "text": "<p>Vorzeitiges Altern wird auf chronische Gesundheitsprobleme und altersbedingte Krankheiten zurückgeführt.<\/p>",
+            "alignment": "left",
+            "link_title": "",
+            "link": "",
+            "link_style": "c-btn c-btn--hollow",
+            "link_title_2": "",
+            "link_2": "",
+            "link_style_2": "c-btn c-btn--primary",
+            "add-trust-pilot-link": false
+          }
+        }
+      },
+      "block_order": [
+        "image_Jk6KrV"
+      ],
+      "disabled": true,
+      "settings": {
+        "image-contain": false,
+        "slideshow_height": "small",
+        "slideshow_width": "contained",
+        "nav_style": "solid-brand",
+        "hide_nav_arrows": false,
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "style": "transparent",
+        "text_bg_color": "#ffffff",
+        "text_color": "#131313",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "text_heading_color": false,
+        "text_border_color": true,
+        "title_size": 3,
+        "section_bottom_margin": false
+      }
+    },
+    "localized_content_W4YNGD": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_AeD4hj": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_TJm68p": {
+              "type": "text",
+              "settings": {
+                "title": "Other modern anti-aging-substances",
+                "text": "<h3><strong>Resveratrol \/ Pterostilbene \/ Spermidine \/ Quercetin Powder and Capsules - Modern Chemicals for Anti-Aging<\/strong><\/h3><p>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_apB3i7": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+                "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+                "width": "1\/3"
+              }
+            },
+            "text_CCcpcn": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p><strong>David Sinclair explains the effects of sirtuins as follows:<\/strong><br\/><br\/><strong>1. Activation of sirtuins:<\/strong> Sinclair emphasizes that sirtuins are enzymes that are thought to slow down aging. These enzymes can dampen the activity of certain genes that are responsible for aging[3][4].<br\/><strong>2. Antioxidant effect:<\/strong> Sirtuins have antioxidant properties that can help reduce oxidative stress and inflammation in the body[4].<br\/><strong>3. Connection to resveratrol:<\/strong> Sinclair explains that resveratrol, a natural substance found in peanuts, berries and grapes, activates sirtuins. This activation can lead to an extension of lifespan and improved health[1][3][5].<br\/><strong>4. Synergy with NMN:<\/strong> Sinclair emphasizes the synergy between resveratrol and NMN (nicotinamide mononucleotide). While resveratrol activates the sirtuins, NMN is needed to feed these proteins and support their function[4].<br\/><br\/><strong>Sources:<\/strong><br\/>[1] https:\/\/www.focus.de\/gesundheit\/gesundleben\/antiaging\/lifestyle\/neue-formeln-gegen-das-altern-medizin_id_2166072.html<br\/>[2] https:\/\/www.spiegel.de\/wissenschaft\/medizin\/vermeintliche-jungbrunnen-pillen-geschaeft-mit-dem-leben-a-722026.html<br\/>[3] https:\/\/www.zeit.de\/zeit-wissen\/2010\/06\/Resveratrol<br\/>[4] https:\/\/www.schweizer-illustrierte.ch\/body-health\/toyota\/die-experten-tipps-fur-ewige-jugend-im-reality-check<br\/>[5] https:\/\/deutsch.medscape.com\/artikel\/4900856<br\/><br\/><strong>In addition to resveratrol, other substances activate the sirtuins. These substances are:<\/strong><br\/><br\/><strong>1. Curcumin:<\/strong> A polyphenol found in turmeric that acts as a direct sirtuin activator[4].<br\/><strong>2. Quercetin:<\/strong> A flavonoid found in apples and other plant foods that activates sirtuins[4]. (Also available in our store.)<br\/><strong>3. Cocoa flavonoids: <\/strong>These flavonoids are found in dark chocolate and act as sirtuin activators[4].<br\/><strong>4. Anthocyanins:<\/strong> These pigments are found in blueberries and raspberries and activate sirtuins[4]. (See our product \"Pterostilbene: The blueberry molecule\")<br\/><br\/>Sources:<br\/>[1] https:\/\/www.focus.de\/gesundheit\/gesundleben\/antiaging\/lifestyle\/neue-formeln-gegen-das-altern-medizin_id_2166072.html<br\/>[2] https:\/\/www.zeit.de\/zeit-wissen\/2010\/06\/Resveratrol<br\/>[3] https:\/\/deutsch.medscape.com\/artikel\/4900856<br\/>[4] https:\/\/www.ugb.de\/ugb-medien\/einzelhefte\/gesunder-dreiklang-koerper-psyche-geist\/was-sind-sirtuine-und-wie-ist-die-sirtfood-diaet-einzuschaetzen\/<br\/>[5] https:\/\/www.spiegel.de\/wissenschaft\/medizin\/vermeintliche-jungbrunnen-pillen-geschaeft-mit-dem-leben-a-722026.html<br\/><br\/><a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/info\/info-content-755.html\"><strong>The eyewash with the certificates of analysis<\/strong><\/a><\/p><h2><strong>Here is the <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\"><strong>Resveratrol analysis<\/strong><\/a><strong> of an independent laboratory sold by us.<\/strong><\/h2><p><strong>Here is the <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\"><strong>Pterostilbene analysis <\/strong><\/a><strong>of an independent laboratory sold by us.<\/strong>As a result of a new study, Sinclair advises against taking resveratrol capsules or powder on days when you exercise intensely. However, he finds resveratrol so valuable that he does not want to omit it completely: <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC3810808\/\">Click<\/a><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Fundamental criticism and doubts about the anti-aging effect of resveratro l<\/a><a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Here is an article in the German medical journal, which comes to a positive assessment of resveratrol and casts doubt on the studies cited in the YouTube video<\/a>.<br\/><br\/>This study from 2021 shows many beneficial effects of resveratrol: <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">A promising \"all-rounder\" among secondary plant substances <\/a>Study from 2022: <a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\">​Resveratrol promotes wound healing<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_TJm68p",
+            "image_apB3i7",
+            "text_CCcpcn"
+          ]
+        },
+        "locale_MHHhFf": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_XcFWGb": {
+              "type": "text",
+              "settings": {
+                "title": "Resveratrol\/Pterostilbeno",
+                "text": "<h3><strong>Resveratrol \/ Pterostilbene Espermidina \/ Quercetina en polvo y cápsulas - productos químicos antienvejecimiento con base científica.<\/strong><\/h3><p>\"Hay dos campamentos. Aquellos que leen artículos científicos y entienden que el resveratrol<br\/>es un activador SIRT1 probado que funciona en ensayos clínicos... y aquellos que no\"<br\/>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_7Ri4py": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+                "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+                "width": "1\/3"
+              }
+            },
+            "text_CDpinW": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Los productos químicos antienvejecimiento de AFEGA Anti-Aging Shop incluyen el resveratrol y el pterostilbeno, ambos disponibles en polvo puro o en cápsulas. Ofrecemos resveratrol en dos tipos: a base de plantas o micronizado. Los estudios clínicos demuestran que la micronización puede aumentar los índices de absorción y biodisponibilidad hasta un 210%. Sin embargo, muchos de nuestros clientes prefieren el resveratrol de origen vegetal (procedente del knotweed japonés) porque prefieren los productos de origen vegetal, pero también por su agradable y fresco olor. El resveratrol micronizado sólo está disponible en cápsulas y en envases de 20 g (40 cápsulas de 500 mg cada una), 50 g (100 cápsulas de 500 mg cada una), 250 g (500 cápsulas de 500 mg cada una) y 1 kg. (Condiciones de venta al por mayor disponibles a petición.) - El resveratrol de origen vegetal está disponible en polvo puro y en cápsulas en envases de 20g, 50g, 250g y 1 kg. Asimismo, el pterostilbeno, \"la molécula del arándano\", está disponible en polvo puro y en cápsulas. La dosis diaria de pterostilbeno recomendada por las autoridades sanitarias europeas es de 200 mg, pero el profesor Sinclair menciona en una entrevista estudios que sugieren que la dosis mínima diaria debería ser de 400 mg.<br\/><br\/><a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/info\/info-content-755.html\"><strong>(Sin)sentido de los certificados de análisis <\/strong><\/a>Para el resveratrol que vendemos, aquí está <a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\">el análisis de un laboratorio independiente<\/a>.<br\/><br\/>Para el Pterostilbeno que vendemos, aquí está <a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\">el análisis de un laboratorio independiente<\/a>.<br\/><br\/>Como resultado de un nuevo estudio, Sinclair desaconseja tomar resveratrol los días en que hace ejercicio intenso. Sin embargo, encuentra el resveratrol tan valioso que no quiere omitirlo por completo.: <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC3810808\/\">Click<\/a><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Críticas fundamentales y dudas sobre el efecto antienvejecimiento del resveratrol<\/a><a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Aquí hay un artículo en la revista médica alemana, que llega a una evaluación positiva del resveratrol y arroja dudas sobre los estudios citados en el video de YouTube<\/a>.<br\/><br\/>Este estudio de 2021 muestra muchos efectos beneficiosos del resveratrol: <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">un \"todoterreno\" prometedor entre las sustancias vegetales secundarias <\/a>Estudio a partir de 2022: <a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\">El resveratrol promueve la cicatrización de heridas.<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_XcFWGb",
+            "image_7Ri4py",
+            "text_CDpinW"
+          ]
+        },
+        "locale_8whX4R": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_HFbKFM": {
+              "type": "text",
+              "settings": {
+                "title": "Resvératrol\/Ptérostilbène",
+                "text": "<h3><strong>Resvératrol \/ Ptérostilbène \/ Spermidine \/ Quercétineen poudre et en gélules - des produits chimiques anti-âge scientifiquement fondés<\/strong><\/h3><p>\"Il y a deux camps. Ceux qui lisent des articles scientifiques et comprennent que le resvératrol<br\/>est un activateur SIRT1 éprouvé qui fonctionne dans les essais cliniques... et ceux qui ne le font pas\"<br\/>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_CfcPrM": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+                "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+                "width": "1\/3"
+              }
+            },
+            "text_9CgUPm": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Le resvératrol et le ptérostilbène, tous deux disponibles sous forme de poudre pure ou de gélules, font partie des produits chimiques anti-âge scientifiquement fondés de la boutique anti-âge AFEGA. Nous proposons le Vente en gros de resvératrol sous deux formes : à base de plantes ou micronisé. Des études cliniques montrent que la micronisation peut augmenter le taux d'absorption et de biodisponibilité jusqu'à 210 pour cent ! Néanmoins, beaucoup de nos clients préfèrent le resvératrol à base de plantes (issu de la renouée du Japon) en raison de leur préférence pour les produits à base de plantes, mais aussi pour son odeur agréablement fraîche. Le resvératrol micronisé est uniquement disponible en capsules et en conditionnements de 20 g (40 capsules de 500 mg), 50 g (100 capsules de 500 mg), 250 g (500 capsules de 500 mg) et 1 kg. (Conditions de vente en gros sur demande.) - Le resvératrol à base de plantes est disponible en poudre pure et en gélules dans des conditionnements de 20 g, 50 g, 250 g et 1 kg. De la même manière, le ptérostilbène, \"la molécule de la myrtille\", est disponible en poudre pure et en gélules de ptérostilbène. La dose journalière recommandée par les autorités sanitaires européennes pour le ptérostilbène est de 200 mg, mais le professeur Sinclair mentionne dans une interview des études selon lesquelles la dose journalière minimale devrait être de 400 mg.<br\/><br\/><a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/info\/info-content-755.html\"><strong>(Non-)sens des certificats d’analyse <\/strong><\/a><strong>Pour le resvératrol que nous vendons, voici <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\"><strong>l'analyse d'un laboratoire indépendant<\/strong><\/a><strong>. Pour le ptérostilbène que nous vendons, voici <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\"><strong>l'analyse d'un laboratoire indépendant<\/strong><\/a><strong>. <\/strong>À la suite d'une nouvelle étude, Sinclair déconseille de prendre du resvératrol les jours où vous vous entraînez intensément. Cependant, il trouve le resvératrol si précieux qu'il ne veut pas l'omettre complètement: <a>Click<\/a><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Critiques fondamentales et doutes sur l'effet anti-âge du resvératrol<\/a><a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Voici un article de la revue médicale allemande, qui vient dresser un bilan positif du resvératrol et met en doute les études citées dans la vidéo YouTube<\/a>.<br\/><br\/>Cette étude de 2021 montre de nombreux effets bénéfiques du resvératrol : <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">Un « polyvalent » prometteur parmi les substances végétales secondaires<\/a>Étude à partir de 2022 : <a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\">Le resvératrol favorise la cicatrisation des plaies<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_HFbKFM",
+            "image_CfcPrM",
+            "text_9CgUPm"
+          ]
+        },
+        "locale_FUPp9B": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_jgb4ty": {
+              "type": "text",
+              "settings": {
+                "title": "Altre moderne sostanze anti-invecchiamento",
+                "text": "<h3><strong>Resveratrolo \/ Pterostilbene \/ Spermidina \/ Quercetina polvere e capsule - Prodotti chimici moderni per l'anti-invecchiamento<\/strong><\/h3><p>\"Ci sono due campi. Coloro che leggono articoli scientifici e capiscono che il resveratrolo<br\/>è un comprovato attivatore SIRT1 che funziona negli studi clinici... e quelli che non lo fanno\"<br\/>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_GdeYUz": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+                "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+                "width": "1\/3"
+              }
+            },
+            "text_MerWHi": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>I moderni prodotti chimici anti-invecchiamento forniti da AFEGA Anti-Aging Shop comprendono il Resveratrolo in polvere e lo Pterostilbene in polvere. Le capsule di polvere di Resveratrolo sono disponibili in 20g micronizzato 40 capsule, 50g 100 capsule di Resveratrolo a base vegetale, e 250g 500 e 1 kg 2000 capsule di polvere di Resveratrolo puro, tutte con 500 mg ciascuna. Il Resveratrolo in polvere di origine vegetale con il 99,9% di purezza è disponibile in quantità da 250g e 1 kg. Allo stesso modo, il Pterostilbene in polvere, comunemente conosciuto come la 'molecola del mirtillo', è disponibile in forma di polvere da 20g e di capsule da 12g di Pterostilbene in polvere con 40 capsule da 300 mg ciascuna, con un dosaggio giornaliero suggerito di 200mg.<br\/><br\/><a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/info\/info-content-755.html\"><strong>(Non-)senso dei certificati di analisi<\/strong><\/a><\/p><h2><strong>Ecco il <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\"><strong>Analisi del resveratrolo<\/strong><\/a><strong> di un laboratorio indipendente che viene venduto da noi.<\/strong><\/h2><p><strong>Ecco il <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\"><strong>Pterostilbene analysis <\/strong><\/a><strong>di un laboratorio indipendente che viene venduto da noi.<\/strong>Come risultato di un nuovo studio, Sinclair sconsiglia di assumere resveratrolo nei giorni in cui ci si allena intensamente. Tuttavia, trova il resveratrolo così prezioso che non vuole ometterlo completamente: <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC3810808\/\">Click<\/a><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Critiche e dubbi fondamentali sull'effetto antietà del resveratrolo<\/a><a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Ecco un articolo sulla rivista medica tedesca, che arriva a una valutazione positiva del resveratrolo e mette in dubbio gli studi citati nel video di YouTube<\/a>.<br\/><br\/>Questo studio del 2021 mostra molti effetti benefici del resveratrolo: <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">un promettente \"tuttofare\" tra le sostanze vegetali secondarie<\/a>Studio dal 2022:<a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\"> ​Il resveratrolo favorisce la guarigione delle ferite<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_jgb4ty",
+            "image_GdeYUz",
+            "text_MerWHi"
+          ]
+        },
+        "locale_b8mrfD": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_qKyH9K": {
+              "type": "text",
+              "settings": {
+                "title": "Outras substâncias anti-envelhecimento modernas",
+                "text": "<h3><strong>Resveratrol \/ Pterostilbene \/ Espermidina \/ Quercetina em Pó e Cápsulas - Químicos modernos para Anti-Envelhecimento<\/strong><\/h3><p>\"Existem dois acampamentos. Aqueles que leem artigos científicos e entendem que o resveratrol<br\/>é um ativador SIRT1 comprovado que funciona em ensaios clínicos... e aqueles que não entendem\"<br\/>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_xzdXFX": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+                "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+                "width": "1\/3"
+              }
+            },
+            "text_zUx6Ep": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Os produtos químicos anti-envelhecimento modernos fornecidos pela AFEGA Anti-Aging Shop incluem Resveratrol em pó e Pterostilbene em pó. As cápsulas de Resveratrol em pó estão disponíveis em 40 cápsulas micronizadas de 20g, 50g 100 cápsulas de Resveratrol à base de plantas, e 250g 500 e 1 kg de 2000 cápsulas de Resveratrol puro em pó, todas com 500 mg cada. Resveratrol em pó à base de plantas com 99,9% de pureza está disponível em 250g e 1 kg em quantidades de 250g e 1 kg. Da mesma forma, Pterostilbene em pó, vulgarmente conhecido como a \"molécula de mirtilo\", está disponível em forma de pó de 20g e em cápsulas de 12g de Pterostilbene em pó com 40 cápsulas de 300 mg cada, com uma dose diária sugerida de 200mg.<\/p><p><a href=\"https:\/\/www.afega-anti-aging-shop.com\/en\/info\/info-content-755.html\"><strong>(Não)senso de certificados de análise<\/strong><\/a><br\/><br\/><strong>Aqui está o <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Lab_Resveratrol.png\"><strong>Análise de resveratrol <\/strong><\/a><strong>of um laboratório independente vendido por nós.<\/strong><\/p><p><br\/><strong>Aqui está o <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/\/images\/Analyse_Pterostilbene.png\"><strong>Análise de pterostilbeno<\/strong><\/a><strong> of um laboratório independente vendido por nós.<\/strong><br\/><br\/>Como resultado de um novo estudo, Sinclair desaconselha tomar resveratrol nos dias em que você se exercita intensamente. No entanto, ele acha o resveratrol tão valioso que não quer omiti-lo completamente: <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC3810808\/\">Click<\/a>  <br\/><br\/><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Críticas e dúvidas fundamentais sobre o efeito antienvelhecimento do resveratrol<\/a><br\/><br\/><a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Aqui está um artigo na revista médica alemã, que chega a uma avaliação positiva do resveratrol e coloca em dúvida os estudos citados no vídeo do YouTube<\/a>.<br\/><br\/>Este estudo de 2021 mostra muitos efeitos benéficos do resveratrol: <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">um promissor \"polivalente\" entre as substâncias vegetais secundárias<\/a><br\/><br\/>Estudo de 2022: <a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\">O resveratrol promove a cicatrização de feridas<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_qKyH9K",
+            "image_xzdXFX",
+            "text_zUx6Ep"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_AeD4hj",
+        "locale_MHHhFf",
+        "locale_8whX4R",
+        "locale_FUPp9B",
+        "locale_b8mrfD"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_rHdA6D": {
+      "type": "section-custom",
+      "blocks": {
+        "text_dVcNp3": {
+          "type": "text",
+          "settings": {
+            "title": "NAC\/Resveratrol\/...",
+            "text": "<h3><strong>Resveratrol \/ Pterostilbene \/ Spermidine \/ Quercetin Pulver und Kapseln<\/strong><\/h3><p><strong>Vielleicht haben Sie gerade von jemandem von einem dieser Substanzen gehört, vielleicht haben Sie das <\/strong><a href=\"https:\/\/www.amazon.de\/Das-Ende-Alterns-revolution%C3%A4re-Lifespan\/dp\/3832165584\/ref=sr_1_1?crid=2RXPMZTX88C42&dib=eyJ2IjoiMSJ9.xzN8BZxu-KoRhOjJEgIqSSDsVjti-qfgSlp-Uu8xV4GPw9tnGPTH0rZQ96a6_Qfqr_0nR61HIPUOQy5sXB4fPqDabyMZqU4gIvxyZ32JPoAIcbWo307PWdFnSyWn-rB2BDNsQHqreFDuYI11FAMeNIlCTqWHVkSc-L69xEiOMkXpSEeodF-sfoPpPNHuxojkVuSpyOfZIoZevn-taKxl3LkxOhwYUQdJqvdmTOUtndU.NGWV3xBEQyAM0OAkFDrWXJRs0gJsBYGrruVMg7Aj1nk&dib_tag=se&keywords=david+sinclair+das+ende+des+alterns&qid=1723646503&sprefix=David+Sinclair%2Caps%2C90&sr=8-1\"><strong>Buch von Prof. Sinclair <\/strong><\/a><strong>gelesen oder Sie haben eines seiner zahlreichen <\/strong><a href=\"https:\/\/www.youtube.com\/watch?v=r2DxoqkGQJI\"><strong>Interviews auf YouTube <\/strong><\/a><strong>gesehen, oder vielleicht oder Sie sind vielleicht durch eine Werbung auf diese Seite gestoßen. Wenn das so ist, gibt Ihnen dieses <\/strong><a href=\"https:\/\/www.instagram.com\/reel\/CuHQWh9ORks\/?igshid=Y2IzZGU1MTFhOQ%3D%3D&fbclid=IwY2xjawEpn65leHRuA2FlbQIxMAABHWxWxogsxf_jyPnsr86tjo3_txgfBv4SnPZO9W-ohd0nn_5mKRNic-MWKQ_aem_ANlsKX3Sdw2u907DUJ_H_g\"><strong>Kurzvideo <\/strong><\/a><strong>auf Instagram einen ersten Eindruck, worum es geht.<\/strong><\/p><p>\"Es gibt zwei Lager. Diejenigen, die wissenschaftliche Arbeiten lesen und verstehen, dass Resveratrolein bewährter SIRT1-Aktivator ist, der in klinischen Studien funktioniert ... und diejenigen, die dies nicht tun.\"<\/p><p>(<a href=\"https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA\">https:\/\/twitter.com\/davidasinclair\/status\/1655908717882142721?s=61&t=zW_9ORDy7SLM4UqsyXA5qA<\/a>)<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_iJBrf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sinclair-Tweet.png",
+            "link": "https:\/\/academic.oup.com\/proteincell\/article\/14\/5\/387\/6687796?login=false",
+            "width": "1\/3"
+          }
+        },
+        "text_GQdJpL": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Zu den modernen Anti-Aging-Chemikalien von AFEGA Anti-Aging Shop gehören Resveratrol-Pulver und Pterostilben-Pulver.<br\/><br\/><strong>David Sinclair erklärt die Wirkung der Sirtuine wie folgt:<\/strong><br\/><br\/><strong>1. Aktivierung von Sirtuinen: <\/strong>Sinclair betont, dass Sirtuine Enzyme sind, die das Altern bremsen sollen. Diese Enzyme können die Aktivität bestimmter Gene dämpfen, die für die Alterung zuständig sind[3][4].<br\/><strong>2. Antioxidative Wirkung:<\/strong> Sirtuine haben antioxidative Eigenschaften, die zu einer Reduzierung von oxidativem Stress und Entzündungen im Körper beitragen können[4].<br\/><strong>3. Verbindung zu Resveratrol: <\/strong>Sinclair erklärt, dass Resveratrol, ein Naturstoff, der in Erdnüssen, Beeren und Weintrauben vorkommt, die Sirtuine aktiviert. Diese Aktivierung kann zu einer Verlängerung der Lebensspanne und einer Verbesserung der Gesundheit führen[1][3][5].<br\/><strong>4. Synergie mit NMN:<\/strong> Sinclair betont die Synergie zwischen Resveratrol und NMN (Nikotinamidmononukleotid). Während Resveratrol die Sirtuine aktiviert, wird NMN benötigt, um diese Proteine zu speisen und ihre Funktion zu unterstützen[4].<br\/><br\/><strong>Quellen:<\/strong><br\/>[1] https:\/\/www.focus.de\/gesundheit\/gesundleben\/antiaging\/lifestyle\/neue-formeln-gegen-das-altern-medizin_id_2166072.html<br\/>[2] https:\/\/www.spiegel.de\/wissenschaft\/medizin\/vermeintliche-jungbrunnen-pillen-geschaeft-mit-dem-leben-a-722026.html<br\/>[3] https:\/\/www.zeit.de\/zeit-wissen\/2010\/06\/Resveratrol<br\/>[4] https:\/\/www.schweizer-illustrierte.ch\/body-health\/toyota\/die-experten-tipps-fur-ewige-jugend-im-reality-check<br\/>[5] https:\/\/deutsch.medscape.com\/artikel\/4900856<br\/><br\/><br\/><strong>Neben Resveratrol aktivieren weitere Substanzen die Sirtuine. Diese Substanzen sind:<\/strong><br\/><br\/><strong>1. Curcumin: <\/strong>Ein Polyphenol, das in Kurkuma vorkommt und als direkter Sirtuin-Aktivator fungiert[4].<br\/><strong>2. Quercetin: <\/strong>Ein Flavonoid, das in Äpfeln und anderen pflanzlichen Lebensmitteln gefunden wird und die Sirtuine aktiviert[4]. (In unserem Shop ebenfalls erhältlich.)<br\/><strong>3. Kakaoflavonoide: <\/strong>Diese Flavonoide sind in dunkler Schokolade enthalten und wirken als Sirtuin-Aktivatoren[4].<br\/><strong>4. Anthocyane: <\/strong>Diese Pigmente sind in Heidel- und Himbeeren enthalten und aktivieren die Sirtuine[4]. (Siehe dazu unser Produkt \"Pterostilbene: Das Heidelbeer-Molekül\")<br\/><br\/><strong>Quellen:<\/strong><br\/>[1] https:\/\/www.focus.de\/gesundheit\/gesundleben\/antiaging\/lifestyle\/neue-formeln-gegen-das-altern-medizin_id_2166072.html<br\/>[2] https:\/\/www.zeit.de\/zeit-wissen\/2010\/06\/Resveratrol<br\/>[3] https:\/\/deutsch.medscape.com\/artikel\/4900856<br\/>[4] https:\/\/www.ugb.de\/ugb-medien\/einzelhefte\/gesunder-dreiklang-koerper-psyche-geist\/was-sind-sirtuine-und-wie-ist-die-sirtfood-diaet-einzuschaetzen\/<br\/>[5] https:\/\/www.spiegel.de\/wissenschaft\/medizin\/vermeintliche-jungbrunnen-pillen-geschaeft-mit-dem-leben-a-722026.html<br\/><br\/><a href=\"https:\/\/www.afega-anti-aging-shop.com\/de\/info\/die-augenwischerei-mit-den-analysezertifikaten.html\">Der (Un-) Sinn von Analysezertifikaten<\/a><\/p><h2><strong>Hier die <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Lab_Resveratrol.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Lab_Resveratrol.png\"><strong>Analyse<\/strong><\/a><strong> eines unabhängigen Labors des von uns vertriebenen Resveratrols.<\/strong><\/h2><p><strong>Hier die <\/strong><a href=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Analyse_Pterostilbene.png\" target=\"_blank\" title=\"https:\/\/afega-anti-aging-shop-com.gambiocloud.com\/images\/Analyse_Pterostilbene.png\"><strong>Analyse eines unabhängigen Labors <\/strong><\/a><strong>des von uns vertriebenen Pterostilbene.<\/strong><\/p><p>Als Ergebnis einer neuen Studie rät Sinclair von der Einnahme von Resveratrol-Kapseln oder -Pulver an Tagen mit intensiver körperlicher Betätigung ab. Allerdings findet er Resveratrol so wertvoll, dass er nicht ganz darauf verzichten möchte:: <a href=\"https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC3810808\/\">Hier geht es zu der Studie<\/a><\/p><p><a href=\"https:\/\/www.youtube.com\/watch?v=JAFnD27ffqE\">Grundsätzliche Kritik und Zweifel an der Anti-Aging-Wirkung von Resveratrol<\/a><\/p><p>Hier ein <a href=\"https:\/\/www.aerzteblatt.de\/nachrichten\/53684\/Rotwein-Wirkungsmechanismus-von-Resveratrol-entschluesselt\">Artikel in der Deutschen Ärztezeitschrift<\/a>, der zu einer positiven Bewertung von Resveratrol kommt und Zweifel an den im YouTube-Video zitierten Studien aufkommen lässt..<br\/><br\/>Diese Studie aus dem Jahr 2021 zeigt viele positive Wirkungen von Resveratrol: <a href=\"https:\/\/www.universimed.com\/at\/article\/plastische-chirurgie\/ein-allrounder-pflanzenstoffen-70268\">Ein vielversprechender 'Allrounder' unter den sekundären Pflanzenstoffen<\/a><\/p><p>Study from 2022: <a href=\"https:\/\/twitter.com\/agingdoc1\/status\/1592034593892442112?s=61&t=QvKh9xsShZ1-bc7YV7zOqg\" target=\"_blank\">​Resveratrol promotes wound healing<\/a><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_dVcNp3",
+        "image_iJBrf9",
+        "text_GQdJpL"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "section_slideshow_6wPyc3",
+    "localized_content_W4YNGD",
+    "section_custom_rHdA6D",
+    "banner",
+    "product-grid"
+  ]
+}

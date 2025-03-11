@@ -1,0 +1,151 @@
+{% style %}
+  {% if block.settings.add-custom-blue-color-button %}
+    .custom-content__btn{
+      background: #1C85E8;
+    }
+    .button-o-layout__item{
+      display: block;
+    }
+    {% endif %}
+{% endstyle %}
+{% if block.settings.title != blank %}
+  {% liquid
+    assign text_color = settings.color_text
+    assign text_color_brightness = text_color | color_brightness
+    if text_color_brightness > 125
+      assign text_contrast_color = '#000'
+    else
+      assign text_contrast_color = '#fff'
+    endif
+  %}
+  <div
+    class="button-o-layout__item o-layout__item u-1/1 u-{{ block.settings.width }}@tab"
+    {{ block.shopify_attributes }}
+  >
+    <div
+      class="custom-content__item custom-content__item--button u-text-center"
+      style="
+        {% if block.settings.link_style == 'hollow' %}
+          --button-color: {{ text_color }};
+          --button-background-color: {{ text_contrast_color }};
+          --button-hover-color: {{ text_contrast_color }};
+          --button-hover-background-color: {{ text_color }};
+        {% elsif block.settings.link_style == 'mono' %}
+          --button-color: {{ text_contrast_color }};
+          --button-background-color: {{ text_color }};
+          --button-hover-color: {{ text_contrast_color }};
+          --button-hover-background-color: {{ text_color | color_lighten: 10 }};
+        {% else %}
+          --color--text: {{ text_color }};
+        {% endif %}
+      "
+      {{ block.shopify_attributes }}
+    >
+      <a
+        href="{{ block.settings.link }}"
+        target="_blank"
+        class="
+          custom-content__btn
+          {% if block.settings.link_style == "hollow" or block.settings.link_style == "primary" or block.settings.link_style == "mono" %}
+             c-btn c-btn--full c-btn--{{ block.settings.link_style }}
+          {% elsif block.settings.link_style == "chevron" %}
+            link link--arrow
+          {% else %}
+            link--underline
+          {% endif %}
+        "
+      >
+        {{- block.settings.title | escape -}}
+        {%- if block.settings.link_style == 'chevron' -%}
+          {% render 'icons-theme', icon: 'chevron' %}
+        {%- endif -%}
+      </a>
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Button",
+  "tag": null,
+  "settings": [
+    {
+      "id": "add-custom-blue-color-button",
+      "label": "Add custom blue color button",
+      "type": "checkbox"
+    },
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Label",
+      "default": "Button"
+    },
+    {
+      "type": "url",
+      "id": "link",
+      "label": "Link"
+    },
+    {
+      "type": "select",
+      "id": "link_style",
+      "label": "Style",
+      "default": "primary",
+      "options": [
+        {
+          "value": "primary",
+          "label": "Brand button"
+        },
+        {
+          "value": "mono",
+          "label": "Mono button"
+        },
+        {
+          "value": "hollow",
+          "label": "Outline button"
+        },
+        {
+          "value": "chevron",
+          "label": "Chevron"
+        },
+        {
+          "value": "body",
+          "label": "Body text"
+        }
+      ]
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "1/2",
+      "options": [
+        {
+          "label": "Full width",
+          "value": "1/1"
+        },
+        {
+          "label": "One half",
+          "value": "1/2"
+        },
+        {
+          "label": "One third",
+          "value": "1/3"
+        },
+        {
+          "label": "One fourth",
+          "value": "1/4"
+        },
+        {
+          "label": "Two thirds",
+          "value": "2/3"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Button"
+    }
+  ]
+}
+{% endschema %}

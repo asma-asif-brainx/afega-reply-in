@@ -1,0 +1,359 @@
+{
+  "sections": {
+    "section_slideshow_HNC7rb": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_9BCMUw": {
+          "type": "image",
+          "settings": {
+            "remove-top-margin": true,
+            "add-top-position": false,
+            "add-top-position-mobile": true,
+            "move-text-bottom-mobile": false,
+            "image": "shopify:\/\/shop_images\/Frame_5_7.png",
+            "image_mobile": "shopify:\/\/shop_images\/Frame_5_8.png",
+            "add-custom-text-color": false,
+            "icon-link": "",
+            "text-for-icon": "",
+            "text-for-icon-two": "",
+            "title": "",
+            "text": "<p>Uthever® NMN, die erste markengeschützte NMN-Zutat auf dem Markt, ist das Produkt eines professionellen, ehrlichen, authentischen und zuverlässigen Teams von Wissenschaftlern!<\/p>",
+            "alignment": "bottom-left",
+            "link_title": "",
+            "link": "",
+            "link_style": "c-btn c-btn--hollow",
+            "link_title_2": "",
+            "link_2": "",
+            "link_style_2": "c-btn c-btn--primary",
+            "add-trust-pilot-link": false
+          }
+        }
+      },
+      "block_order": [
+        "image_9BCMUw"
+      ],
+      "disabled": true,
+      "settings": {
+        "image-contain": true,
+        "slideshow_height": "small",
+        "slideshow_width": "contained",
+        "nav_style": "solid-brand",
+        "hide_nav_arrows": false,
+        "autoplay": true,
+        "autoplay_speed": 8,
+        "style": "transparent",
+        "text_bg_color": "#ffffff",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_strength": 10,
+        "text_heading_color": false,
+        "text_border_color": true,
+        "title_size": 3,
+        "section_bottom_margin": false
+      }
+    },
+    "section_custom_jfJ6FY": {
+      "type": "section-custom",
+      "blocks": {
+        "text_4HPaQb": {
+          "type": "text",
+          "settings": {
+            "title": "UTHEVER-NMN",
+            "text": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_9LXdVt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+            "link": "",
+            "width": "2\/3"
+          }
+        },
+        "text_6jP7gE": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>Uthever®-NMN (nicotinamide mononucleotide), der erste Marken-NMN-Inhaltsstoff auf dem Markt, ist Produkt eines professionellen, ehrlichen, authentischen und zuverlässigen Teams von Wissenschaftlern!<\/strong><\/h3><h3><strong>Warum lohnt es sich, auf Uthever-NMN zu vertrauen?<\/strong><\/h3><p><strong>Hohe Qualität: <\/strong>Die Reinheit von Uthever® NMN beträgt NLT 99 %, was von weltweit führenden Prüfinstituten wie Intertek, SGS, Mic Quality Labs usw. bestätigt wird.<br\/><br\/><strong>All-Star-Forschungs- und Entwicklungsteam: <\/strong>Das Forschungs- und Entwicklungsteam wird von US-amerikanischen Ärzten von GlaxoSmithKline geleitet, einem forschungsbasierten Pharma- und Gesundheitsunternehmen, das sich als Weltklasse-Führer sowohl in der Medizin als auch im Gesundheitswesen etabliert hat.<br\/><br\/><strong>Stabile Lieferkette: <\/strong>Das Produktionsmanagement-Team wird von leitenden Managern von Mars Wrigley geleitet, einem der weltweit größten Lebensmittelhersteller mit zahlreichen weltbekannten Marken. Mit reicher Erfahrung im Produktionsmanagement kann Uthever® NMN eine stabile Versorgung innerhalb eines hervorragenden Qualitätsmanagementsystems erreichen.<br\/><br\/><strong>Ausgezeichnetes Qualitätskontrollsystem: <\/strong>Das wissenschaftliche Qualitätsstandard-Einstellungsteam steht unter der Leitung eines ehemaligen USP-Wissenschaftlers, der sicherstellt, dass Uthever® NMN den USP-Qualitätsstandards strikt entspricht.<br\/><br\/><strong>Klinisch nachgewiesen: <\/strong>Die Sicherheit und Wirksamkeit von Uthever® NMN (nicotinamide mononucleotide) wurde durch Studien am Menschen bestätigt. <\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_4HPaQb",
+        "image_9LXdVt",
+        "text_6jP7gE"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "localized_content_aWjdk9": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_PBhiQt": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_fE3gag": {
+              "type": "text",
+              "settings": {
+                "title": "UTHEVER-NMN",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_y4PfFE": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_KmgBFC": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Uthever® NMN, the first branded NMN ingredient on the market, is the product of a professional, honest, authentic and reliable team of scientists! <br\/><br\/><strong>Why is Uthever® NMN worth to be trusted? High Quality: <\/strong>The purity of Uthever® NMN is NLT 99%, which is verified by world’s cutting-edge inspection institutions such as Intertek, SGS, Mic Quality Labs., etc.<br\/><br\/><strong>All Star R&D Team: <\/strong>The Research and Development Team is led by U.S. doctors from GlaxoSmithKline, a research-based pharmaceutical and healthcare company that has established itself as a world-class leader in both medicine and healthcare.<br\/><br\/><strong>Stable Supply Chain:<\/strong>The Production Management Team is led by senior managers from Mars Wrigley, which is one of the world's largest food producers with numerous world-renowned brands. With rich experience in production management, Uthever® NMN can achieve stable supply within excellent quality management system.<br\/>​<br\/><strong>Excellent Quality Control System: <\/strong>The Scientific Quality Standard Setting Team is under the direction of a former USP scientist who ensures that Uthever® NMN is in strict accordance with USP quality standards.<br\/><br\/><strong>Clinically Proven: <\/strong>Uthever® NMN’s safety and efficacy has been confirmed by human trials. <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_fE3gag",
+            "image_y4PfFE",
+            "text_KmgBFC"
+          ]
+        },
+        "locale_NAkjDr": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_dXgEKn": {
+              "type": "text",
+              "settings": {
+                "title": "UTHEVER-NMN",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_JBV7gT": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_PbVzRe": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Uthever NMN, la primera marca de ingredientes NMN en el mercado, se dedica a establecer una imagen profesional, honesta, auténtica y fiable. <\/p><p><strong>¿Por qué vale la pena confiar en Uthever NMN? <\/strong> <\/p><p><strong>Alta calidad:<\/strong> La pureza de Uthever NMN es NLT 99%, que es verificada por las instituciones de inspección de vanguardia del mundo como Intertek, SGS, Micro Quality Labs., etc.<\/p><p><strong>Equipo de investigación y desarrollo de estrellas:<\/strong> El equipo de investigación y desarrollo está dirigido por médicos estadounidenses de GlaxoSmithKline, una empresa farmacéutica y sanitaria basada en la investigación que se ha establecido como líder mundial en medicina y atención sanitaria.<\/p><p><strong>Cadena de suministro estable:<\/strong> El equipo de gestión de la producción está dirigido por altos directivos de Mars Wrigley, que es uno de los mayores productores de alimentos del mundo con numerosas marcas de renombre mundial. Con una rica experiencia en la gestión de la producción, Uthever NMN puede lograr un suministro estable dentro de un excelente sistema de gestión de la calidad.<\/p><p><strong>Excelente sistema de control de calidad:<\/strong> El equipo científico de establecimiento de normas de calidad está bajo la dirección de un antiguo científico de la USP que garantiza que Uthever NMN cumple estrictamente las normas de calidad de la USP.<\/p><p><strong>Clínicamente probado:<\/strong> La seguridad y eficacia de Uthever NMN ha sido confirmada por ensayos en humano.<\/p><p>Para encontrar el estudio sólo <a href=\"https:\/\/www.uthever.com\/uthever-nmn-human-clinical-trial-data-published\/\">click<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_dXgEKn",
+            "image_JBV7gT",
+            "text_PbVzRe"
+          ]
+        },
+        "locale_bqV6ir": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_f7EzHz": {
+              "type": "text",
+              "settings": {
+                "title": "UTHEVER-NMN",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_BdrJxw": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_KjzG9r": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Uthever NMN, la première marque d'ingrédient NMN sur le marché, se consacre à établir une image professionnelle, honnête, authentique et fiable ! <\/p><p><strong>Pourquoi faut-il faire confiance à Uthever NMN ? <\/strong> <\/p><p><strong>Haute qualité :<\/strong> La pureté du NMN Uthever est de NLT 99%, ce qui est vérifié par les institutions d'inspection de pointe du monde entier telles que Intertek, SGS, Mic Quality Labs, etc.<\/p><p><strong>Une équipe de recherche et développement de premier ordre :<\/strong> L'équipe de recherche et développement est dirigée par des médecins américains de GlaxoSmithKline, une société de recherche pharmaceutique et de soins de santé qui s'est imposée comme un leader mondial dans le domaine de la médecine et des soins de santé.<\/p><p><strong>Une chaîne d'approvisionnement stable :<\/strong> L'équipe de gestion de la production est dirigée par des cadres supérieurs de Mars Wrigley, qui est l'un des plus grands producteurs alimentaires au monde, avec de nombreuses marques de renommée internationale. Grâce à sa riche expérience de la gestion de la production, Uthever NMN peut assurer un approvisionnement stable dans le cadre d'un excellent système de gestion de la qualité.<\/p><p><strong>Excellent système de contrôle de la qualité :<\/strong> L'équipe chargée de l'établissement des normes de qualité scientifique est placée sous la direction d'un ancien scientifique de l'USP qui veille à ce que Uthever NMN soit strictement conforme aux normes de qualité de l'USP.<\/p><p><strong>Cliniquement prouvé :<\/strong> La sécurité et l'efficacité d'Uthever NMN ont été confirmées par des essais sur l'homme.<\/p><p>Pour trouver l'étude juste <a href=\"https:\/\/www.uthever.com\/uthever-nmn-human-clinical-trial-data-published\/\">click<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_f7EzHz",
+            "image_BdrJxw",
+            "text_KjzG9r"
+          ]
+        },
+        "locale_HFJNtG": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_rJgHtU": {
+              "type": "text",
+              "settings": {
+                "title": "Marchio UTHEVER-NMN",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_CMgccX": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_P3LeEG": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>Uthever NMN, il primo ingrediente NMN di marca sul mercato, si dedica a creare un'immagine professionale, onesta, autentica e affidabile! <\/p><p><strong>Perché Uthever NMN merita fiducia?  <\/strong><\/p><p><strong>Alta qualità:<\/strong> La purezza di Uthever NMN è NLT 99%, verificata da istituti di controllo all'avanguardia nel mondo come Intertek, SGS, Micro Quality Labs, ecc.<\/p><p><strong>Team di ricerca e sviluppo all star:<\/strong> Il team di ricerca e sviluppo è guidato da medici statunitensi di GlaxoSmithKline, un'azienda farmaceutica e sanitaria basata sulla ricerca che si è affermata come leader di livello mondiale nel campo della medicina e della sanità.<\/p><p><strong>Catena di approvvigionamento stabile:<\/strong> Il team di gestione della produzione è guidato da dirigenti senior di Mars Wrigley, uno dei maggiori produttori alimentari al mondo con numerosi marchi di fama mondiale. Grazie alla ricca esperienza nella gestione della produzione, Uthever NMN è in grado di ottenere forniture stabili nell'ambito di un eccellente sistema di gestione della qualità.<\/p><p><strong>Eccellente sistema di controllo della qualità:<\/strong> Il team scientifico per la definizione degli standard di qualità è diretto da un ex scienziato USP che assicura che Uthever NMN sia in stretta conformità con gli standard di qualità USP.<\/p><p><strong>Clinicamente provato:<\/strong> La sicurezza e l'efficacia di Uthever NMN sono state confermate da studi sull'uomo.<\/p><p>Per trovare lo studio giusto <a href=\"https:\/\/www.uthever.com\/uthever-nmn-human-clinical-trial-data-published\/\">click<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_rJgHtU",
+            "image_CMgccX",
+            "text_P3LeEG"
+          ]
+        },
+        "locale_DUDC6z": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_YnF4rB": {
+              "type": "text",
+              "settings": {
+                "title": "Marca UTHEVER-NMN",
+                "text": "",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_QQrXqk": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/LOGO-UTHEVER.jpg",
+                "link": "",
+                "width": "2\/3"
+              }
+            },
+            "text_fe67kN": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>UTHEVER NMN, o primeiro ingrediente de marca NMN no mercado, é dedicado a estabelecer uma imagem profissional, honesta, autêntica, fiável! <\/p><p><strong>Porque é que Uthever NMN vale a pena ser confiável?<\/strong>  <\/p><p><strong>Alta qualidade:<\/strong> A pureza da Uthever NMN é de 99% de NLT, o que é verificado pelas instituições mundiais de inspecção de ponta, tais como a Intertek, SGS, Micro Quality Labs, etc.<\/p><p><strong>Toda a equipa de I&D da Star:<\/strong> A Equipa de Investigação e Desenvolvimento é liderada por médicos americanos da GlaxoSmithKline, uma empresa farmacêutica e de cuidados de saúde baseada na investigação que se estabeleceu como líder mundial tanto em medicina como em cuidados de saúde.<\/p><p><strong>Cadeia de Fornecimento Estável:<\/strong> A Equipa de Gestão de Produção é liderada por gestores de topo da Mars Wrigley, que é um dos maiores produtores mundiais de alimentos, com numerosas marcas de renome mundial. Com uma rica experiência na gestão da produção, a Uthever NMN pode alcançar um abastecimento estável dentro de um excelente sistema de gestão de qualidade.<\/p><p><strong>Excelente Sistema de Controlo de Qualidade:<\/strong> A Equipa de Definição de Padrões de Qualidade Científicos está sob a direcção de um antigo cientista da USP que garante que a Uthever NMN está em estrita conformidade com os padrões de qualidade da USP.<\/p><p><strong>Clinicamente provado:<\/strong> A segurança e eficácia da Uthever NMN foi confirmada por ensaios em humanos.<\/p><p>Para encontrar o estudo basta <a href=\"https:\/\/www.uthever.com\/uthever-nmn-human-clinical-trial-data-published\/\">click<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_YnF4rB",
+            "image_QQrXqk",
+            "text_fe67kN"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_PBhiQt",
+        "locale_NAkjDr",
+        "locale_bqV6ir",
+        "locale_HFJNtG",
+        "locale_DUDC6z"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "section_slideshow_HNC7rb",
+    "section_custom_jfJ6FY",
+    "localized_content_aWjdk9",
+    "banner",
+    "product-grid"
+  ]
+}

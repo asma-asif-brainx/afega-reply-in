@@ -1,0 +1,284 @@
+{
+  "sections": {
+    "localized_content_Kd9LBR": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_w8bdxK": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_eG6enR": {
+              "type": "text",
+              "settings": {
+                "title": "Tests (zur Messung des biologischen Alters etc.) - innovative Produkte",
+                "text": "<p>In dieser Kategorie finden Sie Tests zur Bestimmung Ihres biologischen Alters und technische Geräte, die notwendig oder hilfreich sind für die Applikation der von uns angebotenen Substanzen.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_9fyzg3": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge - Epigenetische Testkits zur Bestimmung Ihres biologischen Alters<\/strong><\/h3><p>Technische Hilfsmittel zum Testen des biologischen Alters sind Instrumente, die das biologische Alter\/epigenetische Alter einer Person bestimmen und für eine objektive Prüfung des Nutzens der im AFEGA Anti-Aging Shop erhältlichen Substanzen geeignet sind. Mit dem epiAge Testkit unterstützen wir Sie bei der Bestimmung Ihres biologischen Alters, um Ihnen zu helfen, die Wirkung der von uns angebotenen Anti-Aging-Substanzen objektiv zu überprüfen und ihre Wirksamkeit besser zu verstehen. - Übrigens: Wenn Sie unsere Substanzen in Pulverform bevorzugen, weil Sie sinnvollerweise NMN sublingual applizieren möchten, ist die preiswerte Präzisionswaage von Josh vielleicht interessant für Sie.<\/p><p>Innovative Produkte, die sich noch im Stadium der klinischen Prüfung befinden, von uns aber als sicher eingestuft worden sind und wert, ausprobiert zu werden.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_eG6enR",
+            "text_9fyzg3"
+          ]
+        },
+        "locale_x469Pf": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_YnDw43": {
+              "type": "text",
+              "settings": {
+                "title": "Tests (for measuring biological age, etc.) - innovative products",
+                "text": "<p>In this category you will find tests to determine your biological age and other technical devices that are necessary or helpful for the application of the substances we offer.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_KweCzJ": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge – Epigenetic Test Kits to Determine Your Biological Age<\/strong><\/h3><p>Technical aids to test biological age are instruments that identify a person's biological age\/epigenetic age and are useful for an objective test of the benifits of substances available from AFEGA Anti-Aging Shop. With the epiAge testkit we assist you determine your biological age, which will benefit you in preserving your young appearance and understanding the effects of the anti-aging treatments we supply. Please be aware of our special offer for AFEGA Research Group study participants. If you prefer our substances iin powder form because you plan to apply NMN for instance sublingually the Josh's digital scale for precision weighing will be helpful.<br\/><br\/>Innovative products that are still in the clinical trial stage but have been classified by us as safe and worth trying.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_YnDw43",
+            "text_KweCzJ"
+          ]
+        },
+        "locale_caNafF": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_KrWyKW": {
+              "type": "text",
+              "settings": {
+                "title": "Pruebas (para medir la edad biológica, etc.): productos innovadores",
+                "text": "<p>En esta categoría encontrará pruebas para determinar su edad biológica y dispositivos técnicos necesarios o útiles para la aplicación de las sustancias que ofrecemos.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_TWU9AW": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge - Kits de pruebas epigenéticas para determinar tu edad biológica<\/strong><\/h3><p>Las ayudas técnicas para comprobar la edad biológica son instrumentos que determinan la edad biológica\/edad epigenética de una persona y son adecuados para comprobar objetivamente los beneficios de las sustancias disponibles en la Tienda Antienvejecimiento AFEGA. Con el kit de prueba epiAge le ayudamos a determinar su edad biológica para ayudarle a comprobar objetivamente el efecto de las sustancias antienvejecimiento que ofrecemos y comprender mejor su eficacia. - Por cierto: si prefiere nuestras sustancias en forma de polvo porque quiere aplicar NMN por vía sublingual de forma sensata, puede que le interese la económica báscula de precisión de Josh.<br\/><br\/>Productos innovadores que aún se encuentran en la etapa de ensayo clínico pero que hemos clasificado como seguros y que vale la pena probar.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_KrWyKW",
+            "text_TWU9AW"
+          ]
+        },
+        "locale_CUHjGC": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_Pq4wBC": {
+              "type": "text",
+              "settings": {
+                "title": "Tests (pour mesurer l'âge biologique, etc.) - produits innovants",
+                "text": "<p>Dans cette catégorie, vous trouverez des tests pour déterminer votre âge biologique et d'autres dispositifs techniques nécessaires ou utiles pour l'application des substances que nous proposons.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_UbUMnD": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge – Kits de test épigénétique pour déterminer votre âge biologique<\/strong><\/h3><p>Les aides techniques pour tester l'âge biologique sont des instruments qui identifient l'âge biologique\/épigénétique d'une personne et sont utiles pour un test objectif des bienfaits des substances disponibles chez AFEGA Anti-Aging Shop. Avec le kit de test epiAge, nous vous aidons à déterminer votre âge biologique, ce qui vous aidera à préserver votre apparence jeune et à comprendre les effets des traitements anti-âge que nous proposons. Veuillez prendre connaissance de notre offre spéciale pour les participants à l'étude du groupe de recherche AFEGA. Si vous préférez nos substances sous forme de poudre parce que vous envisagez d'appliquer du NMN par exemple par voie sublinguale, la balance numérique de Josh pour un pesage de précision vous sera utile.<br\/><br\/>Des produits innovants qui sont encore au stade des essais cliniques mais que nous avons classés comme sûrs et qui valent la peine d'être essayés.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_Pq4wBC",
+            "text_UbUMnD"
+          ]
+        },
+        "locale_B7QhXU": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_pxmqGb": {
+              "type": "text",
+              "settings": {
+                "title": "Test (per la misurazione dell'età biologica, ecc.) - prodotti innovativi",
+                "text": "<p>In questa categoria troverete test per determinare la vostra età biologica e altri dispositivi tecnici che sono necessari o utili per l'applicazione delle sostanze che offriamo.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_zdDkC7": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge - Kit di test epigenetici per determinare la tua età biologica<\/strong><\/h3><p>Gli ausili tecnici per testare l'età biologica sono strumenti che identificano l'età biologica\/epigenetica di una persona e sono utili per un test oggettivo dei benefici delle sostanze disponibili da AFEGA Anti-Aging Shop. Con l'epiAge testkit vi aiutiamo a determinare la vostra età biologica, che vi aiuterà a preservare il vostro aspetto giovane e a capire gli effetti dei trattamenti anti-età che forniamo. Si prega di notare la nostra offerta speciale per i partecipanti allo studio AFEGA Research Group. Se preferisci le nostre sostanze in polvere perché hai intenzione di applicare NMN per esempio per via sublinguale, ti sarà utile la bilancia digitale Josh per la pesatura di precisione.<br\/><br\/>Prodotti innovativi che sono ancora in fase di sperimentazione clinica ma che sono stati da noi classificati come sicuri e che vale la pena provare.<br\/> <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_pxmqGb",
+            "text_zdDkC7"
+          ]
+        },
+        "locale_CLC3bi": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_LkTbT6": {
+              "type": "text",
+              "settings": {
+                "title": "Testes (para medir a idade biológica, etc.) - produtos inovadores",
+                "text": "<p>Nesta categoria encontrará testes para determinar a sua idade biológica e outros dispositivos técnicos que são necessários ou úteis para a aplicação das substâncias que oferecemos.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_wL7jfH": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<h3><strong>epiAge - Kits de testes epigenéticos para determinar a sua idade biológica<\/strong><\/h3><p>As ajudas técnicas para testar a idade biológica são instrumentos que identificam a idade biológica de uma pessoa\/ idade e são úteis para um teste objectivo dos benefícios das substâncias disponíveis na AFEGA Anti-Aging Shop. Com o kit de teste epiAge ajudamo-lo a determinar a sua idade biológica, o que o beneficiará na preservação da sua aparência jovem e na compreensão dos efeitos dos tratamentos anti-envelhecimento que fornecemos. Por favor, esteja ciente da nossa oferta especial para os participantes no estudo do Grupo de Investigação AFEGA. Se preferir as nossas substâncias em pó porque planeia aplicar NMN, por exemplo, a balança digital de Josh para pesagem de precisão será útil.<br\/><br\/>Produtos inovadores que ainda estão em fase de testes clínicos, mas que foram classificados por nós como seguros e que valem a pena experimentar.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_LkTbT6",
+            "text_wL7jfH"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_w8bdxK",
+        "locale_x469Pf",
+        "locale_caNafF",
+        "locale_CUHjGC",
+        "locale_B7QhXU",
+        "locale_CLC3bi"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_Lcz36w": {
+      "type": "section-custom",
+      "blocks": {
+        "text_eG6enR": {
+          "type": "text",
+          "settings": {
+            "title": "Tests (zur Messung des biologischen Alters etc.) - innovative Produkte",
+            "text": "<p>In dieser Kategorie finden Sie Tests zur Bestimmung Ihres biologischen Alters und technische Geräte, die notwendig oder hilfreich sind für die Applikation der von uns angebotenen Substanzen.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_9fyzg3": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<h3><strong>epiAge - Epigenetische Testkits zur Bestimmung Ihres biologischen Alters<\/strong><\/h3><p>Technische Hilfsmittel zum Testen des biologischen Alters sind Instrumente, die das biologische Alter\/epigenetische Alter einer Person bestimmen und für eine objektive Prüfung des Nutzens der im AFEGA Anti-Aging Shop erhältlichen Substanzen geeignet sind. Mit dem epiAge Testkit unterstützen wir Sie bei der Bestimmung Ihres biologischen Alters, um Ihnen zu helfen, die Wirkung der von uns angebotenen Anti-Aging-Substanzen objektiv zu überprüfen und ihre Wirksamkeit besser zu verstehen. - Übrigens: Wenn Sie unsere Substanzen in Pulverform bevorzugen, weil Sie sinnvollerweise NMN sublingual applizieren möchten, ist die preiswerte Präzisionswaage von Josh vielleicht interessant für Sie.<\/p><p>Innovative Produkte, die sich noch im Stadium der klinischen Prüfung befinden, von uns aber als sicher eingestuft worden sind und wert, ausprobiert zu werden.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_eG6enR",
+        "text_9fyzg3"
+      ],
+      "disabled": true,
+      "settings": {
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "localized_content_Kd9LBR",
+    "section_custom_Lcz36w",
+    "banner",
+    "product-grid"
+  ]
+}

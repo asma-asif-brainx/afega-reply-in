@@ -1,0 +1,261 @@
+{
+  "sections": {
+    "localized_content_Prin9H": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_y64eJj": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "text_inLqPw": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Warum bieten wir Kosmetika an?",
+                "text": "<p>Anti-Aging ist weit mehr als nur eine Frage des äußeren Erscheinungsbildes – es ist eine Revolution in der Wissenschaft und eine neue Perspektive auf das Leben selbst. Unsere Mission ist es, diese Revolution mit Ihnen zu teilen. Doch während wir uns auf zukunftsweisende Substanzen wie NMN (Nikotinamidmononukleotid) konzentrieren, die tief in den Mechanismen des Alterns wirken, wissen wir: Die sichtbaren Zeichen der Zeit spielen für viele Menschen eine entscheidende Rolle im Wohlbefinden. Die Wahrheit ist, dass die Wirkung von tiefgreifenden Anti-Aging-Ansätzen – wie der Verlangsamung oder Umkehr des Alterungsprozesses auf genetischer Ebene – Geduld erfordert, bevor sie sich im Spiegel zeigen. Hier kommen hochwertige Kosmetika ins Spiel. Sie bieten eine Möglichkeit, Ihrem Aussehen sofort Aufmerksamkeit und Pflege zu schenken, während die inneren Prozesse ihren Lauf nehmen. Wir haben Kosmetika ausgewählt, die nicht nur oberflächlich wirken, sondern die natürliche Regeneration Ihrer Haut unterstützen. Dabei achten wir auf höchste Qualität und testen die Produkte persönlich. Unsere Kollektion ergänzt die wissenschaftlich fundierten Anti-Aging-Substanzen perfekt, sodass Sie sich nicht zwischen langfristigen Zielen und sofortigen Ergebnissen entscheiden müssen. Denn wahre Schönheit beginnt mit Wohlbefinden – innen wie außen. Lassen Sie sich von unseren Produkten inspirieren und erleben Sie den Unterschied, den eine ganzheitliche Pflege machen kann. <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_inLqPw"
+          ]
+        },
+        "locale_EXCaan": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "text_MfkbNw": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Why Do We Offer Cosmetics?",
+                "text": "<p>Anti-aging is about more than just appearances – it’s a revolution in science and a new way of looking at life itself. Our mission is to share this revolution with you. While we focus on groundbreaking substances like NMN (nicotinamide mononucleotide), which work at the very core of the aging process, we understand that the visible signs of aging play a crucial role in how you feel about yourself.The truth is, the profound effects of advanced anti-aging approaches – such as slowing down or even reversing the aging process at the genetic level – take time before they reflect in the mirror. This is where premium cosmetics step in. They offer an immediate way to care for and enhance your appearance while the deeper processes are underway.Our carefully curated cosmetic collection features products that not only provide surface-level benefits but also support your skin’s natural regeneration. We prioritize exceptional quality and personally test every product. This collection is the perfect complement to our scientifically-backed anti-aging solutions, ensuring you don’t have to choose between long-term goals and immediate results.True beauty begins with well-being – inside and out. Explore our products and discover the difference that a holistic approach to care can make.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_MfkbNw"
+          ]
+        },
+        "locale_Dm6BCn": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "text_gwceDj": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Pourquoi proposons-nous des cosmétiques ?",
+                "text": "<p>L’anti-âge, c’est bien plus qu’une question d’apparence – c’est une révolution scientifique et une nouvelle façon d’envisager la vie. Notre mission est de partager cette révolution avec vous. Si nous nous concentrons sur des substances novatrices comme le NMN (nicotinamide mononucléotide), qui agissent au cœur même du processus de vieillissement, nous comprenons aussi que les signes visibles de l’âge jouent un rôle clé dans le bien-être.La vérité est que les effets profonds des approches anti-âge avancées – comme le ralentissement ou même l’inversion du processus de vieillissement au niveau génétique – nécessitent du temps avant de se refléter dans le miroir. C’est ici qu’interviennent les cosmétiques de qualité supérieure. Ils offrent une solution immédiate pour prendre soin de votre apparence tout en laissant le temps aux processus internes de faire leur travail.Notre collection de cosmétiques, soigneusement sélectionnée, regroupe des produits qui ne se contentent pas d’agir en surface, mais qui soutiennent également la régénération naturelle de votre peau. Nous privilégions une qualité exceptionnelle et testons personnellement chaque produit. Cette collection complète parfaitement nos solutions anti-âge scientifiques, vous permettant de concilier objectifs à long terme et résultats immédiats.La véritable beauté commence par le bien-être – à l’intérieur comme à l’extérieur. Découvrez nos produits et laissez-vous inspirer par la différence qu’apporte une approche holistique des soins.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_gwceDj"
+          ]
+        },
+        "locale_UEigYG": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "text_Am7cfi": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Perché offriamo cosmetici?",
+                "text": "<p>L’anti-aging non riguarda solo l’aspetto esteriore: è una rivoluzione scientifica e un nuovo modo di concepire la vita. La nostra missione è condividere questa rivoluzione con voi. Anche se ci concentriamo su sostanze innovative come il NMN (nicotinamide mononucleotide), che agiscono al cuore stesso del processo di invecchiamento, comprendiamo che i segni visibili dell’età hanno un ruolo importante nel vostro benessere.La verità è che gli effetti profondi degli approcci anti-aging avanzati – come il rallentamento o persino l’inversione del processo di invecchiamento a livello genetico – richiedono tempo prima di riflettersi nello specchio. Ed è qui che entrano in gioco i cosmetici di alta qualità. Offrono una soluzione immediata per prendersi cura del proprio aspetto, mentre i processi più profondi fanno il loro corso.La nostra collezione di cosmetici, attentamente selezionata, comprende prodotti che non si limitano ad agire in superficie, ma supportano anche la rigenerazione naturale della pelle. Diamo priorità alla qualità eccellente e testiamo personalmente ogni prodotto. Questa collezione completa perfettamente le nostre soluzioni anti-aging scientifiche, permettendovi di conciliare obiettivi a lungo termine e risultati immediati.La vera bellezza inizia dal benessere – dentro e fuori. Scoprite i nostri prodotti e lasciatevi ispirare dalla differenza che un approccio olistico alla cura può fare.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_Am7cfi"
+          ]
+        },
+        "locale_rzimPW": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "text_AcU9qp": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "¿Por qué ofrecemos cosméticos?",
+                "text": "<p>El anti-envejecimiento es mucho más que una cuestión de apariencia: es una revolución científica y una nueva manera de entender la vida. Nuestra misión es compartir esta revolución con usted. Aunque nos centramos en sustancias innovadoras como el NMN (mononucleótido de nicotinamida), que actúan en el núcleo mismo del proceso de envejecimiento, entendemos que los signos visibles del paso del tiempo desempeñan un papel crucial en su bienestar.La realidad es que los efectos profundos de los enfoques avanzados del anti-envejecimiento – como ralentizar o incluso revertir el proceso de envejecimiento a nivel genético – requieren tiempo antes de reflejarse en el espejo. Aquí es donde entran en juego los cosméticos de alta calidad. Ofrecen una solución inmediata para cuidar y mejorar su apariencia mientras los procesos más profundos hacen su trabajo.Nuestra colección de cosméticos, cuidadosamente seleccionada, incluye productos que no solo ofrecen beneficios superficiales, sino que también apoyan la regeneración natural de su piel. Priorizamos la máxima calidad y probamos personalmente cada producto. Esta colección complementa perfectamente nuestras soluciones anti-envejecimiento científicas, asegurando que no tenga que elegir entre objetivos a largo plazo y resultados inmediatos.La verdadera belleza comienza con el bienestar, tanto por dentro como por fuera. Explore nuestros productos y descubra la diferencia que puede hacer un enfoque holístico en el cuidado personal.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_AcU9qp"
+          ]
+        },
+        "locale_t7EED7": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "text_CTkgNW": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Por que oferecemos cosméticos?",
+                "text": "<p>O anti-envelhecimento vai muito além da aparência – é uma revolução científica e uma nova forma de enxergar a vida. Nossa missão é compartilhar essa revolução com você. Embora foquemos em substâncias inovadoras como o NMN (mononucleotídeo de nicotinamida), que atuam no cerne do processo de envelhecimento, entendemos que os sinais visíveis da idade desempenham um papel importante no seu bem-estar.A verdade é que os efeitos profundos das abordagens avançadas de anti-envelhecimento – como retardar ou até mesmo reverter o processo de envelhecimento em nível genético – levam tempo para se refletirem no espelho. É aqui que entram os cosméticos de alta qualidade. Eles oferecem uma solução imediata para cuidar e melhorar sua aparência enquanto os processos mais profundos seguem seu curso.Nossa coleção de cosméticos, cuidadosamente selecionada, inclui produtos que não apenas oferecem benefícios superficiais, mas também apoiam a regeneração natural da sua pele. Priorizamos a máxima qualidade e testamos pessoalmente cada produto. Esta coleção complementa perfeitamente nossas soluções científicas de anti-envelhecimento, garantindo que você não precise escolher entre metas de longo prazo e resultados imediatos.A verdadeira beleza começa com o bem-estar – de dentro para fora. Explore nossos produtos e descubra a diferença que uma abordagem holística nos cuidados pode fazer.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "text_CTkgNW"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_y64eJj",
+        "locale_EXCaan",
+        "locale_Dm6BCn",
+        "locale_UEigYG",
+        "locale_rzimPW",
+        "locale_t7EED7"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_DYLYMX": {
+      "type": "section-custom",
+      "blocks": {
+        "text_RnTWMA": {
+          "type": "text",
+          "settings": {
+            "title": "Dr. Severin - Kosmetik Made in Germany",
+            "text": "",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_9iGrXG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Logo-DrSeverin.png",
+            "link": "",
+            "width": "1\/4"
+          }
+        },
+        "text_dgfXPz": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Die AFEGA Research Group hat in den zurück liegenden Jahren eine Reihe von Kosmetikprodukten entwickelt, die wir in dieser Kategorie des Shops (Kosmetik) angeboten haben und teilweise auch noch anbieten.<br\/><br\/>Die Produkte wurden sehr selten gekauft, wenn auch diejenigen, die sie gekauft haben, davon sehr angetan waren, wie man den Rezensionen bei Trustpilot (siehe den Link dazu am oberen Rand des Bildschirms auf der Startseite des Shops) entnehmen kann. Wir waren stolz auf unsere selbst entwickelten Produkte, aber der Aufwand stand in keinem Verhältnis zum damit erzielten Umsatz. Es war wirklich ein Verlustgeschäft.<br\/><br\/>Wir haben uns daher nach einer Marke umgesehen, die  mit unserer Philosophie in Einklang steht, und wir wurden bei der Marke. Dr.Severin fündig. Die AFEGA Research Group hat die hier vorgestellten Produkte getestet und wir sind von ihrer Qualität überzeugt und beeindruckt. Ja, sie sind teuer, viel teurer als es die von uns selbst entwickelten Produkte sind\/waren. Wir haben uns bei unseren eigenen Produkten einfach nicht getraut, einen angemessenen Preis festzusetzen. Wir haben die ganze Kosmetiksparte als unser Hobby angesehen und betrieben. Wir können das jedoch nicht mehr aufrecht erhalten.<br\/><br\/>Dr. Severin ist eine deutsche Kosmetikmarke, die sich auf hochwertige Hautpflegeprodukte spezialisiert hat. Das Sortiment umfasst Anti-Aging-Seren, Pflegeseren und Cremes, die mit sorgfältig ausgewählten Inhaltsstoffen formuliert sind. Besonders hervorzuheben ist das 12 % Vitamin C Hyaluron Serum Ultra, das für seine intensive Pflege und straffende Wirkung bekannt ist. <br\/><br\/>Die Produkte werden in Deutschland hergestellt und unterliegen strengen Qualitätskontrollen, um eine gleichbleibend hohe Wirksamkeit zu gewährleisten. <\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_XinJpx": {
+          "type": "text",
+          "settings": {
+            "title": "Wie sich die Firma selbst sieht",
+            "text": "<p>Unsere Geschichte nahm ihren Anfang, als unser Gründer Peter auf der Suche nach einem effektiven After Shave war, aber von den auf dem Markt erhältlichen Produkten enttäuscht wurde. Das trieb ihn an, den Dr. Severin Original Body After Shave Balsam zu entwickeln, der seither ein Topseller ist.<br\/><br\/>Unsere Hingabe für qualitativ hochwertige Hautpflege geht jedoch weit über den After Shave Balsam hinaus. Wir sind stolz darauf, dass alle unsere Produkte in Deutschland hergestellt werden und niemals an Tieren getestet wurden. Ein Meilenstein in unserer Reise war die Schaffung unseres Vitamin C Hyaluron Serums, das Ihre Haut mit wertvollen Nährstoffen versorgt und für jugendliche Frische sorgt.<br\/><br\/>Wir sind eine Gemeinschaft von Hautpflege-Enthusiasten, die sich der Entwicklung hochwirksamer Produkte verschrieben haben, die Ihre Haut liebevoll pflegen.<br\/>Willkommen bei Dr. Severin – lassen Sie uns gemeinsam die Reise zu gesünderer und schönerer Haut antreten!<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_Gxnqpy": {
+          "type": "text",
+          "settings": {
+            "title": "Rabatt",
+            "text": "<p>Wenn Sie Produkte von Dr.Severin mit einem Gesamtwert von mehr als EUR 200 bestellen, geben Sie bitte beim Checkout den Rabattcode \"Severin-10\" ein und Sie erhalten 10% Rabatt auf alle Dr.Severin-Artikel. Sollte einer dieser Artikel bereits rabattiert sein, gilt dieser 10%-Rabatt zusätzlich.<br\/><strong>Bitte beachten:<\/strong>Dieser Rabatt ist mit Rabatten für unser Gesamtsortiment (wie dem Treue-Rabatt) nicht kumulierbar.<br\/><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "text_RnTWMA",
+        "image_9iGrXG",
+        "text_dgfXPz",
+        "text_XinJpx",
+        "text_Gxnqpy"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 30,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "image_ratio": "32:9",
+        "image_ratio_mobile": "16:9",
+        "use_first_product_image": false,
+        "collection_banner_style": "overlap",
+        "text_align": "left",
+        "show_collection_description": true,
+        "show_collection_image": true,
+        "overlay_color": "#000000",
+        "overlay_strength": 0
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "blocks": {
+        "filter": {
+          "type": "filter",
+          "settings": {
+            "count": true,
+            "show_swatches": true,
+            "square_check": false,
+            "filter_visibility": "three"
+          }
+        }
+      },
+      "block_order": [
+        "filter"
+      ],
+      "settings": {
+        "show_count": true,
+        "sort_enable": true,
+        "filter_style": "drawer",
+        "maximum_products": 18,
+        "grid": 4,
+        "grid_mobile": "2"
+      }
+    }
+  },
+  "order": [
+    "localized_content_Prin9H",
+    "section_custom_DYLYMX",
+    "banner",
+    "product-grid"
+  ]
+}

@@ -1,0 +1,1218 @@
+{
+  "sections": {
+    "section-slideshow": {
+      "type": "section-slideshow",
+      "blocks": {
+        "image_p8yFJz": {
+          "type": "image",
+          "settings": {
+            "remove-top-margin": true,
+            "add-top-position": false,
+            "add-top-position-mobile": false,
+            "move-text-bottom-mobile": true,
+            "image": "shopify:\/\/shop_images\/Group_46.png",
+            "image_mobile": "shopify:\/\/shop_images\/Group_49.png",
+            "add-custom-text-color": false,
+            "icon-link": "",
+            "text-for-icon": "",
+            "text-for-icon-two": "",
+            "title": "",
+            "text": "<p><strong>Qualität, der Sie vertrauen können<\/strong><\/p><p>WIR HABEN DIE BESTEN ANTI-AGING-PRODUKTE FÜR SIE<\/p><p>Vorzeitiges Altern kann zu chronischen Gesundheitsproblemen und altersbedingten Krankheiten führen.<\/p><p><\/p>",
+            "alignment": "left",
+            "link_title": "Trustpilot Bewertungen",
+            "link": "https:\/\/de.trustpilot.com\/review\/afega-anti-aging-shop.com?utm_medium=trustbox&utm_source=MicroReviewCount",
+            "link_style": "c-btn c-btn--primary",
+            "link_title_2": "",
+            "link_2": "",
+            "link_style_2": "c-btn c-btn--primary",
+            "add-trust-pilot-link": false
+          }
+        },
+        "image_iqGwFN": {
+          "type": "image",
+          "settings": {
+            "remove-top-margin": true,
+            "add-top-position": false,
+            "add-top-position-mobile": false,
+            "move-text-bottom-mobile": true,
+            "image": "shopify:\/\/shop_images\/ada_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/iPhone_14_15_Pro_Max_-_2.png",
+            "add-custom-text-color": false,
+            "icon-image": "shopify:\/\/shop_images\/Group_37.png",
+            "icon-link": "https:\/\/de.trustpilot.com\/review\/afega-anti-aging-shop.com?utm_medium=trustbox&utm_source=MicroReviewCount",
+            "text-for-icon": "4,8\/5,00 (über 10.000 Menschen leben einen gesunden Lebensstil)",
+            "icon-image-two": "shopify:\/\/shop_images\/Vector_6.png",
+            "text-for-icon-two": "Trustpilot",
+            "title": "WILLKOMMEN BEI AFEGA",
+            "text": "<h1>ANTI-AGING SHOP<\/h1><p>Distributor und Großhandelslieferung von NMN, NR, NAD+, Resveratrol\/Pterostilben (Wir können auch Logistik für Großhandelskunden in der EU und CH anbieten).<\/p>",
+            "alignment": "right",
+            "link_title": "",
+            "link": "",
+            "link_style": "c-btn c-btn--mono",
+            "link_title_2": "Kaufen Sie noch heute Anti-Aging",
+            "link_2": "shopify:\/\/collections",
+            "link_style_2": "c-btn c-btn--primary",
+            "add-trust-pilot-link": false
+          }
+        },
+        "image_wnD9xc": {
+          "type": "image",
+          "settings": {
+            "remove-top-margin": false,
+            "add-top-position": false,
+            "add-top-position-mobile": false,
+            "move-text-bottom-mobile": false,
+            "image": "shopify:\/\/shop_images\/25_2x_1_1.png",
+            "image_mobile": "shopify:\/\/shop_images\/Frame_5_6.png",
+            "add-custom-text-color": true,
+            "icon-link": "",
+            "text-for-icon": "",
+            "text-for-icon-two": "",
+            "title": "",
+            "text": "<h2>Wir sind Einzelhändler und Großhändler von...<\/h2><h1>NMN, NR, NAD+, Resveratrol, Pterostilben, Spermidin usw.<\/h1>",
+            "alignment": "right",
+            "link_title": "",
+            "link": "",
+            "link_style": "c-btn c-btn--hollow",
+            "link_title_2": "",
+            "link_2": "",
+            "link_style_2": "c-btn c-btn--primary",
+            "add-trust-pilot-link": false
+          }
+        }
+      },
+      "block_order": [
+        "image_p8yFJz",
+        "image_iqGwFN",
+        "image_wnD9xc"
+      ],
+      "settings": {
+        "image-contain": false,
+        "slideshow_height": "full-screen",
+        "slideshow_width": "contained",
+        "nav_style": "solid-brand",
+        "hide_nav_arrows": false,
+        "autoplay": false,
+        "autoplay_speed": 5,
+        "style": "transparent",
+        "text_bg_color": "#ffffff",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_strength": 0,
+        "text_heading_color": false,
+        "text_border_color": true,
+        "title_size": 3,
+        "section_bottom_margin": false
+      }
+    },
+    "localized_content_QKey9T": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_dqKLMp": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "image_wNx9t7": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Heilmeyer-Buch.png",
+                "link": "https:\/\/www.amazon.de\/Altern-therapierbare-praktischen-3-S%C3%A4ulen-Strategie-Alterungsprozesse\/dp\/3867312672\/ref=sr_1_1?crid=TKW78KZYM1PX&keywords=Heilmeyer&qid=1694880608&s=books&sprefix=heilmeyer%2Cstripbooks%2C75&sr=1-1",
+                "width": "1\/4"
+              }
+            },
+            "text_7fbMfW": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Herzlich willkommen im AFEGA Anti-Aging-Shop! - Einzelhändler von Anti-Aging-Produkten und Großhandel mit NMN, NR, NAD+, Resveratrol\/Pterostilbene (Großhandelskunden können wir auch Logistik in EU und CH anbieten)<\/strong><\/p><p><strong>Ein Wort zum Thema Anti-Aging: <\/strong>Bisher bedeutete das hauptsächlich kosmetische Produkte von oft\/ meist zweifelhafter Wirksamkeit - jedenfalls, wenn man Testberichten Glauben schenken darf. Die teuren Salben wirkten für den Tag, wirkten, wenn sie frisch aufgetragen worden waren - immerhin! Mit den <a href=\"https:\/\/www.amazon.de\/Lifespan-healthier-bestselling-anti-ageing-Harvard\/dp\/0008292345\/ref=sr_1_1?crid=3RQ25Y1Q3OS6Z&dib=eyJ2IjoiMSJ9.T81y7wDKtBVlFrFnS6P0_lVaCPrrqYVljbZ7I5FUVdPRRTpNNmHi1QsQEhRn8ygf7ypQE_uP_rkRSoRuB9ZBq1ZzeKlB_37bES6Xt2SYV0dOgQNXbSW_mxahCL0FqHU-2tgLwgZwbHfyhnbO74gFcgJEIau3wskPKm0sz5C3YAxGws4yj0s8PBmmYU5SqD5i6U4gx-HEQPahL5WIGY-IyyzKktmeUc3r3zz_pd16JdM.HpoeRYd2l5na5JBh2TDwpC5Q98PjI9FGgB-lbOSdzJs&dib_tag=se&keywords=david+sinclair+lifespan&nsdOptOutParam=true&qid=1735686988&sprefix=david+sinclair+life%2Caps%2C91&sr=8-1\" title=\"https:\/\/www.amazon.de\/Lifespan-healthier-bestselling-anti-ageing-Harvard\/dp\/0008292345\/ref=sr_1_1?crid=3RQ25Y1Q3OS6Z&dib=eyJ2IjoiMSJ9.T81y7wDKtBVlFrFnS6P0_lVaCPrrqYVljbZ7I5FUVdPRRTpNNmHi1QsQEhRn8ygf7ypQE_uP_rkRSoRuB9ZBq1ZzeKlB_37bES6Xt2SYV0dOgQNXbSW_mxahCL0FqHU-2tgLwgZwbHfyhnbO74gFcgJEIau3wskPKm0sz5C3YAxGws4yj0s8PBmmYU5SqD5i6U4gx-HEQPahL5WIGY-IyyzKktmeUc3r3zz_pd16JdM.HpoeRYd2l5na5JBh2TDwpC5Q98PjI9FGgB-lbOSdzJs&dib_tag=se&keywords=david+sinclair+lifespan&nsdOptOutParam=true&qid=1735686988&sprefix=david+sinclair+life%2Caps%2C91&sr=8-1\">Forschungsresultaten von Prof. Sinclair<\/a> (es geht dabei um die Substanz NMN, Nikotinamidmononukleotid, <strong>siehe auch dieses <\/strong><a href=\"https:\/\/www.instagram.com\/reel\/CuHQWh9ORks\/?igshid=Y2IzZGU1MTFhOQ%3D%3D&fbclid=IwY2xjawEpn65leHRuA2FlbQIxMAABHWxWxogsxf_jyPnsr86tjo3_txgfBv4SnPZO9W-ohd0nn_5mKRNic-MWKQ_aem_ANlsKX3Sdw2u907DUJ_H_g\"><strong>Kurzvideo <\/strong><\/a><strong>auf Instagram<\/strong>) beginnt ein neues Zeitalter: Anti-Aging meint nun nicht mehr \"Verbesserung des Erscheinungsbildes\"; Anti-Aging meint ab jetzt wirklich <em>Anti-Aging<\/em>, also mindestens die Verlangsamung, eigentlich aber den Stopp oder sogar die Umkehr des Alterungsprozesses. Das neue Anti-Aging setzt an den Wurzeln an, an den Genen - und tiefer kann man nicht gelangen, denn unterhalb der Ebene der Gene kann man nicht mehr von Leben sprechen. - Aber es braucht ein wenig Geduld, bis die Wirkung dieser Substanzen sich auch in Ihrem Aussehen bemerkbar macht. Wenn es Ihnen um Ihr Aussehen geht, versprechen zu Beginn die von uns getesteten Kosmetika schnellere Erfolge! Bitte beachten Sie (nebenstehend) das Buch von Dr. Peter Heilmeyer und Claudia Lenz (Dr. Heilmeyer ist Mitglied der <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group<\/a>).<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_jiyDnD": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Genetische Ansätze im Anti-Aging",
+                "text": "<p><strong>Sirtuine und NAD+<\/strong><\/p><p>Prof. David Sinclair hat umfangreiche Forschungen zu Sirtuinen durchgeführt, einer Gruppe von Enzymen, die eine Schlüsselrolle bei der Regulierung des Alterungsprozesses spielen. Sirtuine werden durch NAD+ (Nikotinamid-Adenin-Dinukleotid) aktiviert, ein Molekül, dessen Spiegel im Körper mit zunehmendem Alter abnimmt. Durch die Erhöhung der NAD+-Spiegel können Sirtuine aktiviert werden, was zu einer verbesserten DNA-Reparatur, einer erhöhten Energieproduktion in den Mitochondrien und einer allgemeinen Verbesserung der Zellfunktion führt[1][3].<\/p><p><strong>Epigenetische Veränderungen<\/strong><\/p><p>Sinclair hat auch die Rolle epigenetischer Veränderungen im Alterungsprozess untersucht. Epigenetische Faktoren wie SIRT1 können in Reaktion auf DNA-Schäden umverteilt werden, was zu einer Alterung der Zellen führt. Durch gezielte epigenetische Modulation können diese Veränderungen potenziell rückgängig gemacht werden, was eine Verjüngung der Zellen ermöglicht[1].<br\/><br\/><strong>Xenohormesis<\/strong><\/p><p>Ein weiteres interessantes Konzept ist die Xenohormesis-Hypothese, die besagt, dass Pflanzenstoffe, die unter Stressbedingungen produziert werden, die Langlebigkeitsmechanismen in Tieren und Menschen aktivieren können. Resveratrol, ein Polyphenol aus Trauben, ist ein bekanntes Beispiel für eine solche Substanz, die SIRT1 aktiviert und somit die Lebensdauer verlängern kann[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_PA9fR9": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Praktische Anwendungen und Produkte",
+                "text": "<p><strong>NMN und NR<\/strong><\/p><p>Nikotinamid-Mononukleotid (NMN) und Nikotinamid-Ribosid (NR) sind Vorläufer von NAD+ und haben in Studien gezeigt, dass sie die NAD+-Spiegel erhöhen und somit die altersbedingten Funktionsverluste in Zellen reduzieren können. Diese Substanzen sind bereits als Nahrungsergänzungsmittel erhältlich und werden intensiv erforscht, um ihre Wirksamkeit und Sicherheit beim Menschen zu bestätigen[3][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_wNx9t7",
+            "text_7fbMfW",
+            "text_jiyDnD",
+            "text_PA9fR9"
+          ]
+        },
+        "locale_WMrU8P": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "image_8hzmXy": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Lifespan.png",
+                "link": "https:\/\/www.amazon.de\/Lifespan-Why-Age-Dont-Have\/dp\/0008292345\/ref=sr_1_1?crid=3707VOBBU0B6F&keywords=Lifespan+Sinclair&qid=1695543852&s=books&sprefix=lifespan+sinclair%2Cstripbooks%2C66&sr=1-1",
+                "width": "1\/4"
+              }
+            },
+            "text_gEyLV8": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Welcome to AFEGA Anti-Aging-Shop - Distributor & Wholesale Supply of NMN, NR, NAD+, Resveratrol\/ Pterostilbene (We can also offer logistics to wholesale customers in the EU and CH)<\/strong><\/p><p><strong>A short remark about anti-aging: <\/strong>So far, this mainly meant 'cosmetic products of often \/ most dubious effectiveness' - at least, if you would trust test reports. The expensive ointments worked for the day, worked when they had been applied fresh - after all! With the <a href=\"https:\/\/www.amazon.de\/Evolution-Ageing-Dr-David-Sinclair\/dp\/0008292345\/ref=sr_1_1?keywords=lifespan&qid=1638704978&sr=8-1\">research results of Prof. Sinclair<\/a>  (it's about the substance NMN, nicotinamide mononucleotide,<strong>see also this <\/strong><a href=\"https:\/\/x.com\/davidasinclair\/status\/1613633454595313674\"><strong>short video <\/strong><\/a><strong>on X<\/strong>), a new era begins: 'Anti-Aging' no longer means 'improving the appearance'; from now on, anti-aging really means<em>anti-aging<\/em>, at least slowing down, but actually stopping or even reversing the aging process. The new 'anti-aging' starts at the roots, at the genes - and you can not get deeper, because below the level of the genes you can not talk about life anymore. - But it takes a little patience until the effect of these substances becomes noticeable in your appearance. If you care about your appearance, the cosmetics we tested promise faster results to start with!<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_cYLFbw": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Genetic approaches to anti-aging",
+                "text": "<p><strong>Sirtuins and NAD+<\/strong><\/p><p>Prof. David Sinclair has conducted extensive research on sirtuins, a group of enzymes that play a key role in regulating the aging process. Sirtuins are activated by NAD+ (nicotinamide adenine dinucleotide), a molecule whose levels in the body decrease with age. By increasing NAD+ levels, sirtuins can be activated, leading to improved DNA repair, increased energy production in the mitochondria and an overall improvement in cellular function[1][3].<\/p><p><strong>Epigenetic changes<\/strong><\/p><p>Sinclair has also studied the role of epigenetic changes in the aging process. Epigenetic factors such as SIRT1 can be redistributed in response to DNA damage, leading to aging of cells. Through targeted epigenetic modulation, these changes can potentially be reversed, allowing cells to rejuvenate[1].<br\/><br\/><strong>Xenohormesis <\/strong>Another interesting concept is the xenohormesis hypothesis, which states that plant compounds produced under stress conditions can activate longevity mechanisms in animals and humans. Resveratrol, a polyphenol from grapes, is a well-known example of such a substance that activates SIRT1 and can thus extend lifespan[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_mE4CPi": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Practical applications and products",
+                "text": "<p><strong>NMN and NR<\/strong><\/p><p>Nicotinamide mononucleotide (NMN) and nicotinamide riboside (NR) are precursors of NAD+ and have been shown in studies to increase NAD+ levels and thus reduce age-related loss of function in cells. These substances are already available as dietary supplements and are being intensively researched to confirm their effectiveness and safety in humans[3][6].<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_8hzmXy",
+            "text_gEyLV8",
+            "text_cYLFbw",
+            "text_mE4CPi"
+          ]
+        },
+        "locale_3E4gBF": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "image_VXiJU4": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Lifespan-es.png",
+                "link": "https:\/\/www.amazon.de\/Alarga-esperanza-vida-Lifespan-envejecimiento\/dp\/B08X4TVQTS\/ref=sr_1_3?crid=Q3231QHM37RL&keywords=David+Sinclair+lifespan+spanisch&qid=1695501908&s=books&sprefix=david+sinclair+lifespan+spanisch%2Cstripbooks%2C64&sr=1-3",
+                "width": "1\/4"
+              }
+            },
+            "text_Bxq3xg": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Unas palabras sobre el tema del antienvejecimiento: <\/strong>Hasta ahora, esto significaba principalmente productos cosméticos de eficacia a menudo\/en su mayoría dudosa, al menos si los informes de las pruebas son creíbles. Los costosos ungüentos funcionaban para el día, funcionaban cuando se aplicaban recién, ¡después de todo! Con los resultados de las  investigaciones del Prof. Sinclair, comienza una nueva era: el antienvejecimiento ya no significa \"mejorar la apariencia\"; a partir de ahora, el antienvejecimiento significa realmente antienvejecimiento, es decir, al menos ralentizar, sino realmente detener o incluso invertir el proceso de envejecimiento. El nuevo antienvejecimiento comienza en las raíces, en los genes, y no se puede bajar más, porque por debajo del nivel de los genes ya no se puede hablar de vida. - Pero hace falta un poco de paciencia hasta que los efectos de estas sustancias se noten en tu apariencia. Si te preocupa tu apariencia, ¡los cosméticos que probamos prometen resultados más rápidos!<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_xEn7Nt": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Enfoques genéticos para el antienvejecimiento",
+                "text": "<p><strong>Sirtuinas y NAD+<\/strong><\/p><p>El profesor David Sinclair ha realizado una extensa investigación sobre las sirtuinas, un grupo de enzimas que desempeñan un papel clave en la regulación del proceso de envejecimiento. Las sirtuinas se activan mediante NAD+ (nicotinamida adenina dinucleótido), una molécula cuyos niveles en el organismo disminuyen con la edad. Al aumentar los niveles de NAD+, las sirtuinas pueden activarse, lo que mejora la reparación del ADN, aumenta la producción de energía en las mitocondrias y mejora general de la función celular[1][3].<\/p><p><strong>Cambios epigenéticos<\/strong><\/p><p>Sinclair también ha estudiado el papel de los cambios epigenéticos en el proceso de envejecimiento. Los factores epigenéticos como SIRT1 pueden redistribuirse en respuesta al daño del ADN, lo que provoca el envejecimiento de las células. A través de una modulación epigenética dirigida, estos cambios pueden potencialmente revertirse, permitiendo que las células se rejuvenezcan[1].<br\/><br\/><strong>Xenohormesis <\/strong>Otro concepto interesante es la hipótesis de la xenohormesis, que afirma que los compuestos vegetales producidos en condiciones de estrés pueden activar mecanismos de longevidad en animales y humanos. El resveratrol, un polifenol de las uvas, es un ejemplo bien conocido de una sustancia que activa SIRT1 y, por tanto, puede prolongar la vida útil[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_rYaggG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Aplicaciones y productos prácticos",
+                "text": "<p><strong>NMN y NR<\/strong><\/p><p>El mononucleótido de nicotinamida (NMN) y el ribósido de nicotinamida (NR) son precursores de NAD+ y se ha demostrado en estudios que aumentan los niveles de NAD+ y, por tanto, reducen la pérdida de función de las células relacionada con la edad. Estas sustancias ya están disponibles como suplementos dietéticos y se están investigando intensamente para confirmar su eficacia y seguridad en humanos[3][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_VXiJU4",
+            "text_Bxq3xg",
+            "text_xEn7Nt",
+            "text_rYaggG"
+          ]
+        },
+        "locale_PaazVd": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "image_LnVC69": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Lifespan-fr.png",
+                "link": "https:\/\/www.amazon.de\/Pourquoi-nous-vieillissons-pourquoi-in%C3%A9luctable\/dp\/2889154017\/ref=sr_1_3?crid=25LV8LEXVPRJ0&keywords=David+Sinclair+Franz%C3%B6sisch&qid=1695501502&s=books&sprefix=david+sinclair+franz%C3%B6sisch%2Cstripbooks%2C71&sr=1-3",
+                "width": "1\/4"
+              }
+            },
+            "text_d8byK7": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Bienvenue dans AFEGA Anti-Aging-Shop ! - Distributeur de produits anti-âge et grossiste de NMN, NR, NAD+, Resveratrol\/Pterostilbene (Nous proposons également la logistique en UE et CH)<\/strong><\/p><p><strong>Un mot sur le thème de l'anti-âge<\/strong>: Jusqu'à présent, cela signifiait principalement des produits cosmétiques à l'efficacité souvent\/généralement douteuse - du moins si l'on en croit les rapports de test. Les pommades coûteuses étaient efficaces pour la journée, efficaces si elles venaient d'être appliquées - tout de même ! Les résultats des recherches du professeur Sinclair marquent le début d'une nouvelle ère : désormais, anti-aging ne signifie plus \"amélioration de l'apparence\" ; anti-aging signifie désormais réellement anti-âge, c'est-à-dire au moins le ralentissement, mais en fait l'arrêt, voire l'inversion du processus de vieillissement. Le nouvel anti-âge s'attaque aux racines, aux gènes - et on ne peut pas aller plus bas, car en dessous du niveau des gènes, on ne peut plus parler de vie. - Mais il faut un peu de patience jusqu'à ce que les effets de ces substances soient perceptibles sur votre apparence. Si votre apparence vous préoccupe, les cosmétiques que nous avons testés promettent des résultats plus rapides !<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_AWfqRB": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Approches génétiques de l'anti-âge",
+                "text": "<p><strong>Sirtuines et NAD+<\/strong><\/p><p>Le professeur David Sinclair a mené des recherches approfondies sur les sirtuines, un groupe d'enzymes qui jouent un rôle clé dans la régulation du processus de vieillissement. Les sirtuines sont activées par le NAD+ (nicotinamide adénine dinucléotide), une molécule dont les taux dans l'organisme diminuent avec l'âge. En augmentant les niveaux de NAD+, les sirtuines peuvent être activées, conduisant à une meilleure réparation de l'ADN, une augmentation de la production d'énergie dans les mitochondries et une amélioration globale de la fonction cellulaire[1][3].<\/p><p><strong>Changements épigénétiques<\/strong><\/p><p>Sinclair a également étudié le rôle des changements épigénétiques dans le processus de vieillissement. Des facteurs épigénétiques tels que SIRT1 peuvent être redistribués en réponse à des dommages à l'ADN, conduisant au vieillissement des cellules. Grâce à une modulation épigénétique ciblée, ces changements peuvent potentiellement être inversés, permettant ainsi aux cellules de se rajeunir[1].<br\/><br\/><strong>Xénohormèse<\/strong><\/p><p>Un autre concept intéressant est l’hypothèse de la xénohormèse, selon laquelle les composés végétaux produits dans des conditions de stress peuvent activer les mécanismes de longévité chez les animaux et les humains. Le resvératrol, un polyphénol du raisin, est un exemple bien connu d'une telle substance qui active SIRT1 et peut ainsi prolonger la durée de vie[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_kMjnVB": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Applications et produits pratiques",
+                "text": "<p><strong>NMN et NR<\/strong><\/p><p>Le nicotinamide mononucléotide (NMN) et le nicotinamide riboside (NR) sont des précurseurs du NAD+ et il a été démontré dans des études qu'ils augmentent les niveaux de NAD+ et réduisent ainsi la perte de fonction des cellules liée à l'âge. Ces substances sont déjà disponibles sous forme de compléments alimentaires et font l'objet de recherches intensives pour confirmer leur efficacité et leur sécurité chez l'homme[3][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_LnVC69",
+            "text_d8byK7",
+            "text_AWfqRB",
+            "text_kMjnVB"
+          ]
+        },
+        "locale_wr6q6J": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "image_E4i6Wc": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Lifespan.png",
+                "link": "https:\/\/www.amazon.de\/Lifespan-Why-Age-Dont-Have\/dp\/0008292345\/ref=sr_1_1?crid=KRHTOBKG005G&keywords=david+sinclair+lifespan&qid=1695500847&s=books&sprefix=david+sinclair+lifespan%2Cstripbooks%2C57&sr=1-1",
+                "width": "1\/4"
+              }
+            },
+            "text_GbRTXP": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Benvenuto nel AFEGA Anti-Aging-Shop! - Rivenditore di prodotti antietà e all'ingrosso di NMN, NR, NAD+, Resveratrolo\/Pterostilbene (Offriamo anche logistica in UE e CH)<\/strong><\/p><p><strong>Una breve osservazione sull'anti-invecchiamento:<\/strong>Finora, questo significava principalmente 'prodotti cosmetici di spesso \/ più dubbia efficacia' - almeno, se ci si fidasse dei rapporti dei test. Gli unguenti costosi funzionavano per il giorno, funzionavano quando erano stati applicati freschi - dopo tutto! Con il <a href=\"https:\/\/www.amazon.de\/Evolution-Ageing-Dr-David-Sinclair\/dp\/0008292345\/ref=sr_1_1?keywords=lifespan&qid=1638704978&sr=8-1\">risultati della ricerca del Prof. Sinclair<\/a>, inizia una nuova era: 'Anti-Aging' non significa più 'migliorare l'aspetto'; d'ora in poi, anti-aging significa davvero anti-invecchiamento, almeno rallentare, ma in realtà fermare o addirittura invertire il processo di invecchiamento. Il nuovo 'anti-aging' parte dalle radici, dai geni - e non si può andare più a fondo, perché sotto il livello dei geni non si può più parlare di vita. - Ma ci vuole un po' di pazienza affinché gli effetti di queste sostanze siano evidenti nel tuo aspetto. Se sei preoccupato per il tuo aspetto, i cosmetici che abbiamo testato promettono risultati più rapidi!<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_cxKfHW": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Approcci genetici nell'anti-invecchiamento",
+                "text": "<p><strong>Sirtuine e NAD+<\/strong><\/p><p>Il Prof. David Sinclair ha condotto ricerche approfondite sulle sirtuine, un gruppo di enzimi che svolgono un ruolo chiave nella regolazione del processo di invecchiamento. Le sirtuine vengono attivate dal NAD+ (nicotinammide adenina dinucleotide), una molecola i cui livelli nell'organismo diminuiscono con l'età. Aumentando i livelli di NAD+, le sirtuine possono essere attivate, con conseguente miglioramento della riparazione del DNA, aumento della produzione di energia nei mitocondri e un miglioramento generale della funzione cellulare[1][3].<\/p><p><strong>Cambiamenti epigenetici<\/strong><\/p><p>Sinclair ha anche studiato il ruolo dei cambiamenti epigenetici nel processo di invecchiamento. Fattori epigenetici come SIRT1 possono essere ridistribuiti in risposta al danno al DNA, portando all’invecchiamento cellulare. Attraverso una modulazione epigenetica mirata, questi cambiamenti possono essere potenzialmente invertiti, consentendo alle cellule di ringiovanirsi[1].<br\/><br\/><strong>Xenoormesi<\/strong><\/p><p>Un altro concetto interessante è l’ipotesi della xenoormesi, secondo la quale i composti vegetali prodotti in condizioni di stress possono attivare meccanismi di longevità negli animali e nell’uomo. Il resveratrolo, un polifenolo dell'uva, è un esempio ben noto di tale sostanza che attiva SIRT1 e può quindi prolungare la durata della vita[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_h7qKV6": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Applicazioni pratiche e prodotti",
+                "text": "<p><strong>NMN e NR<\/strong><\/p><p>La nicotinammide mononucleotide (NMN) e la nicotinammide riboside (NR) sono precursori del NAD+ e negli studi è stato dimostrato che aumentano i livelli di NAD+ e quindi riducono la perdita di funzione correlata all'età nelle cellule. Queste sostanze sono già disponibili come integratori alimentari e vengono oggetto di ricerche approfondite per confermarne l'efficacia e la sicurezza negli esseri umani[3][6].<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_E4i6Wc",
+            "text_GbRTXP",
+            "text_cxKfHW",
+            "text_h7qKV6"
+          ]
+        },
+        "locale_LQFKEN": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "image_Qz36Nn": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Lifespan-es.png",
+                "link": "https:\/\/www.amazon.de\/Alarga-esperanza-vida-Lifespan-envejecimiento\/dp\/B08X4TVQTS\/ref=sr_1_3?crid=Q3231QHM37RL&keywords=David+Sinclair+lifespan+spanisch&qid=1695501908&s=books&sprefix=david+sinclair+lifespan+spanisch%2Cstripbooks%2C64&sr=1-3",
+                "width": "1\/4"
+              }
+            },
+            "text_UU8qJd": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Bem-vindo à AFEGA Anti-Aging-Shop - Distribuidor e fornecimento grossista de NMN, NR, NAD+, Resveratrol\/ Pterostilbene  (Também oferecemos logística na UE e CH)<\/strong><\/p><p><strong>Uma breve observação sobre o anti-envelhecimento: <\/strong>Até agora, isto significava principalmente \"produtos cosméticos de eficácia muitas vezes \/ mais duvidosa\" - pelo menos, se confiar em relatórios de testes. As pomadas caras funcionaram durante o dia, funcionaram quando tinham sido aplicadas frescas - afinal de contas! Com os <a href=\"https:\/\/www.amazon.de\/Evolution-Ageing-Dr-David-Sinclair\/dp\/0008292345\/ref=sr_1_1?keywords=lifespan&qid=1638704978&sr=8-1\">resultados da investigação do Prof. Sinclair<\/a> começa uma nova era: 'Anti-Envelhecimento' já não significa 'melhorar a aparência'; a partir de agora, anti-envelhecimento significa realmente anti-envelhecimento, pelo menos abrandando, mas na realidade parando ou mesmo invertendo o processo de envelhecimento. O novo 'anti-envelhecimento' começa nas raízes, nos genes - e não se pode aprofundar, porque abaixo do nível dos genes já não se pode falar da vida. - Mas é preciso um pouco de paciência até que os efeitos destas substâncias sejam notórios na sua aparência. Se se preocupa com a sua aparência, os cosméticos que testámos prometem resultados mais rápidos!<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_M4Twyr": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Abordagens genéticas para o antienvelhecimento",
+                "text": "<p><strong>Sirtuínas e NAD+<\/strong><\/p><p>O professor David Sinclair conduziu extensas pesquisas sobre sirtuínas, um grupo de enzimas que desempenham um papel fundamental na regulação do processo de envelhecimento. As sirtuínas são ativadas pelo NAD+ (dinucleotídeo de nicotinamida adenina), uma molécula cujos níveis no corpo diminuem com a idade. Ao aumentar os níveis de NAD+, as sirtuínas podem ser ativadas, levando a uma melhor reparação do DNA, ao aumento da produção de energia nas mitocôndrias e a uma melhoria geral na função celular[1][3].<\/p><p><strong>Alterações epigenéticas<\/strong><\/p><p>Sinclair também estudou o papel das mudanças epigenéticas no processo de envelhecimento. Fatores epigenéticos como SIRT1 podem ser redistribuídos em resposta a danos no DNA, levando ao envelhecimento das células. Através da modulação epigenética direcionada, essas alterações podem ser potencialmente revertidas, permitindo o rejuvenescimento das células[1].<br\/><br\/><strong>Xenohormese<\/strong><\/p><p>Outro conceito interessante é a hipótese da xenohormese, que afirma que compostos vegetais produzidos sob condições de estresse podem ativar mecanismos de longevidade em animais e humanos. O resveratrol, um polifenol da uva, é um exemplo bem conhecido de uma substância que ativa a SIRT1 e pode, assim, prolongar a vida útil[1][6].<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_bKYt3V": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "Aplicações e produtos práticos",
+                "text": "<p><strong>NMN e NR<\/strong><\/p><p>O mononucleotídeo de nicotinamida (NMN) e o ribosídeo de nicotinamida (NR) são precursores do NAD+ e demonstraram em estudos que aumentam os níveis de NAD+ e, assim, reduzem a perda de função das células relacionada à idade. Estas substâncias já estão disponíveis como suplementos dietéticos e estão sendo intensamente pesquisadas para confirmar sua eficácia e segurança em humanos[3][6].<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            }
+          },
+          "block_order": [
+            "image_Qz36Nn",
+            "text_UU8qJd",
+            "text_M4Twyr",
+            "text_bKYt3V"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_dqKLMp",
+        "locale_WMrU8P",
+        "locale_3E4gBF",
+        "locale_PaazVd",
+        "locale_wr6q6J",
+        "locale_LQFKEN"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "localized_content_WfcrRq": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_iYKqah": {
+          "type": "locale",
+          "settings": {
+            "locale": "de"
+          },
+          "blocks": {
+            "image_B4DQKz": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter-D.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_8RNgk4": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resveratrol<\/strong><\/p><p>Resveratrol ist ein weiteres Beispiel für eine Substanz, die tief in die genetischen Mechanismen des Alterns eingreift. Es aktiviert Sirtuine und hat in Studien gezeigt, dass es die Lebensdauer von Modellorganismen verlängern und altersbedingte Krankheiten wie Alzheimer und Herz-Kreislauf-Erkrankungen bekämpfen kann[6].<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_pktPBC": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Die Anti-Aging-Substanzen, die wir in unserem Shop anbieten, basieren auf den neuesten wissenschaftlichen Erkenntnissen und zielen darauf ab, die Alterungsprozesse auf genetischer und epigenetischer Ebene zu beeinflussen. Durch die Erhöhung der NAD+-Spiegel und die Aktivierung von Sirtuinen sowie durch die Nutzung von Pflanzenstoffen wie Resveratrol können diese Produkte potenziell die Zellfunktion verbessern und die Lebensdauer verlängern. Diese tiefgreifenden Ansätze unterscheiden sich deutlich von herkömmlichen kosmetischen Produkten und bieten eine wissenschaftlich fundierte Methode zur Bekämpfung des Alterns.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_ddmbKh": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_tE44LX": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Quellen:<\/strong><\/p><p>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/><strong>Zitate:<\/strong><\/p><p>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_myAUKW": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_qPQqGj": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Aktuelle Informationen zum Thema Anti-Aging und zu den bahnbrechenden Forschungen von (Havard-) Prof. David Sinclair finden Sie<br\/><a href=\"https:\/\/www.facebook.com\/altersforschung\/\">auf der Facebook-Seite <\/a>der <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group<\/a>und auf unserem <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">YouTube-Kanal<\/a>. Oder folgen Sie uns auf <a href=\"https:\/\/bsky.app\/profile\/dpn1949.bsky.social\">BlueSky<\/a>.<\/p><p><strong>Wenn NMN für Sie neu ist, lesen Sie bitte UNBEDINGT <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>unsere FAQ (die wichtigsten Antworten auf die häufigsten Fragen)<\/strong><\/a><strong><br\/> <\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_LcWmfC": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>WARNUNG: Vorsicht beim Kauf von NMN, insbesondere bei Amazon. Bei Amazon und Alibaba tummeln sich Betrüger und weder Amazon noch Alibaba gehen dagegen wirksam vor. Doch das ist nur die Spitze eines Eisbergs. Auch NR (und weitere Nahrungsergänzungsmittel, die bei Amazon angeboten werden) ist oft einfach Fake. - Näheres erfahren Sie <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd.html\"><strong>hier <\/strong><\/a><strong>AMAZON IST NICHT VERTRAUENSWÜRDIG! Erfahren Sie mehr über einen Skandal: <\/strong><a href=\"https:\/\/www.heise.de\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html\"><strong>Akzeptiert mehr Müll<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_PkDiyJ": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_B4DQKz",
+            "text_8RNgk4",
+            "text_pktPBC",
+            "spacer_ddmbKh",
+            "text_tE44LX",
+            "spacer_myAUKW",
+            "text_qPQqGj",
+            "text_LcWmfC",
+            "image_PkDiyJ"
+          ]
+        },
+        "locale_Rt8qBN": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "image_7hbcTP": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_pDBL7y": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resveratrol<\/strong><\/p><p>Resveratrol is another example of a substance that intervenes deeply in the genetic mechanisms of aging. It activates sirtuins and has shown in studies that it can extend the lifespan of model organisms and combat age-related diseases such as Alzheimer's and cardiovascular diseases[6].<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_M8AdW6": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>The anti-aging substances that we offer in our shop are based on the latest scientific findings and aim to influence the aging processes at the genetic and epigenetic level. By increasing NAD+ levels and activating sirtuins, as well as using botanicals such as resveratrol, these products have the potential to improve cellular function and extend lifespan. These profound approaches are significantly different from conventional cosmetic products and offer a science-based method to combat aging.<\/p><p><strong>If NMN is a new topic for you or if you want to \/ have acquired it for the first time:<br\/>Please make sure  to <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>read the FAQ<\/strong><\/a><strong> !<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_gqGKiG": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_PdpQHf": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Sources:<br\/><br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/>Citations:<br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_Jd3pHd": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_MPVRjd": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>For up-to-date information on anti-aging and the pioneering research by (Harvard) Prof. David Sinclair, visit <a href=\"https:\/\/www.facebook.com\/altersforschung\/\">the Facebook page <\/a>of the <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group <\/a>and visit  <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">our YouTube channel<\/a>. Or follow us at <a href=\"https:\/\/bsky.app\/profile\/dpn1949.bsky.social\">BlueSky<\/a>.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_hVynmG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>WARNING: Be careful when buying NMN, especially from Amazon. Fraudsters cavort at Amazon and Alibaba, and neither Amazon nor Alibaba are taking effective action against it. But that's only the tip of the iceberg. NR (and other dietary supplements that are offered on Amazon) are also often simply fake. - You can find out more <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd-en.html\"><strong>here<\/strong><\/a><strong>. AMAZON IS NOT TRUSTABLE! Learn more about a scandal: <\/strong><a href=\"https:\/\/www-heise-de.translate.goog\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp\"><strong>Accept more trash<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_ENG9C4": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_7hbcTP",
+            "text_pDBL7y",
+            "text_M8AdW6",
+            "spacer_gqGKiG",
+            "text_PdpQHf",
+            "spacer_Jd3pHd",
+            "text_MPVRjd",
+            "text_hVynmG",
+            "image_ENG9C4"
+          ]
+        },
+        "locale_jmiCye": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "image_JqH74F": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_KwxPT8": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resveratrol<\/strong><\/p><p>El resveratrol es otro ejemplo de sustancia que interviene profundamente en los mecanismos genéticos del envejecimiento. Activa las sirtuinas y ha demostrado en estudios que puede prolongar la vida útil de organismos modelo y combatir enfermedades relacionadas con la edad como el Alzheimer y las enfermedades cardiovasculares[6].<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_TRAAJk": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Las sustancias antienvejecimiento que ofrecemos en nuestra tienda se basan en los últimos descubrimientos científicos y tienen como objetivo influir en los procesos de envejecimiento a nivel genético y epigenético. Al aumentar los niveles de NAD+ y activar las sirtuinas, además de utilizar ingredientes botánicos como el resveratrol, estos productos tienen el potencial de mejorar la función celular y prolongar la vida útil. Estos profundos enfoques son significativamente diferentes de los productos cosméticos convencionales y ofrecen un método basado en la ciencia para combatir el envejecimiento.<\/p><p><strong>Si NMN es un tema nuevo para ti o si quieres\/lo has adquirido por primera vez:<br\/>Por favor, asegúrese de a <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>lee las preguntas frecuentes<\/strong><\/a><strong> !<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_YHwAJe": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_WMwAGd": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Fuentes:<br\/><br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/>Citas:<br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_zUGapd": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_RMB4jV": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Para obtener la información más reciente sobre el antienvejecimiento y las innovadoras <a href=\"https:\/\/www.amazon.de\/Evolution-Ageing-Dr-David-Sinclair\/dp\/0008292345\/ref=sr_1_1?keywords=lifespan&qid=1638704978&sr=8-1\">investigaciones del profesor David Sinclair (Harvard)<\/a>, consulte en la <a href=\"https:\/\/facebook.com\/altersforschung\">página de Facebook del Grupo de Investigación AFEGA (AFEGA Research Group) <\/a>y en nuestro <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">canal de YouTube<\/a>.<\/p><p><strong>Si la NMN es nueva para usted, no deje de leer nuestras <\/strong><a href=\"https:\/\/www.afega-anti-aging-shop.com\/es\/info\/faq-wenn-das-thema-nmn-fuer-sie-ganz-neu-ist-bitte-lesen.html\"><strong>FAQ (las respuestas más importantes a las preguntas más frecuentes)<\/strong><\/a><strong>.<\/strong> <\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_cp7KLj": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>ADVERTENCIA: Tenga cuidado al comprar NMN, especialmente de Amazon. Los estafadores retozan en Amazon y Alibaba, y ni Amazon ni Alibaba están tomando medidas efectivas contra ellos. Pero eso es solo la punta del iceberg. NR (y otros suplementos dietéticos que se ofrecen en Amazon) también suelen ser simplemente falsos. - Puedes averiguar <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd-en.html\"><strong>más aquí <\/strong><\/a><strong>AMAZON IS NOT TRUSTABLE! Learn more about a scandal: <\/strong><a href=\"https:\/\/www-heise-de.translate.goog\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp\"><strong>Accept more trash<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_cFencT": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_JqH74F",
+            "text_KwxPT8",
+            "text_TRAAJk",
+            "spacer_YHwAJe",
+            "text_WMwAGd",
+            "spacer_zUGapd",
+            "text_RMB4jV",
+            "text_cp7KLj",
+            "image_cFencT"
+          ]
+        },
+        "locale_DUcq3n": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "image_WVjkT8": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_7YgzJP": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resvératrol<\/strong><\/p><p>Le resvératrol est un autre exemple de substance qui intervient profondément dans les mécanismes génétiques du vieillissement. Il active les sirtuines et a montré dans des études qu'il pouvait prolonger la durée de vie d'organismes modèles et lutter contre les maladies liées à l'âge comme la maladie d'Alzheimer et les maladies cardiovasculaires[6].<br\/><\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_kcLMPr": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Les substances anti-âge que nous proposons dans notre boutique sont basées sur les dernières découvertes scientifiques et visent à influencer les processus de vieillissement au niveau génétique et épigénétique. En augmentant les niveaux de NAD+ et en activant les sirtuines, ainsi qu’en utilisant des plantes telles que le resvératrol, ces produits ont le potentiel d’améliorer la fonction cellulaire et de prolonger la durée de vie. Ces approches approfondies sont très différentes des produits cosmétiques conventionnels et offrent une méthode scientifique pour lutter contre le vieillissement.<\/p><p><strong>Si NMN est un sujet nouveau pour vous ou si vous souhaitez\/l'avez acquis pour la première fois :<br\/>Veuillez vous assurer que à <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>lisez la FAQ<\/strong><\/a><strong> !<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_DKf9pM": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_LtBW7e": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Sources :<br\/><br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/>Citations :<br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<br\/><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_VqiwGB": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_XfGqpD": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Vous trouverez des informations actuelles sur le thème de l'anti-aging et sur les <a href=\"https:\/\/www.amazon.de\/Evolution-Ageing-Dr-David-Sinclair\/dp\/0008292345\/ref=sr_1_1?keywords=lifespan&qid=1638704978&sr=8-1\">recherches révolutionnaires du professeur (de Harvard) David Sinclair<\/a>, consulte sur la <a href=\"https:\/\/facebook.com\/altersforschung\">page Facebook de l'AFEGA Research Group<\/a> et sur notre <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">chaîne YouTube<\/a>.<\/p><p> <\/p><p><strong>Si le NMN est nouveau pour vous, il est IMPÉRATIF de lire notre <\/strong><a href=\"https:\/\/www.afega-anti-aging-shop.com\/fr\/info\/info-content-78.html\"><strong>FAQ (les principales réponses aux questions les plus fréquentes)<\/strong><\/a><strong>.  <\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_pVn4V7": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>AVERTISSEMENT : Soyez prudent lorsque vous achetez du NMN, en particulier sur Amazon. Les fraudeurs s'ébattent sur Amazon et Alibaba, et ni Amazon ni Alibaba ne prennent de mesures efficaces contre eux. Mais ce n'est que la pointe de l'iceberg. Les NR (et les autres compléments alimentaires proposés sur Amazon) sont également souvent tout simplement faux. - Vous pouvez en savoir plus <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd-en.html\"><strong>ici<\/strong><\/a>.<br\/><strong>AMAZON IS NOT TRUSTABLE! Learn more about a scandal: <\/strong><a href=\"https:\/\/www-heise-de.translate.goog\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp\"><strong>Accept more trash<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_CFawtR": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_WVjkT8",
+            "text_7YgzJP",
+            "text_kcLMPr",
+            "spacer_DKf9pM",
+            "text_LtBW7e",
+            "spacer_VqiwGB",
+            "text_XfGqpD",
+            "text_pVn4V7",
+            "image_CFawtR"
+          ]
+        },
+        "locale_Pe9YQd": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "image_7MFY6L": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_E7GF9e": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resveratrolo<\/strong><\/p><p>Il resveratrolo è un altro esempio di sostanza che interviene profondamente nei meccanismi genetici dell'invecchiamento. Attiva le sirtuine e negli studi è stato dimostrato che prolunga la durata della vita di organismi modello e combatte le malattie legate all'età come l'Alzheimer e le malattie cardiovascolari[6].<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_JrwxGj": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Le sostanze antietà che offriamo nel nostro negozio si basano sulle più recenti scoperte scientifiche e mirano a influenzare i processi di invecchiamento a livello genetico ed epigenetico. Aumentando i livelli di NAD+ e attivando le sirtuine, nonché utilizzando sostanze vegetali come il resveratrolo, questi prodotti possono potenzialmente migliorare la funzione cellulare e prolungare la durata della vita. Questi approcci profondi sono significativamente diversi dai prodotti cosmetici tradizionali e offrono un metodo basato sulla scienza per combattere l'invecchiamento.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_gwki8m": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_4eLAkx": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Scources:<br\/><br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/>Citations:<br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_kV4jHw": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_TkcEnx": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Se NMN è un nuovo argomento per voi o se volete \/ avete acquisito per la prima volta:<br\/>Assicuratevi di <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>leggere le FAQ<\/strong><\/a><strong> !<\/strong><\/p><p>Per informazioni aggiornate sull'anti-invecchiamento e la ricerca pionieristica del Prof. David Sinclair (Harvard), visitate<a href=\"https:\/\/www.facebook.com\/altersforschung\/\">la pagina Facebook <\/a>del <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group<\/a>e visitate <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">il nostro canale YouTube<\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_XfmWMH": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>ATTENZIONE: fare attenzione quando si acquista NMN, soprattutto da Amazon. I truffatori si scatenano su Amazon e Alibaba, e né Amazon né Alibaba stanno intraprendendo azioni efficaci contro di esso. Ma questa è solo la punta dell'iceberg. Anche gli NR (e altri integratori alimentari offerti su Amazon) sono spesso semplicemente falsi. - Puoi saperne di più <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd-en.html\"><strong>here<\/strong><\/a><strong>.AMAZON IS NOT TRUSTABLE! Learn more about a scandal: <\/strong><a href=\"https:\/\/www-heise-de.translate.goog\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp\"><strong>Accept more trash<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_m8fUxt": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_7MFY6L",
+            "text_E7GF9e",
+            "text_JrwxGj",
+            "spacer_gwki8m",
+            "text_4eLAkx",
+            "spacer_kV4jHw",
+            "text_TkcEnx",
+            "text_XfmWMH",
+            "image_m8fUxt"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_iYKqah",
+        "locale_Rt8qBN",
+        "locale_jmiCye",
+        "locale_DUcq3n",
+        "locale_Pe9YQd"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "localized_content_Tryr9C": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_wQXdAt": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "image_mp3azW": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Sinclair-Twitter.png",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_nXjCEG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Resveratrol<\/strong><\/p><p>O resveratrol é outro exemplo de substância que intervém profundamente nos mecanismos genéticos do envelhecimento. Ativa sirtuínas e demonstrou em estudos que pode prolongar a vida útil de organismos modelo e combater doenças relacionadas com a idade, como Alzheimer e doenças cardiovasculares[6].<\/p>",
+                "align": "left",
+                "width": "2\/3"
+              }
+            },
+            "text_qhUyDa": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>As substâncias antienvelhecimento que oferecemos na nossa loja baseiam-se nas mais recentes descobertas científicas e visam influenciar os processos de envelhecimento a nível genético e epigenético. Ao aumentar os níveis de NAD+ e ativar as sirtuínas, bem como utilizar produtos botânicos como o resveratrol, estes produtos têm o potencial de melhorar a função celular e prolongar a vida útil. Estas abordagens profundas são significativamente diferentes dos produtos cosméticos convencionais e oferecem um método baseado na ciência para combater o envelhecimento.<\/p><p><strong>Se NMN é um tema novo para você ou se você deseja\/já o adquiriu pela primeira vez:<br\/>Por favor, certifique-se de para <\/strong><a href=\"\/pages\/faq-unbedingt-lesen\" target=\"_blank\" title=\"FAQ: Unbedingt lesen!\"><strong>leia as perguntas frequentes<\/strong><\/a><strong> !<\/strong><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_Vx64Rj": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_AbHqV6": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p>Fontes:<br\/><br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/>Citações:<br\/>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "spacer_dbhiaF": {
+              "type": "spacer",
+              "settings": {
+                "space": "medium"
+              }
+            },
+            "text_MmCL6n": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>Se o NMN é um tópico novo para si ou se quiser \/ tiver adquirido pela primeira vez:<br\/>Por favor assegure-se de <\/strong><a href=\"https:\/\/www.afega-anti-aging-shop.com\/pt\/info\/info-content-78.html\"><strong>leia as FAQ<\/strong><\/a><strong> !<\/strong><\/p><p>Para informação actualizada sobre o anti-envelhecimento e a investigação pioneira do Prof. David Sinclair (Harvard), visite <a href=\"https:\/\/www.facebook.com\/altersforschung\/\">a página do Facebook <\/a>do <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group <\/a>e visita <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">o nosso canal YouTube<\/a>.<\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "text_CtFYFG": {
+              "type": "text",
+              "settings": {
+                "add-text-color": false,
+                "title": "",
+                "text": "<p><strong>AVISO: Tenha cuidado ao comprar NMN, especialmente à Amazon. Os autores de fraudes cavortam na Amazónia e Alibaba, e nem a Amazónia nem Alibaba estão a tomar medidas eficazes contra ela. Mas isso é apenas a ponta do iceberg. NR (e outros suplementos dietéticos que são oferecidos na Amazónia) são também muitas vezes simplesmente falsos. - Pode saber mais <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd-en.html\"><strong>aqui<\/strong><\/a><strong>.AMAZON IS NOT TRUSTABLE! Learn more about a scandal:<\/strong><a href=\"https:\/\/www-heise-de.translate.goog\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp\"><strong>Accept more trash<\/strong><\/a><\/p>",
+                "align": "left",
+                "width": "1\/1"
+              }
+            },
+            "image_x7fFbM": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+                "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+                "width": "1\/4"
+              }
+            }
+          },
+          "block_order": [
+            "image_mp3azW",
+            "text_nXjCEG",
+            "text_qhUyDa",
+            "spacer_Vx64Rj",
+            "text_AbHqV6",
+            "spacer_dbhiaF",
+            "text_MmCL6n",
+            "text_CtFYFG",
+            "image_x7fFbM"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_wQXdAt"
+      ],
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_AxLGfU": {
+      "type": "section-custom",
+      "blocks": {
+        "image_9NR6Fw": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heilmeyer-Buch.png",
+            "link": "",
+            "width": "1\/4"
+          }
+        },
+        "text_eGdwQe": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Herzlich willkommen im AFEGA Anti-Aging-Shop! - Einzelhändler von Anti-Aging-Produkten und Großhandel mit NMN, NR, NAD+, Resveratrol\/Pterostilbene (Großhandelskunden können wir auch Logistik in EU und CH anbieten)<\/strong><\/p><p><strong>Ein Wort zum Thema Anti-Aging: <\/strong>Bisher bedeutete das hauptsächlich kosmetische Produkte von oft\/ meist zweifelhafter Wirksamkeit - jedenfalls, wenn man Testberichten Glauben schenken darf. Die teuren Salben wirkten für den Tag, wirkten, wenn sie frisch aufgetragen worden waren - immerhin! Mit den <a href=\"https:\/\/www.amazon.de\/Lifespan-healthier-bestselling-anti-ageing-Harvard\/dp\/0008292345\/ref=sr_1_1?crid=3RQ25Y1Q3OS6Z&dib=eyJ2IjoiMSJ9.T81y7wDKtBVlFrFnS6P0_lVaCPrrqYVljbZ7I5FUVdPRRTpNNmHi1QsQEhRn8ygf7ypQE_uP_rkRSoRuB9ZBq1ZzeKlB_37bES6Xt2SYV0dOgQNXbSW_mxahCL0FqHU-2tgLwgZwbHfyhnbO74gFcgJEIau3wskPKm0sz5C3YAxGws4yj0s8PBmmYU5SqD5i6U4gx-HEQPahL5WIGY-IyyzKktmeUc3r3zz_pd16JdM.HpoeRYd2l5na5JBh2TDwpC5Q98PjI9FGgB-lbOSdzJs&dib_tag=se&keywords=david+sinclair+lifespan&nsdOptOutParam=true&qid=1735686988&sprefix=david+sinclair+life%2Caps%2C91&sr=8-1\" title=\"https:\/\/www.amazon.de\/Lifespan-healthier-bestselling-anti-ageing-Harvard\/dp\/0008292345\/ref=sr_1_1?crid=3RQ25Y1Q3OS6Z&dib=eyJ2IjoiMSJ9.T81y7wDKtBVlFrFnS6P0_lVaCPrrqYVljbZ7I5FUVdPRRTpNNmHi1QsQEhRn8ygf7ypQE_uP_rkRSoRuB9ZBq1ZzeKlB_37bES6Xt2SYV0dOgQNXbSW_mxahCL0FqHU-2tgLwgZwbHfyhnbO74gFcgJEIau3wskPKm0sz5C3YAxGws4yj0s8PBmmYU5SqD5i6U4gx-HEQPahL5WIGY-IyyzKktmeUc3r3zz_pd16JdM.HpoeRYd2l5na5JBh2TDwpC5Q98PjI9FGgB-lbOSdzJs&dib_tag=se&keywords=david+sinclair+lifespan&nsdOptOutParam=true&qid=1735686988&sprefix=david+sinclair+life%2Caps%2C91&sr=8-1\">Forschungsresultaten von Prof. Sinclair<\/a> (es geht dabei um die Substanz NMN, Nikotinamidmononukleotid, <strong>siehe auch dieses <\/strong><a href=\"https:\/\/www.instagram.com\/reel\/CuHQWh9ORks\/?igshid=Y2IzZGU1MTFhOQ%3D%3D&fbclid=IwY2xjawEpn65leHRuA2FlbQIxMAABHWxWxogsxf_jyPnsr86tjo3_txgfBv4SnPZO9W-ohd0nn_5mKRNic-MWKQ_aem_ANlsKX3Sdw2u907DUJ_H_g\"><strong>Kurzvideo <\/strong><\/a><strong>auf Instagram<\/strong>) beginnt ein neues Zeitalter: Anti-Aging meint nun nicht mehr \"Verbesserung des Erscheinungsbildes\"; Anti-Aging meint ab jetzt wirklich <em>Anti-Aging<\/em>, also mindestens die Verlangsamung, eigentlich aber den Stopp oder sogar die Umkehr des Alterungsprozesses. Das neue Anti-Aging setzt an den Wurzeln an, an den Genen - und tiefer kann man nicht gelangen, denn unterhalb der Ebene der Gene kann man nicht mehr von Leben sprechen. - Aber es braucht ein wenig Geduld, bis die Wirkung dieser Substanzen sich auch in Ihrem Aussehen bemerkbar macht. Wenn es Ihnen um Ihr Aussehen geht, versprechen zu Beginn die von uns getesteten Kosmetika schnellere Erfolge! Bitte beachten Sie (nebenstehend) das Buch von Dr. Peter Heilmeyer und Claudia Lenz (Dr. Heilmeyer ist Mitglied der <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group<\/a>).<\/p>",
+            "align": "left",
+            "width": "2\/3"
+          }
+        },
+        "text_Npj6RP": {
+          "type": "text",
+          "settings": {
+            "title": "Genetische Ansätze im Anti-Aging",
+            "text": "<p><strong>Sirtuine und NAD+<\/strong><\/p><p>Prof. David Sinclair hat umfangreiche Forschungen zu Sirtuinen durchgeführt, einer Gruppe von Enzymen, die eine Schlüsselrolle bei der Regulierung des Alterungsprozesses spielen. Sirtuine werden durch NAD+ (Nikotinamid-Adenin-Dinukleotid) aktiviert, ein Molekül, dessen Spiegel im Körper mit zunehmendem Alter abnimmt. Durch die Erhöhung der NAD+-Spiegel können Sirtuine aktiviert werden, was zu einer verbesserten DNA-Reparatur, einer erhöhten Energieproduktion in den Mitochondrien und einer allgemeinen Verbesserung der Zellfunktion führt[1][3].<\/p><p><strong>Epigenetische Veränderungen<\/strong><\/p><p>Sinclair hat auch die Rolle epigenetischer Veränderungen im Alterungsprozess untersucht. Epigenetische Faktoren wie SIRT1 können in Reaktion auf DNA-Schäden umverteilt werden, was zu einer Alterung der Zellen führt. Durch gezielte epigenetische Modulation können diese Veränderungen potenziell rückgängig gemacht werden, was eine Verjüngung der Zellen ermöglicht[1].<br\/><br\/><strong>Xenohormesis<\/strong><\/p><p>Ein weiteres interessantes Konzept ist die Xenohormesis-Hypothese, die besagt, dass Pflanzenstoffe, die unter Stressbedingungen produziert werden, die Langlebigkeitsmechanismen in Tieren und Menschen aktivieren können. Resveratrol, ein Polyphenol aus Trauben, ist ein bekanntes Beispiel für eine solche Substanz, die SIRT1 aktiviert und somit die Lebensdauer verlängern kann[1][6].<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_fmmfMF": {
+          "type": "text",
+          "settings": {
+            "title": "Praktische Anwendungen und Produkte",
+            "text": "<p><strong>NMN und NR<\/strong><\/p><p>Nikotinamid-Mononukleotid (NMN) und Nikotinamid-Ribosid (NR) sind Vorläufer von NAD+ und haben in Studien gezeigt, dass sie die NAD+-Spiegel erhöhen und somit die altersbedingten Funktionsverluste in Zellen reduzieren können. Diese Substanzen sind bereits als Nahrungsergänzungsmittel erhältlich und werden intensiv erforscht, um ihre Wirksamkeit und Sicherheit beim Menschen zu bestätigen[3][6].<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        }
+      },
+      "block_order": [
+        "image_9NR6Fw",
+        "text_eGdwQe",
+        "text_Npj6RP",
+        "text_fmmfMF"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_q8QNUW": {
+      "type": "section-custom",
+      "blocks": {
+        "image_JCPrna": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Sinclair-Twitter-D.png",
+            "link": "",
+            "width": "1\/4"
+          }
+        },
+        "text_8Wew8k": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Resveratrol<\/strong><\/p><p>Resveratrol ist ein weiteres Beispiel für eine Substanz, die tief in die genetischen Mechanismen des Alterns eingreift. Es aktiviert Sirtuine und hat in Studien gezeigt, dass es die Lebensdauer von Modellorganismen verlängern und altersbedingte Krankheiten wie Alzheimer und Herz-Kreislauf-Erkrankungen bekämpfen kann[6].<\/p>",
+            "align": "left",
+            "width": "2\/3"
+          }
+        },
+        "text_pwMDzV": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Die Anti-Aging-Substanzen, die wir in unserem Shop anbieten, basieren auf den neuesten wissenschaftlichen Erkenntnissen und zielen darauf ab, die Alterungsprozesse auf genetischer und epigenetischer Ebene zu beeinflussen. Durch die Erhöhung der NAD+-Spiegel und die Aktivierung von Sirtuinen sowie durch die Nutzung von Pflanzenstoffen wie Resveratrol können diese Produkte potenziell die Zellfunktion verbessern und die Lebensdauer verlängern. Diese tiefgreifenden Ansätze unterscheiden sich deutlich von herkömmlichen kosmetischen Produkten und bieten eine wissenschaftlich fundierte Methode zur Bekämpfung des Alterns.<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_HCKpzE": {
+          "type": "spacer",
+          "settings": {
+            "space": "medium"
+          }
+        },
+        "text_DWkVbd": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>Quellen:<\/strong><\/p><p>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair  <br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/anti-aging-breakthrough  <br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/PMC9610014\/<br\/><br\/><strong>Zitate:<\/strong><\/p><p>[1] https:\/\/sinclair.hms.harvard.edu\/people\/david-sinclair<br\/>[2] https:\/\/www.wsj.com\/health\/wellness\/<br\/>david-sinclair-longevity-aging-criticism-645fddc5<br\/>[3] https:\/\/www.harvardmagazine.com\/2017\/08\/<br\/>anti-aging-breakthrough<br\/>[4] https:\/\/www.statnews.com\/2024\/03\/05\/<br\/>david-sinclair-harvard-longevity-scientist-reversing-aging-dogs\/<br\/>[5] https:\/\/www.aging-us.com\/news-room\/<br\/>NEW-STUDY-Discovery-of-Chemical-Means-to-Reverse-Aging-and-Restore-Cellular-Function<br\/>[6] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC9610014\/<br\/>[7] https:\/\/www.sciencedirect.com\/science\/article\/<br\/>pii\/S2468501119300379<br\/>[8] https:\/\/www.ncbi.nlm.nih.gov\/pmc\/articles\/<br\/>PMC5763529\/<br\/>[9] https:\/\/www.mdpi.com\/2227-9059\/12\/1\/127<br\/>[10] https:\/\/www.pfizer.com\/news\/articles\/<br\/>decoding_longevity_3_genes_linked_to_anti_aging<\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "spacer_kahQtX": {
+          "type": "spacer",
+          "settings": {
+            "space": "medium"
+          }
+        },
+        "text_Qd3kNk": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>Aktuelle Informationen zum Thema Anti-Aging und zu den bahnbrechenden Forschungen von (Harvard-) Prof. David Sinclair finden Sie<br\/><a href=\"https:\/\/www.facebook.com\/altersforschung\/\">auf der Facebook-Seite <\/a>der <a href=\"https:\/\/research.afega.net\/\">AFEGA Research Group<\/a>und auf unserem <a href=\"https:\/\/www.youtube.com\/channel\/UCR-0tvT2pXZCxQFTbExjGag\">YouTube-Kanal<\/a>. Oder folgen Sie uns auf <a href=\"https:\/\/bsky.app\/profile\/dpn1949.bsky.social\">BlueSky<\/a>.<\/p><p><strong>Wenn NMN für Sie neu ist, lesen Sie bitte UNBEDINGT <\/strong><a href=\"https:\/\/www.afega-anti-aging-shop.com\/de\/info\/faq.html\"><strong>unsere FAQ (die wichtigsten Antworten auf die häufigsten Fragen)<\/strong><\/a><strong><br\/> <\/strong><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "text_7Lm6Ct": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p><strong>WARNUNG: Vorsicht beim Kauf von NMN, insbesondere bei Amazon. Bei Amazon und Alibaba tummeln sich Betrüger und weder Amazon noch Alibaba gehen dagegen wirksam vor. Doch das ist nur die Spitze eines Eisbergs. Auch NR (und weitere Nahrungsergänzungsmittel, die bei Amazon angeboten werden) ist oft einfach Fake. - Näheres erfahren Sie <\/strong><a href=\"https:\/\/research.afega.net\/Amazon-absurd\/Amazon-absurd.html\"><strong>hier <\/strong><\/a><strong>AMAZON IST NICHT VERTRAUENSWÜRDIG! Erfahren Sie mehr über einen Skandal: <\/strong><a href=\"https:\/\/www.heise.de\/news\/US-Klage-Grottenschlechte-Suchergebnisse-bei-Amazon-com-sind-Absicht-9352364.html\"><strong>Akzeptiert mehr Müll<\/strong><\/a><\/p>",
+            "align": "left",
+            "width": "1\/1"
+          }
+        },
+        "image_KpmrHy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/afega-anti-aging-shop-com-bewertung-full-180.png",
+            "link": "https:\/\/www.webwiki.de\/afega-anti-aging-shop.com",
+            "width": "1\/4"
+          }
+        }
+      },
+      "block_order": [
+        "image_JCPrna",
+        "text_8Wew8k",
+        "text_pwMDzV",
+        "spacer_HCKpzE",
+        "text_DWkVbd",
+        "spacer_kahQtX",
+        "text_Qd3kNk",
+        "text_7Lm6Ct",
+        "image_KpmrHy"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-custom-section-bg-color": false,
+        "locale": "de",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "section-slideshow",
+    "localized_content_QKey9T",
+    "localized_content_WfcrRq",
+    "localized_content_Tryr9C",
+    "section_custom_AxLGfU",
+    "section_custom_q8QNUW"
+  ]
+}

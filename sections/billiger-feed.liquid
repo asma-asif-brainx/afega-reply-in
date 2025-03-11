@@ -1,0 +1,197 @@
+{%- assign collection_list = page.metafields.custom.price_portal_collections.value -%}
+{% assign exclusions = page.metafields.custom.price_portal_exclusions.value | map: 'id' | join: ',' %}
+{% if collection_list %}
+  {% capture content %}
+    {% raw %}item_group_id,aid,name,brand,product_type,shop_cat,mpnr,ean,image,link,availability,price,stock_quantity,dlv_cost,dlv_cost_AT,dlv_time,weight,meta_p_short_desc{% endraw %}
+    {%- paginate collections.all.products by 1000 -%}
+      {%- for collection in collection_list -%}
+        {%- for product in collection.products -%}
+          {%- for variant in product.variants -%}
+            {%- assign excluded = false -%}
+            {%- if exclusions contains variant.id -%}
+              {%- assign excluded = true -%}
+            {%- endif -%}
+            {%- if variant.available and excluded != true -%}
+
+              {%- comment -%}
+                1. item_group_id (product.id)
+              {%- endcomment -%}
+              {%- assign item_group_id = variant.product.id -%}
+
+              {%- comment -%}
+                2. aid (variant.id)
+              {%- endcomment -%}
+              {%- assign aid = variant.id -%}
+
+              {%- comment -%}
+                3. name (title or variant title)
+              {%- endcomment -%}
+              {%- if variant.title != 'Default Title' -%}
+                {%- assign name = product.title | append: ' - ' | append: variant.title -%}
+              {%- else -%}
+                {%- assign name = product.title -%}
+              {%- endif -%}
+              {%- assign name = name | strip | strip_html | strip_newlines | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                4. brand (product.vendor)
+              {%- endcomment -%}
+              {%- assign brand = product.vendor | default: '' | strip | strip_html | strip_newlines | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                5. product_type (product.type)
+              {%- endcomment -%}
+              {%- assign product_type = product.type | default: '' | strip | strip_html | strip_newlines | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                6. shop_cat (joined collection titles)
+              {%- endcomment -%}
+              {%- assign shop_cat = '' -%}
+              {%- for product_collection in product.collections -%}
+                {%- if product_collection.title -%}
+                  {%- assign shop_cat = shop_cat | append: product_collection.title -%}
+                  {%- unless forloop.last -%}
+                    {%- assign shop_cat = shop_cat | append: ' > ' -%}
+                  {%- endunless -%}
+                {%- endif -%}
+              {%- endfor -%}
+              {%- assign shop_cat = shop_cat | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                7. mpnr (variant.sku)
+              {%- endcomment -%}
+              {%- assign mpnr = variant.sku | default: '' | replace: ',', ' ' -%}
+              {%- assign ean = variant.barcode | default: '' -%}
+
+              {%- comment -%}
+                8. image (variant.image or product.featured_image)
+              {%- endcomment -%}
+              {%- if variant.image -%}
+                {%- assign image_url = variant.image | image_url: width: 1000 -%}
+              {%- elsif product.featured_image -%}
+                {%- assign image_url = product.featured_image | image_url: width: 1000 -%}
+              {%- else -%}
+                {%- assign image_url = 'placeholder.png' | asset_url -%}
+              {%- endif -%}
+              {%- assign image_url = image_url | replace: '//', 'https://' | replace: ',', '%2C' -%}
+
+              {%- comment -%}
+                9. link (with ?variant=ID & UTM)
+              {%- endcomment -%}
+              {%- assign link = shop.url | append: product.url -%}
+              {%- if variant.id -%}
+                {%- assign link = link | append: '?variant=' | append: variant.id | append: '&utm_source=web&utm_medium=cpc&utm_campaign=billiger' -%}
+              {%- else -%}
+                {%- assign link = link | append: '?utm_source=web&utm_medium=cpc&utm_campaign=billiger' -%}
+              {%- endif -%}
+              {%- assign link = link | replace: ',', '%2C' -%}
+
+              {%- comment -%}
+                10. availability (in stock)
+              {%- endcomment -%}
+              {%- assign availability = 'in stock' -%}
+
+              {%- comment -%}
+                11. price
+              {%- endcomment -%}
+              {%- assign price = variant.price | divided_by: 100.0 -%}
+
+              {%- comment -%}
+                12. stock_quantity
+              {%- endcomment -%}
+              {%- if variant.inventory_policy == 'continue' and variant.inventory_quantity > 1 -%}
+                {%- assign stock_quantity = 42 -%}
+              {%- elsif variant.inventory_management -%}
+                {%- assign stock_quantity = variant.inventory_quantity -%}
+              {%- else -%}
+                {%- assign stock_quantity = 42 -%}
+              {%- endif -%}
+
+              {%- comment -%}
+                13. dlv_cost
+              {%- endcomment -%}
+              {%- if price >= 125 -%}
+                {%- assign dlv_cost = '0' -%}
+              {%- else -%}
+                {%- assign dlv_cost = '6.50' -%}
+              {%- endif -%}
+
+              {%- comment -%}
+                14. dlv_cost_AT
+              {%- endcomment -%}
+              {%- if price >= 350 -%}
+                {%- assign dlv_cost_AT = '0' -%}
+              {%- else -%}
+                {%- assign dlv_cost_AT = '15' -%}
+              {%- endif -%}
+
+              {%- comment -%}
+                15. dlv_time (from product metafield or default)
+              {%- endcomment -%}
+              {%- assign dlv_time = product.metafields.custom.delivery_time.value | default: '3-4 Tage' -%}
+              {%- assign dlv_time = dlv_time | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                16. weight (if variant.weight > 0)
+              {%- endcomment -%}
+              {%- if variant.weight > 0 -%}
+                {%- assign weight = variant.weight | weight_with_unit -%}
+              {%- else -%}
+                {%- assign weight = '' -%}
+              {%- endif -%}
+
+              {%- comment -%}
+                17. meta_p_short_desc
+                    We assume the short desc is stored in product.metafields.custom.p_short_desc.
+                    Adjust as needed if you have a different field name.
+              {%- endcomment -%}
+              {%- assign meta_p_short_desc = product.metafields.custom.p_short_desc.value | default: '' -%}
+              {%- assign meta_p_short_desc = meta_p_short_desc | strip | strip_html | strip_newlines | replace: ',', ' ' -%}
+
+              {%- comment -%}
+                Finally: print out the CSV row
+              {%- endcomment -%}
+              {{ item_group_id }},{{ aid }},"{{ name }}","{{ brand }}","{{ product_type }}","{{ shop_cat }}","{{ mpnr }}","{{ ean }}","{{ image_url }}","{{ link }}","{{ availability }}",{{ price }},{{ stock_quantity }},{{ dlv_cost }},{{ dlv_cost_AT }},"{{ dlv_time }}","{{ weight }}","{{ meta_p_short_desc }}"{% raw %}{% endraw %}
+            {%- endif -%}
+          {%- endfor -%}
+        {%- endfor -%}
+      {%- endfor -%}
+    {%- endpaginate %}
+  {% endcapture %}
+
+  {{ content }}
+
+  <script>
+    document.addEventListener("DOMContentLoaded", () => {
+      // Assuming 'content' is your finished CSV string
+      const content = `{{ content | strip }}`;
+
+      // Create a Blob from the CSV content
+      const blob = new Blob([content], { type: "text/csv" });
+
+      // Create a temporary link element
+      const link = document.createElement("a");
+      link.href = URL.createObjectURL(blob);
+      link.download = "{{ page.handle }}.csv"; // Set the file name
+
+      // Programmatically trigger the download
+      link.click();
+
+      // Revoke the object URL to free up memory
+      URL.revokeObjectURL(link.href);
+    });
+
+  </script>
+
+{% endif %}
+
+{% schema %}
+{
+  "name": "Billiger Feed",
+  "presets": [
+    {
+      "name": "Billiger Feed"
+    }
+  ]
+}
+{% endschema %}

@@ -1,0 +1,109 @@
+{% assign collection_list = page.metafields.custom.price_portal_collections.value %}
+{% assign exclusions = page.metafields.custom.price_portal_exclusions.value | map: 'id' | join: ',' %}
+{% if collection_list %}
+  {% capture content %}
+    {%- raw -%}ProduktID,Gewicht,EAN,Hersteller,ProduktBezeichnung,ArtikelNroderHerstellerArtikelNr,Preis,ProduktLangBeschreibung,ProduktKurzBeschreibung,Lieferzeit,Versandkosten,Produktlink,FotoLink,Kategoriename{%- endraw -%}
+    {%- paginate collections.all.products by 1000 -%}
+      {%- if paginate.current_page <= paginate.pages -%}
+        {%- for collection in collection_list -%}
+          {%- for product in collection.products -%}
+            {%- for variant in product.variants -%}
+              {%- assign excluded = false -%}
+              {%- if exclusions contains variant.id -%}
+                {%- assign excluded = true -%}
+              {%- endif -%}
+              {%- if variant.available and excluded != true -%}
+                {%- assign product_id = variant.id | append: '' -%}
+                {%- assign weight = variant.weight | weight_with_unit -%}
+                {%- assign ean = variant.barcode -%}
+                {%- assign manufacturer = product.vendor -%}
+                {%- if variant.title != 'Default Title' -%}
+                  {%- assign product_description = product.title | append: ' - ' | append: variant.title -%}
+                {%- else -%}
+                  {%- assign product_description = product.title -%}
+                {%- endif -%}
+                {%- assign manufacturer_article_number = variant.sku -%}
+                {%- assign price = variant.price | divided_by: 100.0 -%}
+                {%- assign product_long = product.description | strip | strip_html | strip_newlines | replace: '|', ' ' | replace: '"', '' | replace: "'", "" -%}
+                {%- assign product_long = "" -%}
+                {%- assign product_short = product.description
+                  | strip
+                  | strip_html
+                  | strip_newlines
+                  | truncate: 200, ''
+                  | replace: '|', ' '
+                -%}
+                {%- assign delivery_time = product.metafields.custom.delivery_time.value | default: '3-4 Days' -%}
+                {%- if price >= 125 -%}
+                  {%- assign shipping_costs = '0' -%}
+                {%- else -%}
+                  {%- assign shipping_costs = '6.50' -%}
+                {%- endif -%}
+                {%- assign product_link = shop.url | append: product.url -%}
+                {%- if variant.id -%}
+                  {%- assign product_link = product_link
+                    | append: '?variant='
+                    | append: variant.id
+                    | append: '&utm_source=web&utm_medium=cpc&utm_campaign=guenstiger'
+                  -%}
+                {%- else -%}
+                  {%- assign product_link = product_link
+                    | append: '?utm_source=web&utm_medium=cpc&utm_campaign=guenstiger'
+                  -%}
+                {%- endif %}
+                {%- if variant.image -%}
+                  {%- assign photo_link = variant.image | image_url: width: 1000 | replace: '//', 'https://' -%}
+                {%- else -%}
+                  {%- assign photo_link = product.featured_image | image_url: width: 1000 | replace: '//', 'https://' -%}
+                {%- endif -%}
+                {%- assign category_name = '' -%}
+                {%- for c in product.collections -%}
+                  {%- if c.title -%}
+                    {%- assign category_name = category_name | append: c.title -%}
+                    {%- unless forloop.last -%}
+                      {%- assign category_name = category_name | append: '>' -%}
+                    {%- endunless -%}
+                  {%- endif -%}
+                {%- endfor -%}
+              "{{ product_id }}","{{ weight }}","{{ ean }}","{{ manufacturer }}","{{ product_description }}","{{ manufacturer_article_number }}","{{ price }}","{{ product_long | replace: '\n', ' ' }}","{{ product_short | replace: '\n', ' ' }}","{{ delivery_time }}","{{ shipping_costs }}","{{ product_link }}","{{ photo_link }}","{{ category_name }}"{%- endif -%}
+            {%- endfor -%}
+          {%- endfor -%}
+        {%- endfor -%}
+      {%- endif -%}
+    {%- endpaginate -%}
+  {% endcapture %}
+
+  {{ content }}
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      // Assuming 'content' is your finished CSV string
+      const content = `{{ content | strip | replace: "'", "" }}`;
+
+      // Create a Blob from the CSV content
+      const blob = new Blob([content], { type: 'text/csv' });
+
+      // Create a temporary link element
+      const link = document.createElement('a');
+      link.href = URL.createObjectURL(blob);
+      link.download = '{{ page.handle }}.csv'; // Set the file name
+
+      // Programmatically trigger the download
+      link.click();
+
+      // Revoke the object URL to free up memory
+      URL.revokeObjectURL(link.href);
+    });
+  </script>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Guenstiger Feed",
+  "presets": [
+    {
+      "name": "Guenstiger Feed"
+    }
+  ]
+}
+{% endschema %}

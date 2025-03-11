@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {}
+    },
+    "form": {
+      "type": "section-contact-form",
+      "disabled": true,
+      "settings": {
+        "title": "Send us an email",
+        "desc": "",
+        "heading_alignment": "center",
+        "section_width": "full",
+        "color_bg": "rgba(0,0,0,0)",
+        "color_text": "rgba(0,0,0,0)",
+        "color_default_heading": true,
+        "color_default_border": true,
+        "divider_top": false,
+        "divider_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "localized_content_AiJUdY": {
+      "type": "localized-content",
+      "blocks": {
+        "locale_iHXUwC": {
+          "type": "locale",
+          "settings": {
+            "locale": "en"
+          },
+          "blocks": {
+            "image_Q3cT6N": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_MqqzCg": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>AFFEGA Anti-Aging-Shop<br\/>Dipl.-Biol. Gesine Mantel<br\/>Guttenberger Str. 29<br\/>97234 Reichenberg<br\/>Germany<br\/>Phone D:<a href=\"tel:+499313206300\">+49.9313206300<\/a>Phone CH:<a href=\"tel:+41344351327\">+41.344351327<\/a>Fax D:<a href=\"tel:+4932121013972\">+49.32121013972<\/a>Fax CH:<a href=\"tel:+41912606884\">+41.912606884<\/a><\/p><p>Email Mrs. Mantel: <a href=\"mailto:sekretariat.afega@gmx.de\">sekretariat.afega@gmx.de<\/a><\/p><p>Email Peter Niehenke, Ph.D. (Research Director):<a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a><\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            }
+          },
+          "block_order": [
+            "image_Q3cT6N",
+            "text_MqqzCg"
+          ]
+        },
+        "locale_HffnEp": {
+          "type": "locale",
+          "settings": {
+            "locale": "es"
+          },
+          "blocks": {
+            "image_JXMnEW": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_YmCBJN": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>AFFEGA Anti-Aging-Shop<br\/>Dipl. en Biología Gesine Mantel<br\/>Guttenberger Str. 29<br\/>97234 Reichenberg<br\/>Alemania<br\/>Teléfono D: +49.9313206300<br\/>Teléfono CH: +41.344351327<br\/>Fax D: +49.32121013972<br\/>Fax CH: +41.912606884<br\/><br\/>Correo electrónico de Gesine Mantel: sekretariat.afega@gmx.de<br\/>Correo electrónico de la Dra. Niehenke (Directora de Investigación): sekretariat.afega@gmail.com<br\/><\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            }
+          },
+          "block_order": [
+            "image_JXMnEW",
+            "text_YmCBJN"
+          ]
+        },
+        "locale_Hi3mt6": {
+          "type": "locale",
+          "settings": {
+            "locale": "fr"
+          },
+          "blocks": {
+            "image_4TdKJc": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_tCgJmi": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>AFFEGA Anti-Aging-Shop<br\/>Biologiste diplômée Gesine Mantel<br\/>29, rue Guttenberg<br\/>97234 Reichenberg<br\/>Allemagne<br\/>Téléphone D :<a href=\"tel:+499313206300\">+49.9313206300<\/a><\/p><p>Téléphone CH :<a href=\"tel:+41344351327\">+41.344351327<\/a><\/p><p>Fax D :<a href=\"tel:+4932121013972\">+49.32121013972<\/a><\/p><p>Fax CH :<a href=\"tel:+41912606884\">+41.912606884<\/a><\/p><p>Email Gesine Mantel :<a href=\"mailto:sekretariat.afega@gmx.de\">sekretariat.afega@gmx.de<\/a><\/p><p>Email Dr. Niehenke (directeur de recherche) :<a href=\"mailto:sekretariat.afega@gmail.com\">sekretariat.afega@gmail.com<\/a><\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            }
+          },
+          "block_order": [
+            "image_4TdKJc",
+            "text_tCgJmi"
+          ]
+        },
+        "locale_mYmrHB": {
+          "type": "locale",
+          "settings": {
+            "locale": "it"
+          },
+          "blocks": {
+            "image_MYztgB": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_wgf9rb": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>AFFEGA Anti-Aging-Shop<br\/>Dipl.-Biol. Gesine Mantel<br\/>Guttenberger Str. 29<br\/>97234 Reichenberg<br\/>Germania<br\/>Phone D: +49.9313206300<br\/>Phone CH: +41.344351327<br\/>Fax D: +49.32121013972<br\/>Fax CH: +41.912606884<br\/><br\/>Email Mrs. Mantel: sekretariat.afega@gmx.de<br\/>Email Peter Niehenke, Ph.D. (Research Director): sekretariat.afega@gmail.com<br\/><\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            }
+          },
+          "block_order": [
+            "image_MYztgB",
+            "text_wgf9rb"
+          ]
+        },
+        "locale_F7nKQG": {
+          "type": "locale",
+          "settings": {
+            "locale": "pt-PT"
+          },
+          "blocks": {
+            "image_EgVaKN": {
+              "type": "image",
+              "settings": {
+                "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+                "link": "",
+                "width": "1\/4"
+              }
+            },
+            "text_Kwjgwm": {
+              "type": "text",
+              "settings": {
+                "title": "",
+                "text": "<p>AFFEGA Anti-Aging-Shop<br\/>Dipl.-Biol. Gesine Mantel<br\/>Guttenberger Str. 29<br\/>97234 Reichenberg<br\/>Alemanha<br\/>Phone D: +49.9313206300<br\/>Phone CH: +41.344351327<br\/>Fax D: +49.32121013972<br\/>Fax CH: +41.912606884<br\/><br\/>Email Mrs. Mantel: sekretariat.afega@gmx.de<br\/>Email Peter Niehenke, Ph.D. (Director de Investigação): sekretariat.afega@gmail.com<br\/><\/p><p><\/p>",
+                "align": "left",
+                "width": "1\/2"
+              }
+            }
+          },
+          "block_order": [
+            "image_EgVaKN",
+            "text_Kwjgwm"
+          ]
+        }
+      },
+      "block_order": [
+        "locale_iHXUwC",
+        "locale_HffnEp",
+        "locale_Hi3mt6",
+        "locale_mYmrHB",
+        "locale_F7nKQG"
+      ],
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    },
+    "section_custom_c4DtiJ": {
+      "type": "section-custom",
+      "blocks": {
+        "image_q9GpX9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Startseite_01.jpg",
+            "link": "",
+            "width": "1\/4"
+          }
+        },
+        "text_YGVXjC": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "text": "<p>AFEGA Anti-Aging-Shop<\/p><p>Dipl.-Biol. Gesine Mantel (CEO)<\/p><p>Guttenberger Str. 29<\/p><p>97234 Reichenberg<\/p><p><a href=\"mailto:sekretariat.afega@gmail.com\">Email Support<\/a><\/p><p><a href=\"https:\/\/www.afega-anti-aging-shop.com\/de\/info\/faq.html\">FAQ: Die wichtigsten Antworten auf die häufigsten Fragen<\/a><\/p><p>Telefon: +49.9313206300<\/p><p>Fax: +49.32121013972<\/p>",
+            "align": "left",
+            "width": "1\/2"
+          }
+        },
+        "button_dQT3aa": {
+          "type": "button",
+          "settings": {
+            "title": "",
+            "link": "",
+            "link_style": "primary",
+            "width": "1\/3"
+          }
+        }
+      },
+      "block_order": [
+        "image_q9GpX9",
+        "text_YGVXjC",
+        "button_dQT3aa"
+      ],
+      "settings": {
+        "locale": "de",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section-bottom-margin": false,
+        "add-word-line-break": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "localized_content_AiJUdY",
+    "section_custom_c4DtiJ"
+  ]
+}

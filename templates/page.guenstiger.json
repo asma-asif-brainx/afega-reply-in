@@ -1,0 +1,18 @@
+{
+  "layout": false,
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {}
+    },
+    "guenstiger_feed_kR8ann": {
+      "type": "guenstiger-feed",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "guenstiger_feed_kR8ann"
+  ]
+}

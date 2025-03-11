@@ -1,0 +1,77 @@
+{
+  "name": "Footer group",
+  "type": "footer",
+  "sections": {
+    "section_newsletter_mXkRgF": {
+      "type": "section-newsletter",
+      "settings": {
+        "section_newsletter_title": "Bleiben Sie informiert über aktuelle Entwicklungen in der Anti-Aging-Forschung.",
+        "section_newsletter_desc": "<p>Bleiben Sie auf dem Laufenden! Die Anti-Aging-Forschung entwickelt sich in rasantem Tempo.<br\/>Altern ist ein sehr komplexes Geschehen und es gibt nicht die eine Substanz oder Substanzmischung, die den Alterungsprozess beeinflussen kann.<br\/>Wir informieren etwa 1 x pro Monat über die wichtigsten Entwicklungen und helfen Ihnen, davon zu profitieren, indem wir uns darum bemühen, Ihnen alle bedeutsamen Substanzen und Hilfsmittel zu den günstigsten Konditionen anzubieten, die kaufmännisch vertretbar sind.<\/p>",
+        "section_width": "contained",
+        "newsletter_bg": "#F2F2F2",
+        "newsletter_text": "#131313",
+        "default_title_color": false,
+        "text_border_color": true,
+        "divider_top": false,
+        "divider_bottom": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "section_bottom_margin": false
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "f58ac740-bb9f-42d4-bf28-e224a9c7a5c5": {
+          "type": "linklist",
+          "settings": {
+            "title": "MEHR ÜBER...",
+            "linklist": "mehr-ber",
+            "footer-logo": "shopify:\/\/shop_images\/scam-logo.svg",
+            "footer-logo-url": "https:\/\/www.scamadviser.com\/de\/website-prufen\/afega-anti-aging-shop.com#google_vignette"
+          }
+        },
+        "b96dcb38-c4f5-4701-a393-c492aabf73f0": {
+          "type": "text",
+          "settings": {
+            "title": "HALTBARKEITEN UND VERPACKUNGSPHILOSOPHIE",
+            "text": "<p>Viele Menschen haben mehr Vertrauen in einer Produkt, wenn es aufwändig verpackt ist. Es erscheint dann edler. So sind alle Produkte von Apple immer aufwändig und 'raffiniert' verpackt. Es geht um das 'Erlebnis' beim Auspacken. Und es gibt Produkte, die werden nur wegen der 'edlen' Verpackung gekauft (z. B. edle Pralinen) oder wegen der ungewöhnlichen Form der Flasche (z. B. Parfüms oder Rasierwasser). Und es gibt viele Produkte, da ist die Verpackung oder das Gefäss sogar teurer als das Produkt selbst.<\/p>"
+          }
+        },
+        "text_HDNKMr": {
+          "type": "text",
+          "settings": {
+            "title": "WIR GEHEN EINEN ANDEREN WEG",
+            "text": "<p>Wir versuchen, konsequent (Verpackungs- und Plastik-) Müll zu vermeiden.<br\/>Unsere Produkte stehen ja nicht in Supermärkten oder Drogerie-Märkten, wo der Kunde die Informationen über ein Produkt auf der Verpackung lesen können muss. Unsere Kunden informieren sich über die Produkte, die sie kaufen, in unserem Shop! Das ermöglicht es uns auch, sparsam bei der Etikettierung zu sein. Unsere Kunden kaufen unsere Produkte, weil sie sie in unserem Shop (erstmals) gefunden haben und sie interessieren sich für ein Produkt wegen der Informationen in der Artikelbeschreibung.<\/p>"
+          }
+        },
+        "text_Dgw6bT": {
+          "type": "text",
+          "settings": {
+            "title": "KONSEQUENTE WIEDERVERWENDUNG BENUTZTER KARTONS",
+            "text": "<p>Wundern Sie sich also nicht, wenn auf einem Päckchen, das Sie von uns erhalten, Werbung von amazon oder irgendeiner anderen Firma zu sehen ist. Wir erhalten selbstverständlich zahllose Pakete und wir fänden es eine unnötige Verschwendung - nur für das Image, diese Kartons wegzuwerfen, nur, weil sie nicht unser Logo tragen. Wir verwenden sie weiter! Wir senden Ihnen auch in bereits einmal gebrauchten Kartons unsere Ware. <strong>Auf den Inhalt kommt es an! <\/strong>Das ist unser Motto.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "f58ac740-bb9f-42d4-bf28-e224a9c7a5c5",
+        "b96dcb38-c4f5-4701-a393-c492aabf73f0",
+        "text_HDNKMr",
+        "text_Dgw6bT"
+      ],
+      "settings": {
+        "footer_bg": "#d1d1d1",
+        "footer_style": "dark",
+        "footer_heading_color": false,
+        "show_payment_icons": false,
+        "divider": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true
+      }
+    }
+  },
+  "order": [
+    "section_newsletter_mXkRgF",
+    "footer"
+  ]
+}

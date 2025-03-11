@@ -1,0 +1,76 @@
+{%- assign page = pages[block.settings.page] -%}
+{% if page != blank %}
+  <div class="o-layout__item u-1/1 u-{{ block.settings.width }}@tab" {{ block.shopify_attributes }}>
+    <div
+      class="custom-content__item custom-content__item--page"
+      {{ block.shopify_attributes }}
+    >
+      <div class="custom-content__item-content custom-content__item-content--page">
+        {% if block.settings.page_title %}
+          <div
+            class="section__title section__title--desc section__title--center js-animate-single"
+            data-animation-displacement="5"
+          >
+            <h2 class="section__title-text">{{ page.title }}</h2>
+          </div>
+        {% endif %}
+        <div class="custom-content__item-text rte">
+          {{ page.content }}
+        </div>
+      </div>
+    </div>
+  </div>
+{% endif %}
+
+{% schema %}
+{
+  "name": "Page",
+  "tag": null,
+  "settings": [
+    {
+      "type": "page",
+      "id": "page",
+      "label": "Page"
+    },
+    {
+      "type": "checkbox",
+      "id": "page_title",
+      "label": "Show title",
+      "default": true
+    },
+    {
+      "type": "select",
+      "id": "width",
+      "label": "Width",
+      "default": "1/2",
+      "options": [
+        {
+          "label": "Full width",
+          "value": "1/1"
+        },
+        {
+          "label": "One half",
+          "value": "1/2"
+        },
+        {
+          "label": "One third",
+          "value": "1/3"
+        },
+        {
+          "label": "One fourth",
+          "value": "1/4"
+        },
+        {
+          "label": "Two thirds",
+          "value": "2/3"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Page"
+    }
+  ]
+}
+{% endschema %}
